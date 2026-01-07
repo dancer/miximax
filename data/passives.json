@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "custom-1",
+    "number": 1,
+    "type": "custom",
+    "description": "For players of the same element - Shot AT 1%",
+    "stat": "Shot AT",
+    "value": "1%"
+  },
+  {
+    "id": "custom-2",
+    "number": 2,
+    "type": "custom",
+    "description": "For players of the same element - Focus AT & DF 1%",
+    "stat": "Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-3",
+    "number": 3,
+    "type": "custom",
+    "description": "For players of the same element - Scramble AT & DF 1.5%",
+    "stat": "Scramble AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-4",
+    "number": 4,
+    "type": "custom",
+    "description": "For players of the same element - Castle Wall DF 1%",
+    "stat": "Castle Wall DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-5",
+    "number": 5,
+    "type": "custom",
+    "description": "For players of different elements - Shot AT 1%",
+    "stat": "Shot AT",
+    "value": "1%"
+  },
+  {
+    "id": "custom-6",
+    "number": 6,
+    "type": "custom",
+    "description": "For players of different elements - Focus AT & DF 1%",
+    "stat": "Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-7",
+    "number": 7,
+    "type": "custom",
+    "description": "For players of different elements - Scramble AT & DF 1.5%",
+    "stat": "Scramble AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-8",
+    "number": 8,
+    "type": "custom",
+    "description": "For players of different elements - Castle Wall DF 1%",
+    "stat": "Castle Wall DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-9",
+    "number": 9,
+    "type": "custom",
+    "description": "For players of the same position - Shot AT 1%",
+    "stat": "Shot AT",
+    "value": "1%"
+  },
+  {
+    "id": "custom-10",
+    "number": 10,
+    "type": "custom",
+    "description": "For players of the same position - Focus AT & DF 1%",
+    "stat": "Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-11",
+    "number": 11,
+    "type": "custom",
+    "description": "For players of the same position - Scramble AT & DF 1.5%",
+    "stat": "Scramble AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-12",
+    "number": 12,
+    "type": "custom",
+    "description": "For players of different positions - Focus AT & DF 1.5%",
+    "stat": "Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-13",
+    "number": 13,
+    "type": "custom",
+    "description": "For players of different positions - Scramble AT & DF 1.5%",
+    "stat": "Scramble AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-14",
+    "number": 14,
+    "type": "custom",
+    "description": "For players of different positions - Castle Wall DF 1%",
+    "stat": "Castle Wall DF",
+    "value": "1%"
+  },
+  {
+    "id": "custom-15",
+    "number": 15,
+    "type": "custom",
+    "description": "For nearby players - Shot AT 1.5%",
+    "stat": "Shot AT",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-16",
+    "number": 16,
+    "type": "custom",
+    "description": "For nearby players - Focus AT & DF 1.5%",
+    "stat": "Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-17",
+    "number": 17,
+    "type": "custom",
+    "description": "For nearby players - Scramble AT & DF 2%",
+    "stat": "Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "custom-18",
+    "number": 18,
+    "type": "custom",
+    "description": "For nearby players - Castle Wall DF 1.5%",
+    "stat": "Castle Wall DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-19",
+    "number": 19,
+    "type": "custom",
+    "description": "When a player of the same element is nearby - Own Shot AT 1.5%",
+    "stat": "Own Shot AT",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-20",
+    "number": 20,
+    "type": "custom",
+    "description": "When a player of the same element is nearby - Own Focus AT & DF 1.5%",
+    "stat": "Own Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-21",
+    "number": 21,
+    "type": "custom",
+    "description": "When a player of the same element is nearby - Own Scramble AT & DF 2%",
+    "stat": "Own Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "custom-22",
+    "number": 22,
+    "type": "custom",
+    "description": "When a player of the same element is nearby - Own Castle Wall 1.5%",
+    "stat": "Own Castle Wall",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-23",
+    "number": 23,
+    "type": "custom",
+    "description": "When a player of a different element is nearby - Own Shot AT 1.5%",
+    "stat": "Own Shot AT",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-24",
+    "number": 24,
+    "type": "custom",
+    "description": "When a player of a different element is nearby - Own Focus AT & DF 1.5%",
+    "stat": "Own Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-25",
+    "number": 25,
+    "type": "custom",
+    "description": "When a player of a different element is nearby - Own Castle Wall 1.5%",
+    "stat": "Own Castle Wall",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-26",
+    "number": 26,
+    "type": "custom",
+    "description": "On your half of the pitch - Own Focus AT & DF 1.5%",
+    "stat": "Own Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-27",
+    "number": 27,
+    "type": "custom",
+    "description": "On your half of the pitch - Own Scramble AT & DF 2%",
+    "stat": "Own Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "custom-28",
+    "number": 28,
+    "type": "custom",
+    "description": "On your half of the pitch - Team Focus AT & DF 0.5%",
+    "stat": "Team Focus AT & DF",
+    "value": "0.5%"
+  },
+  {
+    "id": "custom-29",
+    "number": 29,
+    "type": "custom",
+    "description": "On the opposition's half of the pitch - Own Shot AT 1.5%",
+    "stat": "Own Shot AT",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-30",
+    "number": 30,
+    "type": "custom",
+    "description": "On the opposition's half of the pitch - Own Focus AT & DF 1.5%",
+    "stat": "Own Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-31",
+    "number": 31,
+    "type": "custom",
+    "description": "On the opposition's half of the pitch - Own Scramble AT & DF 2%",
+    "stat": "Own Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "custom-32",
+    "number": 32,
+    "type": "custom",
+    "description": "On the opposition's half of the pitch - Team Focus AT & DF 0.5%",
+    "stat": "Team Focus AT & DF",
+    "value": "0.5%"
+  },
+  {
+    "id": "custom-33",
+    "number": 33,
+    "type": "custom",
+    "description": "When outside the zone - Own Focus AT & DF 1.5%",
+    "stat": "Own Focus AT & DF",
+    "value": "1.5%"
+  },
+  {
+    "id": "custom-34",
+    "number": 34,
+    "type": "custom",
+    "description": "When outside the zone - Own Scramble AT & DF 2%",
+    "stat": "Own Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "custom-35",
+    "number": 35,
+    "type": "custom",
+    "description": "When outside the zone - Team Focus AT & DF 0.5%",
+    "stat": "Team Focus AT & DF",
+    "value": "0.5%"
+  },
+  {
+    "id": "custom-36",
+    "number": 36,
+    "type": "custom",
+    "description": " - Common Item Drop 10%",
+    "stat": "Common Item Drop",
+    "value": "10%"
+  },
+  {
+    "id": "custom-37",
+    "number": 37,
+    "type": "custom",
+    "description": " - Rare Item Drop 5%",
+    "stat": "Rare Item Drop",
+    "value": "5%"
+  },
+  {
+    "id": "player-1",
+    "number": 1,
+    "type": "player",
+    "description": "- For players of the same element Shot AT",
+    "stat": "For players of the same element",
+    "value": "Shot AT"
+  },
+  {
+    "id": "player-2",
+    "number": 2,
+    "type": "player",
+    "description": "- For players of the same element Focus AT & DF",
+    "stat": "For players of the same element",
+    "value": "Focus AT & DF"
+  },
+  {
+    "id": "player-3",
+    "number": 3,
+    "type": "player",
+    "description": "- For players of the same element Scramble AT & DF",
+    "stat": "For players of the same element",
+    "value": "Scramble AT & DF"
+  },
+  {
+    "id": "player-4",
+    "number": 4,
+    "type": "player",
+    "description": "- For players of the same element Castle Wall DF",
+    "stat": "For players of the same element",
+    "value": "Castle Wall DF"
+  },
+  {
+    "id": "player-5",
+    "number": 5,
+    "type": "player",
+    "description": "- For players of different elements Shot AT",
+    "stat": "For players of different elements",
+    "value": "Shot AT"
+  },
+  {
+    "id": "player-6",
+    "number": 6,
+    "type": "player",
+    "description": "- For players of different elements Focus AT & DF",
+    "stat": "For players of different elements",
+    "value": "Focus AT & DF"
+  },
+  {
+    "id": "player-7",
+    "number": 7,
+    "type": "player",
+    "description": "- For players of different elements Scramble AT & DF",
+    "stat": "For players of different elements",
+    "value": "Scramble AT & DF"
+  },
+  {
+    "id": "player-8",
+    "number": 8,
+    "type": "player",
+    "description": "- For players of different elements Castle Wall DF",
+    "stat": "For players of different elements",
+    "value": "Castle Wall DF"
+  },
+  {
+    "id": "player-9",
+    "number": 9,
+    "type": "player",
+    "description": "- For players of the same positions Shot AT",
+    "stat": "For players of the same positions",
+    "value": "Shot AT"
+  },
+  {
+    "id": "player-10",
+    "number": 10,
+    "type": "player",
+    "description": "- For players of the same positions Team Focus AT & DF",
+    "stat": "For players of the same positions",
+    "value": "Team Focus AT & DF"
+  },
+  {
+    "id": "player-11",
+    "number": 11,
+    "type": "player",
+    "description": "- For players of the same positions Scramble AT & DF",
+    "stat": "For players of the same positions",
+    "value": "Scramble AT & DF"
+  },
+  {
+    "id": "player-14",
+    "number": 14,
+    "type": "player",
+    "description": "- For players of different positions Focus AT & DF",
+    "stat": "For players of different positions",
+    "value": "Focus AT & DF"
+  },
+  {
+    "id": "player-15",
+    "number": 15,
+    "type": "player",
+    "description": "- For players of different positions Scramble AT & DF",
+    "stat": "For players of different positions",
+    "value": "Scramble AT & DF"
+  },
+  {
+    "id": "player-16",
+    "number": 16,
+    "type": "player",
+    "description": "- For players of different positions Castle Wall DF",
+    "stat": "For players of different positions",
+    "value": "Castle Wall DF"
+  },
+  {
+    "id": "player-17",
+    "number": 17,
+    "type": "player",
+    "description": "- For nearby players Shot AT",
+    "stat": "For nearby players",
+    "value": "Shot AT"
+  },
+  {
+    "id": "player-18",
+    "number": 18,
+    "type": "player",
+    "description": "- For nearby players Focus AT & DF",
+    "stat": "For nearby players",
+    "value": "Focus AT & DF"
+  },
+  {
+    "id": "player-19",
+    "number": 19,
+    "type": "player",
+    "description": "- For nearby players Scramble AT & DF",
+    "stat": "For nearby players",
+    "value": "Scramble AT & DF"
+  },
+  {
+    "id": "player-20",
+    "number": 20,
+    "type": "player",
+    "description": "- For nearby players Castle Wall DF",
+    "stat": "For nearby players",
+    "value": "Castle Wall DF"
+  },
+  {
+    "id": "player-21",
+    "number": 21,
+    "type": "player",
+    "description": "- When a player of the same element is nearby Own Shot AT",
+    "stat": "When a player of the same element is nearby",
+    "value": "Own Shot AT"
+  },
+  {
+    "id": "player-22",
+    "number": 22,
+    "type": "player",
+    "description": "- When a player of the same element is nearby Own Focus AT & DF",
+    "stat": "When a player of the same element is nearby",
+    "value": "Own Focus AT & DF"
+  },
+  {
+    "id": "player-23",
+    "number": 23,
+    "type": "player",
+    "description": "- When a player of the same element is nearby Own Scramble AT & DF",
+    "stat": "When a player of the same element is nearby",
+    "value": "Own Scramble AT & DF"
+  },
+  {
+    "id": "player-24",
+    "number": 24,
+    "type": "player",
+    "description": "- When a player of the same element is nearby Own Castle Wall DF",
+    "stat": "When a player of the same element is nearby",
+    "value": "Own Castle Wall DF"
+  },
+  {
+    "id": "player-25",
+    "number": 25,
+    "type": "player",
+    "description": "- When a player of a different element is nearby Own Shot AT",
+    "stat": "When a player of a different element is nearby",
+    "value": "Own Shot AT"
+  },
+  {
+    "id": "player-26",
+    "number": 26,
+    "type": "player",
+    "description": "- When a player of a different element is nearby Own Focus AT & DF",
+    "stat": "When a player of a different element is nearby",
+    "value": "Own Focus AT & DF"
+  },
+  {
+    "id": "player-27",
+    "number": 27,
+    "type": "player",
+    "description": "- When a player of a different element is nearby Own Castle Wall DF",
+    "stat": "When a player of a different element is nearby",
+    "value": "Own Castle Wall DF"
+  },
+  {
+    "id": "player-28",
+    "number": 28,
+    "type": "player",
+    "description": "- On your half of the pitch Own Focus AT & DF",
+    "stat": "On your half of the pitch",
+    "value": "Own Focus AT & DF"
+  },
+  {
+    "id": "player-29",
+    "number": 29,
+    "type": "player",
+    "description": "- On your half of the pitch Own Scramble AT & DF",
+    "stat": "On your half of the pitch",
+    "value": "Own Scramble AT & DF"
+  },
+  {
+    "id": "player-30",
+    "number": 30,
+    "type": "player",
+    "description": "- On your half of the pitch Team Focus AT & DF",
+    "stat": "On your half of the pitch",
+    "value": "Team Focus AT & DF"
+  },
+  {
+    "id": "player-31",
+    "number": 31,
+    "type": "player",
+    "description": "- On the opposition's half of the pitch Own Shot AT",
+    "stat": "On the opposition's half of the pitch",
+    "value": "Own Shot AT"
+  },
+  {
+    "id": "player-32",
+    "number": 32,
+    "type": "player",
+    "description": "- On the opposition's half of the pitch Own Focus AT & DF",
+    "stat": "On the opposition's half of the pitch",
+    "value": "Own Focus AT & DF"
+  },
+  {
+    "id": "player-33",
+    "number": 33,
+    "type": "player",
+    "description": "- On the opposition's half of the pitch Own Scramble AT & DF",
+    "stat": "On the opposition's half of the pitch",
+    "value": "Own Scramble AT & DF"
+  },
+  {
+    "id": "player-34",
+    "number": 34,
+    "type": "player",
+    "description": "- On the opposition's half of the pitch Team Focus AT & DF",
+    "stat": "On the opposition's half of the pitch",
+    "value": "Team Focus AT & DF"
+  },
+  {
+    "id": "player-35",
+    "number": 35,
+    "type": "player",
+    "description": "- When outside the zone Own Focus AT & DF",
+    "stat": "When outside the zone",
+    "value": "Own Focus AT & DF"
+  },
+  {
+    "id": "player-36",
+    "number": 36,
+    "type": "player",
+    "description": "- When outside the zone Own Scramble AT & DF",
+    "stat": "When outside the zone",
+    "value": "Own Scramble AT & DF"
+  },
+  {
+    "id": "player-37",
+    "number": 37,
+    "type": "player",
+    "description": "- When outside the zone Team Focus AT & DF",
+    "stat": "When outside the zone",
+    "value": "Team Focus AT & DF"
+  },
+  {
+    "id": "player-40",
+    "number": 40,
+    "type": "player",
+    "description": "Breach - Non-Conditional Team Breach Rate",
+    "stat": "Non-Conditional",
+    "value": "Team Breach Rate"
+  },
+  {
+    "id": "player-41",
+    "number": 41,
+    "type": "player",
+    "description": "Breach - When tied or behind in goals Team Breach Rate",
+    "stat": "When tied or behind in goals",
+    "value": "Team Breach Rate"
+  },
+  {
+    "id": "player-42",
+    "number": 42,
+    "type": "player",
+    "description": "Breach - When at +15% or higher Breach Rate Team Castle Wall Pierce Rate",
+    "stat": "When at +15% or higher Breach Rate",
+    "value": "Team Castle Wall Pierce Rate"
+  },
+  {
+    "id": "player-43",
+    "number": 43,
+    "type": "player",
+    "description": "Breach - Non-Conditional Team Tension Breach Cost",
+    "stat": "Non-Conditional",
+    "value": "Team Tension Breach Cost"
+  },
+  {
+    "id": "player-44",
+    "number": 44,
+    "type": "player",
+    "description": "Tension - When opposition passes the ball out during Focus Battle Drain Tension",
+    "stat": "When opposition passes the ball out during Focus Battle",
+    "value": "Drain Tension"
+  },
+  {
+    "id": "player-45",
+    "number": 45,
+    "type": "player",
+    "description": "Tension - When winning a Focus or Scramble Battle Team Tension",
+    "stat": "When winning a Focus or Scramble Battle",
+    "value": "Team Tension"
+  },
+  {
+    "id": "player-46",
+    "number": 46,
+    "type": "player",
+    "description": "Tension - When at 50% or higher tension Team Focus AT & DF",
+    "stat": "When at 50% or higher tension",
+    "value": "Team Focus AT & DF"
+  },
+  {
+    "id": "player-47",
+    "number": 47,
+    "type": "player",
+    "description": "Tension - When at 100% Tension Team Shot AT",
+    "stat": "When at 100% Tension",
+    "value": "Team Shot AT"
+  },
+  {
+    "id": "player-48",
+    "number": 48,
+    "type": "player",
+    "description": "Counter - On gaining possession (excluding catches) (15s) Team Shot AT",
+    "stat": "On gaining possession (excluding catches) (15s)",
+    "value": "Team Shot AT"
+  },
+  {
+    "id": "player-49",
+    "number": 49,
+    "type": "player",
+    "description": "Counter - On gaining possession (excluding catches) (15s) [MF] Focus AT & DF",
+    "stat": "On gaining possession (excluding catches) (15s)",
+    "value": "[MF] Focus AT & DF"
+  },
+  {
+    "id": "player-50",
+    "number": 50,
+    "type": "player",
+    "description": "Counter - On gaining possession (excluding catches) (15s) [DF] Focus AT & DF",
+    "stat": "On gaining possession (excluding catches) (15s)",
+    "value": "[DF] Focus AT & DF"
+  },
+  {
+    "id": "player-51",
+    "number": 51,
+    "type": "player",
+    "description": "Counter - On gaining possession (excluding catches) (15s) [KP] KP",
+    "stat": "On gaining possession (excluding catches) (15s)",
+    "value": "[KP] KP"
+  },
+  {
+    "id": "player-52",
+    "number": 52,
+    "type": "player",
+    "description": "Counter - On gaining possession (excluding catches) (15s) Team Rough Attack AT & DF",
+    "stat": "On gaining possession (excluding catches) (15s)",
+    "value": "Team Rough Attack AT & DF"
+  },
+  {
+    "id": "player-53",
+    "number": 53,
+    "type": "player",
+    "description": "Bond - When making a pass Team Bond Power",
+    "stat": "When making a pass",
+    "value": "Team Bond Power"
+  },
+  {
+    "id": "player-54",
+    "number": 54,
+    "type": "player",
+    "description": "Bond - When at 20% of more Bond Power Team Scramble AT & DF",
+    "stat": "When at 20% of more Bond Power",
+    "value": "Team Scramble AT & DF"
+  },
+  {
+    "id": "player-55",
+    "number": 55,
+    "type": "player",
+    "description": "Bond - When at 20% of more Bond Power Team Direct Shot AT",
+    "stat": "When at 20% of more Bond Power",
+    "value": "Team Direct Shot AT"
+  },
+  {
+    "id": "player-56",
+    "number": 56,
+    "type": "player",
+    "description": "Bond - When losing a Scramble Team Bond Power Loss",
+    "stat": "When losing a Scramble",
+    "value": "Team Bond Power Loss"
+  },
+  {
+    "id": "player-57",
+    "number": 57,
+    "type": "player",
+    "description": "Rough Play - Non-Conditional Team Dash Foul Rate",
+    "stat": "Non-Conditional",
+    "value": "Team Dash Foul Rate"
+  },
+  {
+    "id": "player-58",
+    "number": 58,
+    "type": "player",
+    "description": "Rough Play - When outside the zone Team Foul Rate",
+    "stat": "When outside the zone",
+    "value": "Team Foul Rate"
+  },
+  {
+    "id": "player-59",
+    "number": 59,
+    "type": "player",
+    "description": "Rough Play - On Dash knockback Team Tension",
+    "stat": "On Dash knockback",
+    "value": "Team Tension"
+  },
+  {
+    "id": "player-60",
+    "number": 60,
+    "type": "player",
+    "description": "Rough Play - On Dash knockback Team Rough Attack AT & DF",
+    "stat": "On Dash knockback",
+    "value": "Team Rough Attack AT & DF"
+  },
+  {
+    "id": "player-61",
+    "number": 61,
+    "type": "player",
+    "description": "Justice - On Dash knockback Team Bond Power",
+    "stat": "On Dash knockback",
+    "value": "Team Bond Power"
+  },
+  {
+    "id": "player-62",
+    "number": 62,
+    "type": "player",
+    "description": "Justice - When the opposition commits a foul Team Bond Power",
+    "stat": "When the opposition commits a foul",
+    "value": "Team Bond Power"
+  },
+  {
+    "id": "player-63",
+    "number": 63,
+    "type": "player",
+    "description": "Justice - Until you incur a foul Team Castle Wall DF",
+    "stat": "Until you incur a foul",
+    "value": "Team Castle Wall DF"
+  },
+  {
+    "id": "player-64",
+    "number": 64,
+    "type": "player",
+    "description": "Justice - Until you incur a foul Team AT & DF",
+    "stat": "Until you incur a foul",
+    "value": "Team AT & DF"
+  },
+  {
+    "id": "coordinator-41",
+    "number": 41,
+    "type": "coordinator",
+    "description": "For players of the same element - Shot AT 1%",
+    "stat": "Shot AT",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-45",
+    "number": 45,
+    "type": "coordinator",
+    "description": "For players of different elements - Shot AT 1%",
+    "stat": "Shot AT",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-50",
+    "number": 50,
+    "type": "coordinator",
+    "description": "On the opposition's half of the pitch - Team Focus AT & DF 1%",
+    "stat": "Team Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-61",
+    "number": 61,
+    "type": "coordinator",
+    "description": "When winning a Focus or Scramble Battle - Team Tension 6%",
+    "stat": "Team Tension",
+    "value": "6%"
+  },
+  {
+    "id": "coordinator-63",
+    "number": 63,
+    "type": "coordinator",
+    "description": "When at 100% Tension - Team Shot AT 6%",
+    "stat": "Team Shot AT",
+    "value": "6%"
+  },
+  {
+    "id": "coordinator-43",
+    "number": 43,
+    "type": "coordinator",
+    "description": "For players of the same element - Scramble AT & DF 2%",
+    "stat": "Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-47",
+    "number": 47,
+    "type": "coordinator",
+    "description": "For players of different elements - Scramble AT & DF 2%",
+    "stat": "Scramble AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-49",
+    "number": 49,
+    "type": "coordinator",
+    "description": "On your half of the pitch - Team Focus AT & DF 1%",
+    "stat": "Team Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-69",
+    "number": 69,
+    "type": "coordinator",
+    "description": "When making a pass - Team Bond Power 6%",
+    "stat": "Team Bond Power",
+    "value": "6%"
+  },
+  {
+    "id": "coordinator-70",
+    "number": 70,
+    "type": "coordinator",
+    "description": "When at 20% or more Bond Power - Team Scramble AT & DF 10%",
+    "stat": "Team Scramble AT & DF",
+    "value": "10%"
+  },
+  {
+    "id": "coordinator-55",
+    "number": 55,
+    "type": "coordinator",
+    "description": "For the first half - Team AT 2%",
+    "stat": "Team AT",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-71",
+    "number": 71,
+    "type": "coordinator",
+    "description": "When at 20% or more Bond Power - Team Direct Shot AT 4%",
+    "stat": "Team Direct Shot AT",
+    "value": "4%"
+  },
+  {
+    "id": "coordinator-42",
+    "number": 42,
+    "type": "coordinator",
+    "description": "For players of the same element - Focus AT & DF 1%",
+    "stat": "Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-46",
+    "number": 46,
+    "type": "coordinator",
+    "description": "For players of different elements - Focus AT & DF 1%",
+    "stat": "Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-68",
+    "number": 68,
+    "type": "coordinator",
+    "description": "On gaining posession(excluding catches) - Team Rough Attack AT & DF 6% (15s)",
+    "stat": "Team Rough Attack AT & DF",
+    "value": "6% (15s)"
+  },
+  {
+    "id": "coordinator-65",
+    "number": 65,
+    "type": "coordinator",
+    "description": "On gaining posession(excluding catches) - [MF] Focus AT & DF 2% (15s)",
+    "stat": "[MF] Focus AT & DF",
+    "value": "2% (15s)"
+  },
+  {
+    "id": "coordinator-44",
+    "number": 44,
+    "type": "coordinator",
+    "description": "For players of the same element - Castle Wall DF 1%",
+    "stat": "Castle Wall DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-48",
+    "number": 48,
+    "type": "coordinator",
+    "description": "For players of different elements - Castle Wall DF 1%",
+    "stat": "Castle Wall DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-54",
+    "number": 54,
+    "type": "coordinator",
+    "description": "Non-Conditional - Own Special Tactics Cooldown -3%",
+    "stat": "Own Special Tactics Cooldown",
+    "value": "-3%"
+  },
+  {
+    "id": "coordinator-77",
+    "number": 77,
+    "type": "coordinator",
+    "description": "On Dash knockback - Team Bond Power 9%",
+    "stat": "Team Bond Power",
+    "value": "9%"
+  },
+  {
+    "id": "coordinator-79",
+    "number": 79,
+    "type": "coordinator",
+    "description": "Until you incur a foul - Team Castle Wall DF 2%",
+    "stat": "Team Castle Wall DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-53",
+    "number": 53,
+    "type": "coordinator",
+    "description": "Upon being subbed in - [Substitute Player] DF 8% (15s)",
+    "stat": "[Substitute Player] DF",
+    "value": "8% (15s)"
+  },
+  {
+    "id": "coordinator-59",
+    "number": 59,
+    "type": "coordinator",
+    "description": "When at 15% of higher Breach Rate - Team Castle Wall Pierce Rate 4%",
+    "stat": "Team Castle Wall Pierce Rate",
+    "value": "4%"
+  },
+  {
+    "id": "coordinator-60",
+    "number": 60,
+    "type": "coordinator",
+    "description": "Non-Conditional - Team Tension Breach Cost -4%",
+    "stat": "Team Tension Breach Cost",
+    "value": "-4%"
+  },
+  {
+    "id": "coordinator-67",
+    "number": 67,
+    "type": "coordinator",
+    "description": "On gaining posession(excluding catches) - [KP] KP 5% (15s)",
+    "stat": "[KP] KP",
+    "value": "5% (15s)"
+  },
+  {
+    "id": "coordinator-66",
+    "number": 66,
+    "type": "coordinator",
+    "description": "On gaining posession(excluding catches) - [DF] Focus AT & DF 2% (15s)",
+    "stat": "[DF] Focus AT & DF",
+    "value": "2% (15s)"
+  },
+  {
+    "id": "coordinator-52",
+    "number": 52,
+    "type": "coordinator",
+    "description": "Upon being subbed in - [Substitute Player] AT 8% (15s)",
+    "stat": "[Substitute Player] AT",
+    "value": "8% (15s)"
+  },
+  {
+    "id": "coordinator-57",
+    "number": 57,
+    "type": "coordinator",
+    "description": "Non-Conditional - Team Breach Rate 2%",
+    "stat": "Team Breach Rate",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-58",
+    "number": 58,
+    "type": "coordinator",
+    "description": "When tied or behind in goals - Team Breach Rate 3%",
+    "stat": "Team Breach Rate",
+    "value": "3%"
+  },
+  {
+    "id": "coordinator-64",
+    "number": 64,
+    "type": "coordinator",
+    "description": "On gaining posession(excluding catches) - Team Shot AT 4% (15s)",
+    "stat": "Team Shot AT",
+    "value": "4% (15s)"
+  },
+  {
+    "id": "coordinator-51",
+    "number": 51,
+    "type": "coordinator",
+    "description": "When outside the zone - Team Focus AT & DF 1%",
+    "stat": "Team Focus AT & DF",
+    "value": "1%"
+  },
+  {
+    "id": "coordinator-74",
+    "number": 74,
+    "type": "coordinator",
+    "description": "When outside the zone - Team Foul Rate -3%",
+    "stat": "Team Foul Rate",
+    "value": "-3%"
+  },
+  {
+    "id": "coordinator-75",
+    "number": 75,
+    "type": "coordinator",
+    "description": "On Dash knockback - Team Tension 2%",
+    "stat": "Team Tension",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-62",
+    "number": 62,
+    "type": "coordinator",
+    "description": "When at 50% of higher Tension - Team Focus AT & DF 2%",
+    "stat": "Team Focus AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-80",
+    "number": 80,
+    "type": "coordinator",
+    "description": "Until you incur a foul - Team AT & DF 2%",
+    "stat": "Team AT & DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-78",
+    "number": 78,
+    "type": "coordinator",
+    "description": "When the opposition commits a foul - Team Bond Power 8%",
+    "stat": "Team Bond Power",
+    "value": "8%"
+  },
+  {
+    "id": "coordinator-72",
+    "number": 72,
+    "type": "coordinator",
+    "description": "When losing a Scramble - Team Bond Power Loss -10% (10s)",
+    "stat": "Team Bond Power Loss",
+    "value": "-10% (10s)"
+  },
+  {
+    "id": "coordinator-56",
+    "number": 56,
+    "type": "coordinator",
+    "description": "For the second half - Team DF 2%",
+    "stat": "Team DF",
+    "value": "2%"
+  },
+  {
+    "id": "coordinator-73",
+    "number": 73,
+    "type": "coordinator",
+    "description": "Non-Conditional - Team Dash Foul Rate -9%",
+    "stat": "Team Dash Foul Rate",
+    "value": "-9%"
+  },
+  {
+    "id": "coordinator-76",
+    "number": 76,
+    "type": "coordinator",
+    "description": "On Dash knockback - Team Rough Attack AT & DF 15%",
+    "stat": "Team Rough Attack AT & DF",
+    "value": "15%"
+  }
+]

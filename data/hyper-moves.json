@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "name": "Burning Overdrive",
+    "type": "Awakening",
+    "element": "",
+    "passive": "Own AT/DF +30%\nShot AT +20%\nFocus AT/DF +20%\nMovement Speed Increase",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 2,
+    "name": "Keeper's Grit",
+    "type": "Awakening",
+    "element": "",
+    "passive": "Own AT/DF +40%\nFinal KP +20% (?)",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 3,
+    "name": "Ironclad Guadian",
+    "type": "Awakening",
+    "element": "",
+    "passive": "Own AT +30%\nOwn DF +50%\nOwn Castle Wall DF +30%\nMovement Speed Increase (?)",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 4,
+    "name": "Elemental Catalyst",
+    "type": "Awakening",
+    "element": "",
+    "passive": "Own AT/DF +30%\nOwn Focus AT/DF +20%\nElemental Advantage Effectiveness +20%\nMovement Speed Increase",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 5,
+    "name": "Instant Burst",
+    "type": "Awakening",
+    "element": "",
+    "passive": "Own AT/DF +30%\nFocus AT/DF +20%\nReduce hissatsu cooldowns by 50%\nMassive Movement Speed Increase",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 6,
+    "name": "Standard Bearer Brynhildr",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For nearby players, Castle Wall DF +10%",
+    "hissatsuName": "Valkyrie's Signal",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 7,
+    "name": "Defender of Earth Atlas",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Save rate +5%",
+    "hissatsuName": "Majin the Hand",
+    "hissatsuType": "Keep",
+    "power": 85
+  },
+  {
+    "id": 8,
+    "name": "Winged Steed Pegasus",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "When making a pass, Team Bond Power +50%",
+    "hissatsuName": "Pegasus Bolt",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 9,
+    "name": "Master Conductor Maestro",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "When a player of the same element is nearby, Own Focus AT & DF +10%",
+    "hissatsuName": "Atomic Harmonic",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 10,
+    "name": "Heroic Swordsman Lancelot",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When a player of a different element is nearby, Own Shot AT +10%",
+    "hissatsuName": "Lancelot Lunge",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 11,
+    "name": "Brave Samurai Musashi",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "On the opposition half of the pitch, Own Shot AT +10%",
+    "hissatsuName": "Bushin Blades",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 12,
+    "name": "Thin Air Slasher Sickle Weasel",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On your half of the pitch, Own Scramble AT & DF +20%",
+    "hissatsuName": "Air Cut",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 13,
+    "name": "Supernatural Wingman Thunderbird",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "For players of the same element, Scramble AT & DF +10%",
+    "hissatsuName": "Thunderclaw",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 14,
+    "name": "Tin Titan Goliath",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "Save rate +5%",
+    "hissatsuName": "Titanic Shield",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 15,
+    "name": "Master Magician Trickster",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "Team Breach Rate +10%",
+    "hissatsuName": "Magician's Box",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 16,
+    "name": "Drake Chevalier Dragoon",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On your half of the pitch, Own Focus AT & DF +20%",
+    "hissatsuName": "Dragon Storm",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 17,
+    "name": "Raven Wings Corvus",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Team Dash Foul Rate -15%",
+    "hissatsuName": "Roc and Roll",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 18,
+    "name": "Front-Line Fighter, White Pawn",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "For players of the same element, Castle Wall DF +10%",
+    "hissatsuName": "Rat-a-Tat Pass",
+    "hissatsuType": "Offense",
+    "power": 85
+  },
+  {
+    "id": 19,
+    "name": "Hypersonic Fighter Scramjet",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On the opposition's half of the pitch, Own Scramble AT & DF +15%",
+    "hissatsuName": "Hyperdrive",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 20,
+    "name": "Ruler of the Seven Seas Poseidon",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On the opposition half of the pitch, Own Shot AT +10%",
+    "hissatsuName": "Trident Torpedo",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 21,
+    "name": "Giant Usurper Gigante",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "When winning a Focus or Scramble Battle, Team Tension +10%",
+    "hissatsuName": "Giga Knuckle Sandwich",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 22,
+    "name": "Snow Nymph Chione",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "When a player of the same element is nearby, Own Shot AT +20%",
+    "hissatsuName": "Icicle Road",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 23,
+    "name": "Metal Mammoth Behemoth",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Save rate +5%",
+    "hissatsuName": "Titanic Shield",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 24,
+    "name": "Armoured Cavalry White Knight",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "For players of different elements, Focus AT & DF +10%",
+    "hissatsuName": "Destrier Charge",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 25,
+    "name": "Man-Made Monster Plasma Shadow DF",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On your half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Shadow Guard",
+    "hissatsuType": "Defense",
+    "power": 85
+  },
+  {
+    "id": 26,
+    "name": "Dicey Dicer Lot",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "When winning a Focus or Scramble Battle, Team Tension +10%",
+    "hissatsuName": "Lucky Dice",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 27,
+    "name": "Living Nightmare Phantasma",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For nearby players, Focus AT & DF +10%",
+    "hissatsuName": "Black Briars",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 28,
+    "name": "Gigantic Garrison Gargantua",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "When making a pass, Team Bond Power +50%",
+    "hissatsuName": "Giga Knuckle Sandwich",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 29,
+    "name": "Sun Deity Apollo",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "For players of the same position, Shot AT +10%",
+    "hissatsuName": "Solar Flare",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 30,
+    "name": "Lord of All Waters Neptune",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On the opposition's half of the pitch, Own Focus AT & DF +15%",
+    "hissatsuName": "Trident Torpedo",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 31,
+    "name": "Fire Jotun Surtr",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When a player of the same element is nearby, Own Shot AT +20%",
+    "hissatsuName": "Fireball Storm",
+    "hissatsuType": "Shoot",
+    "power": 70
+  },
+  {
+    "id": 32,
+    "name": "Wise Monarch White King",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When winning a Focus or Scramble Battle, Team Tension +10%",
+    "hissatsuName": "Crown Fire",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 33,
+    "name": "Royal Enchantress White Queen",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "On your half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Checkmate",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 34,
+    "name": "Watchtower Sentinel White Rook",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "When a player of the same element is nearby, Own Castle Wall DF +20%",
+    "hissatsuName": "Titanic Slam",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 35,
+    "name": "Divine Messenger White Bishop",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For nearby players, Scramble AT & DF +10%",
+    "hissatsuName": "Dark Space",
+    "hissatsuType": "Defense",
+    "power": 85
+  },
+  {
+    "id": 36,
+    "name": "Dark Demigod Black Butcher",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For players of the same position, Shot AT +10%",
+    "hissatsuName": "Executioner's Axe",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 37,
+    "name": "Light-Speed Knight Sir Rabby",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For player of the same position, Scramble AT & DF +10%",
+    "hissatsuName": "Full Moon Fever",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 38,
+    "name": "Supreme War Chief Pendragon",
+    "type": "Keshin",
+    "element": "無 (Void)",
+    "passive": "Team Breach Rate +10%",
+    "hissatsuName": "Dark Reaver",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 39,
+    "name": "Prehistoric Chieftain Jagwarrior",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "When a player of the same element is nearby, Own Focus AT & DF +20%",
+    "hissatsuName": "Hunter's Spear",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 40,
+    "name": "Sovereign of the Skies Feng-Huang",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When outside the zone, Own Scramble AT & DF +20%",
+    "hissatsuName": "Firebird Flight",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 41,
+    "name": "Goddess of Just Warfare Athene",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "When making a pass, Team Bond Power +50%",
+    "hissatsuName": "Athenian Assault",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 42,
+    "name": "Cursed Wolf Lycaon",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "On the opposition's half of the pitch, Own Focus AT & DF +15%",
+    "hissatsuName": "Forked Edge",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 43,
+    "name": "Prince of the Astral Plane Zodiac",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Team Dash Foul Rate -15%",
+    "hissatsuName": "Crimson Prison",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 44,
+    "name": "Warrior of the North Xuan-Wu",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "For nearby players, Castle Wall DF +10%",
+    "hissatsuName": "Tortoise Shell",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 45,
+    "name": "Man-Made Monster Plasma Shadow GK",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "Team Tension Breach Cost -20%",
+    "hissatsuName": "Shadow Hand",
+    "hissatsuType": "Keep",
+    "power": 85
+  },
+  {
+    "id": 46,
+    "name": "Man-Made Monster Plasma Shadow SH",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When a player of a different element is nearby, Own Shot AT +20%",
+    "hissatsuName": "Shadow Kick",
+    "hissatsuType": "Shoot",
+    "power": 85
+  },
+  {
+    "id": 47,
+    "name": "Barbaric Beast of the Abyss Atlanticus",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "Team Tension Breach Cost -20%",
+    "hissatsuName": "Gigabite Geyser",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 48,
+    "name": "Star-Crossed Souls The Lovers ♀",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On your half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Heart's Desire",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 49,
+    "name": "Star-Crossed Souls The Lovers ♂",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "On the opposition's half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Heart's Desire",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 50,
+    "name": "Bob-Tailed Bombshell Loverette",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "When making a pass, Team Bond Power +50%",
+    "hissatsuName": "Stop it Poppet",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 51,
+    "name": "Lord of Daemons Evera",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Team Tension Breach Cost -20%",
+    "hissatsuName": "Mortal Smash",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 52,
+    "name": "Sacred Serpent White Wyvern",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "For players of the same position, Shot AT +10%",
+    "hissatsuName": "White Breath",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 53,
+    "name": "Man-Made Monster Plasma Shadow AT",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "When a player of a different element is nearby, Own Focus AT & DF +20%",
+    "hissatsuName": "Shadow Sword",
+    "hissatsuType": "Offense",
+    "power": 85
+  },
+  {
+    "id": 54,
+    "name": "Sacred Lance Clearbunny",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "For players of the same position, Shot AT +10%",
+    "hissatsuName": "Shadow Empress",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 55,
+    "name": "Entertainer",
+    "type": "Keshin",
+    "element": "林 (Forest)",
+    "passive": "For players of different positions, Focus AT & DF +10%",
+    "hissatsuName": "Dazzling Carnival",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 56,
+    "name": "Wall Titan Warborg",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Team Tension Breach Cost -20%",
+    "hissatsuName": "Fortress of Despair",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 57,
+    "name": "The Victory Genie Majin",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When a player of a different element is nearby, Own Shot AT +20%",
+    "hissatsuName": "Meteoric Fire Tornado V",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 58,
+    "name": "Heavenly Horse Arch Pegasus",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "When a player of a different element is nearby, Own Focus AT & DF +20%",
+    "hissatsuName": "Pegasus Punch",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 59,
+    "name": "Lord of Birds and Beasts Griffin",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "On the opposition's half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Flamberge",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 60,
+    "name": "Holy Sword Paladin Arthur",
+    "type": "Keshin",
+    "element": "無 (Void)",
+    "passive": "For players of different elements, Shot AT +10%",
+    "hissatsuName": "Caliburn",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 61,
+    "name": "Sorceress of the Dawn Amaterasu",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "When a player of the same element is nearby, Own Focus AT & DF +20%",
+    "hissatsuName": "Aurora Arrow",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 62,
+    "name": "The Great Genie Majin",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "Save rate +5%",
+    "hissatsuName": "Majin the Great",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 63,
+    "name": "Bond Transform",
+    "type": "?",
+    "element": "",
+    "passive": "Own AT/DF +10%\nTransforms into an ally player on the field (Copies a portion(?) of stats and moves)",
+    "hissatsuName": "",
+    "hissatsuType": "",
+    "power": 0
+  },
+  {
+    "id": 64,
+    "name": "Fiery Hellhound Direwolf",
+    "type": "Keshin",
+    "element": "火 (Fire)",
+    "passive": "On the opposition's half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Burning Claws",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 65,
+    "name": "Midnight Sun-Bringer Glenr",
+    "type": "Keshin",
+    "element": "山 (Mountain)",
+    "passive": "On your half of the pitch, Team Focus AT & DF +15%",
+    "hissatsuName": "Demon's Bolt",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 66,
+    "name": "Discordian Witch Eris",
+    "type": "Keshin",
+    "element": "風 (Wind)",
+    "passive": "On the opposition's half of the pitch, Team Focus AT & DF +10%",
+    "hissatsuName": "Sordid Thorns",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 67,
+    "name": "Wolf Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Wolf Strike",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 68,
+    "name": "Falcon Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Falcon Glide",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 69,
+    "name": "Lion Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Lion Assault",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 70,
+    "name": "Gooma Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Gooma Inferno",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 71,
+    "name": "Doruga Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Doruga Assault",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 72,
+    "name": "Belion Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Belion Whip",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 73,
+    "name": "Ixaal Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Ixaal Canon",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 74,
+    "name": "Begiran Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Begiran Whip",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 75,
+    "name": "Dragnova Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Dragnova Strike",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 76,
+    "name": "Goliger Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Goliger Assault",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 77,
+    "name": "Silver Wolf Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Silver Wolf Strike",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 78,
+    "name": "Bald Eagle Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Bald Eagle Glide",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 79,
+    "name": "Pelion Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Pelion Whip",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 80,
+    "name": "Vairaas Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Vairaas Canon",
+    "hissatsuType": "Shoot",
+    "power": 100
+  },
+  {
+    "id": 81,
+    "name": "Horse Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Horse Sprint",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 82,
+    "name": "Dohma Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Dohma Driller",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 83,
+    "name": "Peacock Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Peacock Radiance",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 84,
+    "name": "Serow Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Serow Cabriole",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 85,
+    "name": "Grizzly Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Grizzly Smash",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 86,
+    "name": "Phoenichias Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Phoenichias Radiance",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 87,
+    "name": "Gusfii Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Gusfii Bomb",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 88,
+    "name": "Redio Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Redio Cabriole",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 89,
+    "name": "Gryphbang Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Gryphbang Smash",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 90,
+    "name": "Univolt Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Univolt Sprint",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 91,
+    "name": "Pamerio Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Pamerio Cabriole",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 92,
+    "name": "Brachias Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Brachias Radiance",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 93,
+    "name": "Moon Bear Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Moon Bear Smash",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 94,
+    "name": "Zooma Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Zooma Driller",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 95,
+    "name": "Crimson Pegasus Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Crimson Pegasus Charge",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 96,
+    "name": "Pegasus Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Pegasus Charge",
+    "hissatsuType": "Offense",
+    "power": 100
+  },
+  {
+    "id": 97,
+    "name": "Fox Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Fox Mirage",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 98,
+    "name": "Horned Owl Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Horned Owl Swipe",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 99,
+    "name": "Buffalo Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Buffalo Crusher",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 100,
+    "name": "Ratel Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Ratel Claw",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 101,
+    "name": "Gandoran Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Gandoran Crusher",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 102,
+    "name": "Kulupe Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Kulupe Claw",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 103,
+    "name": "Flamey Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Flamey Mirage",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 104,
+    "name": "Dandrol Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Dandrol Crusher",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 105,
+    "name": "Owl Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Owl Swipe",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 106,
+    "name": "Gyorom Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Gyorom Claw",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 107,
+    "name": "Mammoth Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Mammoth Stomp",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 108,
+    "name": "Gorius Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Gorius Swing",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 109,
+    "name": "Gigiras Totem",
+    "type": "Totem",
+    "element": "無 (Void)",
+    "passive": "",
+    "hissatsuName": "Gigiras Shield",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 110,
+    "name": "Magnatas Totem",
+    "type": "Totem",
+    "element": "火 (Fire)",
+    "passive": "",
+    "hissatsuName": "Magnatas Stomp",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 111,
+    "name": "Dolmega Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Dolmega Stomp",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 112,
+    "name": "Grimron Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Grimron Shield",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 113,
+    "name": "Gyrius Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Gyrius Bounce",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 114,
+    "name": "Delpinus Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Delphinus Sonar",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 115,
+    "name": "Garius Totem",
+    "type": "Totem",
+    "element": "山 (Mountain)",
+    "passive": "",
+    "hissatsuName": "Garius Bounce",
+    "hissatsuType": "Defense",
+    "power": 100
+  },
+  {
+    "id": 116,
+    "name": "Mossfii Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Mossfii Burst",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 117,
+    "name": "Angydra Totem",
+    "type": "Totem",
+    "element": "風 (Wind)",
+    "passive": "",
+    "hissatsuName": "Angydra Combo",
+    "hissatsuType": "Keep",
+    "power": 100
+  },
+  {
+    "id": 118,
+    "name": "Saranarja Totem",
+    "type": "Totem",
+    "element": "林 (Forest)",
+    "passive": "",
+    "hissatsuName": "Saranarja Combo",
+    "hissatsuType": "Keep",
+    "power": 100
+  }
+]

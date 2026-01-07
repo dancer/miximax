@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "players": "選手",
+    "heroes": "ヒーロー",
+    "fabled": "伝説",
+    "equipment": "装備",
+    "hissatsu": "必殺技",
+    "tactics": "戦術",
+    "hyperMoves": "ハイパームーブ",
+    "passives": "パッシブ",
+    "matchDrops": "ドロップ",
+    "kizuna": "キズナタウン",
+    "teamBuilder": "チームビルダー"
+  },
+  "theme": {
+    "light": "ライト",
+    "dark": "ダーク"
+  },
+  "players": {
+    "search": "選手を検索",
+    "showing": "{total}人中{count}人を表示",
+    "statsNote": "レベル50、ノーマルレアリティ時のステータス",
+    "allElements": "全属性",
+    "allPositions": "全ポジション",
+    "noResults": "選手が見つかりません"
+  },
+  "equipment": {
+    "search": "装備を検索",
+    "showing": "{total}個中{count}個を表示",
+    "allTypes": "全タイプ",
+    "allShops": "全ショップ",
+    "noResults": "装備が見つかりません"
+  },
+  "hissatsu": {
+    "search": "必殺技名、ショップ、効果で検索",
+    "showing": "{total}個中{count}個を表示",
+    "allTypes": "全タイプ",
+    "allElements": "全属性",
+    "allShops": "全ショップ",
+    "allExtras": "全追加効果",
+    "noResults": "必殺技が見つかりません"
+  },
+  "tactics": {
+    "search": "戦術名または効果で検索",
+    "showing": "{total}個中{count}個を表示",
+    "allShops": "全ショップ",
+    "effect1": "効果1",
+    "effect2": "効果2",
+    "effect3": "効果3",
+    "noResults": "戦術が見つかりません"
+  },
+  "hyperMoves": {
+    "search": "名前、パッシブ、必殺技で検索",
+    "showing": "{total}個中{count}個を表示",
+    "allTypes": "全タイプ",
+    "allElements": "全属性",
+    "passiveEffects": "パッシブ効果",
+    "noResults": "ハイパームーブが見つかりません",
+    "note": "以下はすべてスピリットマーケットで購入可能。化身はGO2ルートクリア後、トーテムはギャラクシー後に解放。"
+  },
+  "matchDrops": {
+    "search": "試合名または説明で検索",
+    "passiveId": "パッシブID",
+    "allGames": "全ゲーム",
+    "allDropTypes": "全ドロップタイプ",
+    "matches": "{count}試合",
+    "game": "ゲーム",
+    "match": "試合",
+    "drops": "ドロップ",
+    "noResults": "試合が見つかりません"
+  },
+  "teamBuilder": {
+    "teamName": "チーム名",
+    "formation": "フォーメーション",
+    "share": "共有",
+    "export": "エクスポート",
+    "import": "インポート",
+    "clear": "クリア",
+    "squad": "スカッド",
+    "reserve": "控え",
+    "empty": "空き",
+    "selectPlayer": "選手を選択",
+    "searchPlayers": "選手を検索...",
+    "position": "ポジション",
+    "reserveSlot": "控え枠 - 全ポジション",
+    "noPlayersFound": "選手が見つかりません",
+    "teamStats": "チームステータス",
+    "players": "選手",
+    "addPlayers": "選手を追加してステータスを表示",
+    "clickPosition": "ポジションをクリックして開始",
+    "avg": "平均",
+    "invalidFile": "無効なチームファイル",
+    "copied": "チームリンクをコピーしました！"
+  },
+  "stats": {
+    "kick": "キック",
+    "control": "コントロール",
+    "technique": "テクニック",
+    "pressure": "プレッシャー",
+    "physical": "フィジカル",
+    "agility": "スピード",
+    "intelligence": "かしこさ",
+    "total": "合計"
+  },
+  "playerModal": {
+    "baseStats": "基本ステータス",
+    "atDf": "AT / DF",
+    "shootAT": "シュートAT",
+    "focusAT": "フォーカスAT",
+    "focusDF": "フォーカスDF",
+    "wallsDF": "ウォールDF",
+    "scrambleAT": "スクランブルAT",
+    "scrambleDF": "スクランブルDF",
+    "kp": "キーパーパワー",
+    "firstMoves": "最初に覚える技",
+    "view3D": "3Dモデルを見る",
+    "availability": "入手先",
+    "gacha": "ガチャ",
+    "story": "ストーリー",
+    "versus": "VS"
+  },
+  "elements": {
+    "fire": "火",
+    "wind": "風",
+    "mountain": "山",
+    "forest": "林",
+    "void": "無"
+  },
+  "positions": {
+    "fw": "FW",
+    "mf": "MF",
+    "df": "DF",
+    "gk": "GK"
+  },
+  "affinity": {
+    "bond": "キズナ",
+    "justice": "正義",
+    "counter": "カウンター",
+    "breach": "ブレイク"
+  },
+  "roles": {
+    "player": "選手",
+    "coordinator": "コーディネーター",
+    "manager": "マネージャー",
+    "coach": "監督",
+    "custom": "カスタム"
+  },
+  "equipmentTypes": {
+    "boots": "シューズ",
+    "bracelets": "ブレスレット",
+    "pendants": "ペンダント",
+    "misc": "その他"
+  },
+  "hissatsuTypes": {
+    "shoot": "シュート",
+    "dribble": "ドリブル",
+    "block": "ブロック",
+    "catch": "キャッチ",
+    "keep": "キープ"
+  },
+  "hissatsuExtras": {
+    "longShoot": "ロングシュート",
+    "counterShoot": "カウンターシュート",
+    "shootBlock": "シュートブロック"
+  },
+  "hyperMoveTypes": {
+    "awakening": "覚醒",
+    "keshin": "化身",
+    "totem": "トーテム"
+  },
+  "heroes": {
+    "search": "ヒーローを検索",
+    "showing": "{total}人中{count}人を表示",
+    "noResults": "ヒーローが見つかりません",
+    "moveset": "技セット"
+  },
+  "fabled": {
+    "search": "伝説キャラを検索",
+    "showing": "{total}人中{count}人を表示",
+    "noResults": "伝説キャラが見つかりません",
+    "moveset": "技セット",
+    "altMoveset": "サブ技セット"
+  },
+  "filters": {
+    "allPositions": "全ポジション",
+    "allPlaystyles": "全プレイスタイル"
+  },
+  "common": {
+    "name": "名前",
+    "player": "選手",
+    "type": "タイプ",
+    "shop": "ショップ",
+    "element": "属性",
+    "position": "ポジション",
+    "power": "威力",
+    "tension": "テンション",
+    "duration": "持続時間",
+    "cooldown": "クールダウン",
+    "loading": "読み込み中...",
+    "reset": "リセット"
+  },
+  "settings": {
+    "jpNames": "日本語名",
+    "language": "言語"
+  },
+  "passives": {
+    "search": "パッシブを検索",
+    "showing": "{total}個中{count}個を表示",
+    "allTypes": "全タイプ",
+    "description": "説明",
+    "stat": "ステータス",
+    "value": "値",
+    "noResults": "パッシブが見つかりません"
+  },
+  "kizuna": {
+    "search": "キズナタウンアイテムを検索",
+    "showing": "{total}個中{count}個を表示",
+    "allSizes": "全サイズ",
+    "allShops": "全ショップ",
+    "name": "名前",
+    "size": "サイズ",
+    "power": "パワー",
+    "shop": "ショップ",
+    "notes": "備考",
+    "noResults": "アイテムが見つかりません"
+  }
+}

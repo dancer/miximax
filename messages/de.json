@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "players": "Spieler",
+    "heroes": "Helden",
+    "fabled": "Legendär",
+    "equipment": "Ausrüstung",
+    "hissatsu": "Hissatsu",
+    "tactics": "Taktiken",
+    "hyperMoves": "Hyper-Moves",
+    "passives": "Passive",
+    "matchDrops": "Match-Drops",
+    "kizuna": "Kizuna-Stadt",
+    "teamBuilder": "Team-Builder"
+  },
+  "theme": {
+    "light": "Hell",
+    "dark": "Dunkel"
+  },
+  "players": {
+    "search": "Spieler suchen",
+    "showing": "Zeige {count} von {total} Spielern",
+    "statsNote": "Werte bei Level 50, Normale Seltenheit",
+    "allElements": "Alle Elemente",
+    "allPositions": "Alle Positionen",
+    "noResults": "Keine Spieler gefunden"
+  },
+  "equipment": {
+    "search": "Ausrüstung suchen",
+    "showing": "Zeige {count} von {total} Ausrüstungen",
+    "allTypes": "Alle Typen",
+    "allShops": "Alle Shops",
+    "noResults": "Keine Ausrüstung gefunden"
+  },
+  "hissatsu": {
+    "search": "Hissatsu-Namen, Shops oder Effekte suchen",
+    "showing": "Zeige {count} von {total} Hissatsu",
+    "allTypes": "Alle Typen",
+    "allElements": "Alle Elemente",
+    "allShops": "Alle Shops",
+    "allExtras": "Alle Zusatzeffekte",
+    "noResults": "Keine Hissatsu gefunden"
+  },
+  "tactics": {
+    "search": "Taktiken nach Name oder Effekt suchen",
+    "showing": "Zeige {count} von {total} Taktiken",
+    "allShops": "Alle Shops",
+    "effect1": "Effekt 1",
+    "effect2": "Effekt 2",
+    "effect3": "Effekt 3",
+    "noResults": "Keine Taktiken gefunden"
+  },
+  "hyperMoves": {
+    "search": "Nach Name, Passiv oder Hissatsu suchen",
+    "showing": "Zeige {count} von {total} Hyper-Moves",
+    "allTypes": "Alle Typen",
+    "allElements": "Alle Elemente",
+    "passiveEffects": "Passive Effekte",
+    "noResults": "Keine Hyper-Moves gefunden",
+    "note": "Alle können im Spirit Market gekauft werden. Keshins nach GO2-Route, Totems nach Galaxy freischaltbar."
+  },
+  "matchDrops": {
+    "search": "Matchname oder Beschreibung suchen",
+    "passiveId": "Passiv-ID",
+    "allGames": "Alle Spiele",
+    "allDropTypes": "Alle Drop-Typen",
+    "matches": "{count} Matches",
+    "game": "Spiel",
+    "match": "Match",
+    "drops": "Drops",
+    "noResults": "Keine Matches gefunden"
+  },
+  "teamBuilder": {
+    "teamName": "Teamname",
+    "formation": "Formation",
+    "share": "Teilen",
+    "export": "Exportieren",
+    "import": "Importieren",
+    "clear": "Löschen",
+    "squad": "Kader",
+    "reserve": "Reserve",
+    "empty": "Leer",
+    "selectPlayer": "Spieler auswählen",
+    "searchPlayers": "Spieler suchen...",
+    "position": "Position",
+    "reserveSlot": "Reserveplatz - alle Positionen",
+    "noPlayersFound": "Keine Spieler gefunden",
+    "teamStats": "Team-Statistiken",
+    "players": "Spieler",
+    "addPlayers": "Spieler hinzufügen für Statistiken",
+    "clickPosition": "Position anklicken zum Starten",
+    "avg": "Ø",
+    "invalidFile": "Ungültige Teamdatei",
+    "copied": "Team-Link kopiert!"
+  },
+  "stats": {
+    "kick": "Schuss",
+    "control": "Kontrolle",
+    "technique": "Technik",
+    "pressure": "Druck",
+    "physical": "Physis",
+    "agility": "Tempo",
+    "intelligence": "Intelligenz",
+    "total": "Gesamt"
+  },
+  "playerModal": {
+    "baseStats": "Basiswerte",
+    "atDf": "AT / DF",
+    "shootAT": "Schuss AT",
+    "focusAT": "Fokus AT",
+    "focusDF": "Fokus DF",
+    "wallsDF": "Mauer DF",
+    "scrambleAT": "Zweikampf AT",
+    "scrambleDF": "Zweikampf DF",
+    "kp": "Torwart-Kraft",
+    "firstMoves": "Erste 3 erlernte Techniken",
+    "view3D": "3D-Modell ansehen",
+    "availability": "Verfügbarkeit",
+    "gacha": "Gacha",
+    "story": "Story",
+    "versus": "VS"
+  },
+  "elements": {
+    "fire": "Feuer",
+    "wind": "Wind",
+    "mountain": "Berg",
+    "forest": "Wald",
+    "void": "Leere"
+  },
+  "positions": {
+    "fw": "ST",
+    "mf": "MF",
+    "df": "VT",
+    "gk": "TW"
+  },
+  "affinity": {
+    "bond": "Band",
+    "justice": "Gerechtigkeit",
+    "counter": "Konter",
+    "breach": "Durchbruch"
+  },
+  "roles": {
+    "player": "Spieler",
+    "coordinator": "Koordinator",
+    "manager": "Manager",
+    "coach": "Trainer",
+    "custom": "Benutzerdefiniert"
+  },
+  "equipmentTypes": {
+    "boots": "Schuhe",
+    "bracelets": "Armbänder",
+    "pendants": "Anhänger",
+    "misc": "Sonstiges"
+  },
+  "hissatsuTypes": {
+    "shoot": "Schuss",
+    "dribble": "Dribbling",
+    "block": "Block",
+    "catch": "Fangen",
+    "keep": "Halten"
+  },
+  "hissatsuExtras": {
+    "longShoot": "Fernschuss",
+    "counterShoot": "Konterschuss",
+    "shootBlock": "Schussblock"
+  },
+  "hyperMoveTypes": {
+    "awakening": "Erwachen",
+    "keshin": "Keshin",
+    "totem": "Totem"
+  },
+  "heroes": {
+    "search": "Helden suchen",
+    "showing": "Zeige {count} von {total} Helden",
+    "noResults": "Keine Helden gefunden",
+    "moveset": "Techniken"
+  },
+  "fabled": {
+    "search": "Legendäre suchen",
+    "showing": "Zeige {count} von {total} Legendären",
+    "noResults": "Keine Legendären gefunden",
+    "moveset": "Techniken",
+    "altMoveset": "Alt. Techniken"
+  },
+  "filters": {
+    "allPositions": "Alle Positionen",
+    "allPlaystyles": "Alle Spielstile"
+  },
+  "common": {
+    "name": "Name",
+    "player": "Spieler",
+    "type": "Typ",
+    "shop": "Shop",
+    "element": "Element",
+    "position": "Position",
+    "power": "Stärke",
+    "tension": "Spannung",
+    "duration": "Dauer",
+    "cooldown": "Abklingzeit",
+    "loading": "Lädt...",
+    "reset": "Zurücksetzen"
+  },
+  "settings": {
+    "jpNames": "JP-Namen",
+    "language": "Sprache"
+  },
+  "passives": {
+    "search": "Passive nach Beschreibung suchen",
+    "showing": "Zeige {count} von {total} Passiven",
+    "allTypes": "Alle Typen",
+    "description": "Beschreibung",
+    "stat": "Stat",
+    "value": "Wert",
+    "noResults": "Keine Passive gefunden"
+  },
+  "kizuna": {
+    "search": "Kizuna-Stadt Items suchen",
+    "showing": "Zeige {count} von {total} Items",
+    "allSizes": "Alle Größen",
+    "allShops": "Alle Shops",
+    "name": "Name",
+    "size": "Größe",
+    "power": "Stärke",
+    "shop": "Shop",
+    "notes": "Notizen",
+    "noResults": "Keine Items gefunden"
+  }
+}

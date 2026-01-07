@@ -1,0 +1,158 @@
+export type PositionCode = "FW" | "MF" | "DF" | "GK";
+export type FormationSlot = {
+  id: string;
+  label: PositionCode;
+  x: number;
+  y: number;
+};
+export type Formation = { id: string; name: string; slots: FormationSlot[] };
+const slot = (
+  id: string,
+  label: PositionCode,
+  x: number,
+  y: number,
+): FormationSlot => ({ id, label, x, y });
+export const FORMATIONS: Formation[] = [
+  {
+    id: "diamond",
+    name: "Diamond (4-4-2)",
+    slots: [
+      slot("fw1", "FW", 35, 10),
+      slot("fw2", "FW", 65, 10),
+      slot("mf1", "MF", 50, 24),
+      slot("mf2", "MF", 25, 40),
+      slot("mf3", "MF", 75, 40),
+      slot("mf4", "MF", 50, 52),
+      slot("df1", "DF", 15, 68),
+      slot("df2", "DF", 38, 72),
+      slot("df3", "DF", 62, 72),
+      slot("df4", "DF", 85, 68),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "box",
+    name: "Box (4-4-2)",
+    slots: [
+      slot("fw1", "FW", 35, 10),
+      slot("fw2", "FW", 65, 10),
+      slot("mf1", "MF", 30, 32),
+      slot("mf2", "MF", 70, 32),
+      slot("mf3", "MF", 30, 50),
+      slot("mf4", "MF", 70, 50),
+      slot("df1", "DF", 15, 68),
+      slot("df2", "DF", 38, 72),
+      slot("df3", "DF", 62, 72),
+      slot("df4", "DF", 85, 68),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "freedom",
+    name: "Freedom (3-5-2)",
+    slots: [
+      slot("fw1", "FW", 35, 10),
+      slot("fw2", "FW", 65, 10),
+      slot("mf1", "MF", 15, 32),
+      slot("mf2", "MF", 85, 32),
+      slot("mf3", "MF", 35, 42),
+      slot("mf4", "MF", 65, 42),
+      slot("mf5", "MF", 50, 55),
+      slot("df1", "DF", 25, 72),
+      slot("df2", "DF", 50, 75),
+      slot("df3", "DF", 75, 72),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "triangle",
+    name: "Triangle (4-3-3)",
+    slots: [
+      slot("fw1", "FW", 20, 12),
+      slot("fw2", "FW", 50, 8),
+      slot("fw3", "FW", 80, 12),
+      slot("mf1", "MF", 30, 38),
+      slot("mf2", "MF", 50, 45),
+      slot("mf3", "MF", 70, 38),
+      slot("df1", "DF", 15, 68),
+      slot("df2", "DF", 38, 72),
+      slot("df3", "DF", 62, 72),
+      slot("df4", "DF", 85, 68),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "delta",
+    name: "Delta (4-3-3)",
+    slots: [
+      slot("fw1", "FW", 20, 10),
+      slot("fw2", "FW", 50, 14),
+      slot("fw3", "FW", 80, 10),
+      slot("mf1", "MF", 50, 32),
+      slot("mf2", "MF", 30, 48),
+      slot("mf3", "MF", 70, 48),
+      slot("df1", "DF", 15, 68),
+      slot("df2", "DF", 38, 72),
+      slot("df3", "DF", 62, 72),
+      slot("df4", "DF", 85, 68),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "balance",
+    name: "Balance (4-5-1)",
+    slots: [
+      slot("fw1", "FW", 50, 10),
+      slot("mf1", "MF", 15, 30),
+      slot("mf2", "MF", 85, 30),
+      slot("mf3", "MF", 35, 42),
+      slot("mf4", "MF", 50, 48),
+      slot("mf5", "MF", 65, 42),
+      slot("df1", "DF", 15, 68),
+      slot("df2", "DF", 38, 72),
+      slot("df3", "DF", 62, 72),
+      slot("df4", "DF", 85, 68),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "hexa",
+    name: "Hexa (3-6-1)",
+    slots: [
+      slot("fw1", "FW", 50, 10),
+      slot("mf1", "MF", 15, 28),
+      slot("mf2", "MF", 85, 28),
+      slot("mf3", "MF", 35, 38),
+      slot("mf4", "MF", 65, 38),
+      slot("mf5", "MF", 35, 52),
+      slot("mf6", "MF", 65, 52),
+      slot("df1", "DF", 25, 72),
+      slot("df2", "DF", 50, 75),
+      slot("df3", "DF", 75, 72),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+  {
+    id: "double-volante",
+    name: "Double Volante (5-4-1)",
+    slots: [
+      slot("fw1", "FW", 50, 10),
+      slot("mf1", "MF", 20, 32),
+      slot("mf2", "MF", 80, 32),
+      slot("mf3", "MF", 40, 48),
+      slot("mf4", "MF", 60, 48),
+      slot("df1", "DF", 10, 62),
+      slot("df2", "DF", 30, 70),
+      slot("df3", "DF", 50, 74),
+      slot("df4", "DF", 70, 70),
+      slot("df5", "DF", 90, 62),
+      slot("gk", "GK", 50, 90),
+    ],
+  },
+];
+export const POSITION_COLORS: Record<PositionCode, string> = {
+  FW: "#ef4444",
+  MF: "#22c55e",
+  DF: "#3b82f6",
+  GK: "#f59e0b",
+};

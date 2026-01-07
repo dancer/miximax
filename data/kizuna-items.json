@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Inazuma Caravan",
+    "size": "M",
+    "power": 50,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "name": "Inazuma Jet",
+    "size": "M",
+    "power": 110,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "name": "Inazuma Revolution Caravan",
+    "size": "M",
+    "power": 50,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "name": "Inazuma TM Caravan",
+    "size": "M",
+    "power": 70,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "name": "Timecraft",
+    "size": "M",
+    "power": 130,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "name": "Teachings of the Master",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "name": "Old Club Room Sign",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "name": "Tsurugi Brother's Ball",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "name": "Nobunaga's Sword",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "name": "Helmet of Courage",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "name": "Zhuge Liang's Scroll",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "name": "Ryoma Sakamoto Portrait",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "name": "Dinosaur Fossil",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "name": "King Arthur's Crown",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "name": "Excalibur",
+    "size": "S",
+    "power": 10,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "name": "Raimon Junior High (Entrance)",
+    "size": "L",
+    "power": 310,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "name": "Raimon Junior High (School Building)",
+    "size": "L",
+    "power": 70,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "name": "Orion Express",
+    "size": "M",
+    "power": 60,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "name": "Starship Stadium",
+    "size": "L",
+    "power": 410,
+    "shop": "Chronicle Department Store",
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "name": "Street Tree",
+    "size": "S",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "name": "Cherry Blossom Tree",
+    "size": "S",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "name": "Palm Tree",
+    "size": "S",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "name": "White Bench",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "name": "Wooden Bench",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "name": "Streetlight",
+    "size": "M",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "name": "Park Streetlight",
+    "size": "M",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "name": "Fancy Streetlight",
+    "size": "M",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "name": "Traffic Mirror",
+    "size": "M",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "name": "Table & Benches",
+    "size": "S",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "name": "Gray Car",
+    "size": "M",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "name": "White Car",
+    "size": "M",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "name": "Mini Truck",
+    "size": "M",
+    "power": 10,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "name": "White Bicycle",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "name": "Blue Bicycle",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "name": "Red Vending Machine",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "name": "White Vending Machine",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "name": "Trash Bins",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "name": "Trash Can",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "name": "Cardboard Boxes",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "name": "Transformer Pole",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "name": "Simple Utility Pole",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "name": "Postbox",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "name": "Red Flower Planter",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "name": "Yellow Flower Planter",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "name": "Potted Roundleaf",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "name": "Potted Pointyleaf",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "name": "Potted Yellow Flowers",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "name": "Potted White Flowers",
+    "size": "S",
+    "power": 5,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "name": "Inazuma National Dorms",
+    "size": "L",
+    "power": 0,
+    "shop": "Vs Store",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "name": "Football Building",
+    "size": "L",
+    "power": 370,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "name": "Red Inazuma Tower",
+    "size": "L",
+    "power": 70,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "name": "White Inazuma Tower",
+    "size": "L",
+    "power": 70,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "name": "Holy Emperor Throne",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "name": "Guardian Statue",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "name": "Security Bot",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "name": "Restoration Device",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "name": "Fifth Sector Flag",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "name": "Golden Football Statue",
+    "size": "M",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "name": "Dark Hourglass",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "name": "Riverside Inazuma Statue",
+    "size": "M",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "name": "Construction Wall",
+    "size": "M",
+    "power": 40,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "name": "Giant Deer Statue",
+    "size": "M",
+    "power": 50,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "name": "Alius Crystal",
+    "size": "M",
+    "power": 60,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "name": "Inazuma Tower Plaza Tree",
+    "size": "S",
+    "power": 40,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "name": "Liocott Palm Tree",
+    "size": "S",
+    "power": 30,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "name": "Endo Snowman",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "name": "Lottery Machine",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "name": "Kappa Scoreboard",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "name": "Omega Ball",
+    "size": "S",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "name": "Inazuma Floodlight",
+    "size": "M",
+    "power": 20,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "name": "Pointed Floodlight",
+    "size": "M",
+    "power": 10,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "name": "Traditional Gate (Inazuma Town)",
+    "size": "M",
+    "power": 40,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "name": "Shopping District Arch",
+    "size": "M",
+    "power": 20,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "name": "Goal",
+    "size": "S",
+    "power": 20,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "name": "Large Bench",
+    "size": "S",
+    "power": 20,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "name": "Mysterious Rock",
+    "size": "S",
+    "power": 0,
+    "shop": "BB Mart",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "name": "Candy Shop (Inazuma Town)",
+    "size": "L",
+    "power": 80,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "name": "Fishmonger (Inazuma Town)",
+    "size": "L",
+    "power": 60,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "name": "Convenience Store (Inazuma Town)",
+    "size": "L",
+    "power": 60,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "name": "Pharmacy (Inazuma Town)",
+    "size": "L",
+    "power": 70,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "name": "Sports Shop (Inazuma Town)",
+    "size": "L",
+    "power": 90,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "name": "Game Shop (Inazuma Town)",
+    "size": "L",
+    "power": 80,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "name": "Chic Apartment",
+    "size": "L",
+    "power": 130,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 84,
+    "name": "Sleek Apartment",
+    "size": "L",
+    "power": 100,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 85,
+    "name": "Spacious Apartment",
+    "size": "L",
+    "power": 330,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 86,
+    "name": "Retro Apartment",
+    "size": "L",
+    "power": 195,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 87,
+    "name": "Garden House",
+    "size": "L",
+    "power": 130,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 88,
+    "name": "Modern House",
+    "size": "L",
+    "power": 115,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 89,
+    "name": "Traditional House",
+    "size": "L",
+    "power": 100,
+    "shop": "Bond Shop",
+    "notes": "5 available"
+  },
+  {
+    "id": 90,
+    "name": "Stevenson Screen",
+    "size": "S",
+    "power": 5,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "name": "Bulletin Board",
+    "size": "S",
+    "power": 5,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "name": "Road",
+    "size": "",
+    "power": 5,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "name": "Dirt Road",
+    "size": "",
+    "power": 5,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "name": "Invade Orion Express",
+    "size": "M",
+    "power": 60,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "name": "Fragments of Hope",
+    "size": "S",
+    "power": 10,
+    "shop": "Bond Shop",
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "name": "Cosmic Messenger Lab",
+    "size": "L",
+    "power": 790,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "name": "Endo's House",
+    "size": "L",
+    "power": 450,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "name": "Rika's Pancakes",
+    "size": "L",
+    "power": 80,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "name": "Inazuma National Bootcamp",
+    "size": "L",
+    "power": 240,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "name": "Football Museum",
+    "size": "L",
+    "power": 710,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "name": "Beach House",
+    "size": "L",
+    "power": 180,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "name": "Rai Rai Noodles (Inazuma Branch)",
+    "size": "L",
+    "power": 90,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "name": "Inazuma Hospital",
+    "size": "L",
+    "power": 660,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 104,
+    "name": "New Inazuma Hospital",
+    "size": "L",
+    "power": 650,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "name": "Windsor Manor",
+    "size": "L",
+    "power": 400,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "name": "Prestigious Inazuma Caravan",
+    "size": "M",
+    "power": 50,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "name": "Assassin Inazuma Caravan",
+    "size": "M",
+    "power": 5,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "name": "Nobody's Inazuma Caravan",
+    "size": "M",
+    "power": 5,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "name": "Kageyama's Steel Beams",
+    "size": "M",
+    "power": 60,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "name": "Flash Training Facility",
+    "size": "M",
+    "power": 90,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "name": "Bench",
+    "size": "S",
+    "power": 15,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "name": "Forked Floodlight",
+    "size": "M",
+    "power": 20,
+    "shop": "Spirit Market",
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "name": "Zeus Stadium",
+    "size": "L",
+    "power": 440,
+    "shop": "Extended Story Zeus",
+    "notes": ""
+  },
+  {
+    "id": 114,
+    "name": "Statue of Mamoru Endo (Giant)",
+    "size": "M",
+    "power": 100,
+    "shop": "???",
+    "notes": ""
+  },
+  {
+    "id": 115,
+    "name": "Inazuma Tower",
+    "size": "L",
+    "power": 70,
+    "shop": "???",
+    "notes": ""
+  },
+  {
+    "id": 116,
+    "name": "Statue of Mamoru Endo (Silver)",
+    "size": "S",
+    "power": 10,
+    "shop": "Ranked Reward",
+    "notes": ""
+  },
+  {
+    "id": 117,
+    "name": "Statue of Mamoru Endo (Gold)",
+    "size": "S",
+    "power": 10,
+    "shop": "Ranked Reward",
+    "notes": ""
+  },
+  {
+    "id": 118,
+    "name": "Royal Academy Armored Vehicle",
+    "size": "M",
+    "power": 170,
+    "shop": "???",
+    "notes": ""
+  },
+  {
+    "id": 119,
+    "name": "Cafe Tank",
+    "size": "L",
+    "power": 190,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 120,
+    "name": "Old Gym Storage",
+    "size": "L",
+    "power": 140,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 121,
+    "name": "FF Stadium",
+    "size": "L",
+    "power": 530,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "name": "Tram",
+    "size": "M",
+    "power": 50,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 123,
+    "name": "Skycraft",
+    "size": "L",
+    "power": 400,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 124,
+    "name": "Doll and Finn Statues",
+    "size": "M",
+    "power": 30,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  },
+  {
+    "id": 125,
+    "name": "Umibozu Statue",
+    "size": "S",
+    "power": 10,
+    "shop": "Magic Moves (Odaiba Branch)",
+    "notes": ""
+  }
+]

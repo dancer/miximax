@@ -1,0 +1,5972 @@
+[
+  {
+    "name": "Chaos Break",
+    "nameJp": "カオスブレイク",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Grand Fenrir",
+    "nameJp": "グランフェンリル",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Jet Stream",
+    "nameJp": "ジェットストリーム",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Emperor Penguin No. 3",
+    "nameJp": "皇帝ペンギン３号",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Doom Break",
+    "nameJp": "デスブレイク",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Fire Tornado DD",
+    "nameJp": "ファイアトルネードＤＤ",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Omega Assault",
+    "nameJp": "オメガアタック",
+    "element": "無 (Void)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Shell Burst",
+    "nameJp": "シェルビットバースト",
+    "element": "無 (Void)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Disaster Strike",
+    "nameJp": "ディザスターブレイク",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "The Dawn",
+    "nameJp": "ザ・バース",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Supernova",
+    "nameJp": "スーパーノヴァ",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Big Bang",
+    "nameJp": "ビッグバン",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "The Earth",
+    "nameJp": "ジ・アース",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Prime Legend",
+    "nameJp": "プライムレジェンド",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Field of Force",
+    "nameJp": "キラーフィールズ",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Temporal Wall",
+    "nameJp": "時空の壁",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Fiend Hand",
+    "nameJp": "魔王・ザ・ハンド",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Soul Hand",
+    "nameJp": "タマシイ・ザ・ハンド",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "God Catch",
+    "nameJp": "ゴッドキャッチ",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Final Death Zone",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Scream of Eden",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "The Earth: Infinity",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Black Dawn",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Twister Tornado",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Verdure Vortex",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "We Have Liftoff!",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Inazuma Drop",
+    "nameJp": "イナズマ落とし",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Twin Boost",
+    "nameJp": "ツインブースト",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fire Tornado",
+    "nameJp": "ファイアトルネード",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Inazuma-1",
+    "nameJp": "イナズマ１号",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragon Crash",
+    "nameJp": "ドラゴンクラッシュ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Death Zone",
+    "nameJp": "デスゾーン",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Triangle Z",
+    "nameJp": "トライアングルＺ",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Utter Gutsiness Bat",
+    "nameJp": "ド根性バット",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "God Knows",
+    "nameJp": "ゴッドノウズ",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragon Tornado",
+    "nameJp": "ドラゴントルネード",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fire Rooster",
+    "nameJp": "炎の風見鶏",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Inazuma Break",
+    "nameJp": "イナズマブレイク",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Emperor Penguin No. 2",
+    "nameJp": "皇帝ペンギン２号",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Eternal Blizzard",
+    "nameJp": "エターナルブリザード",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fireball Storm",
+    "nameJp": "爆熱ストーム",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Tsunami Boost",
+    "nameJp": "ツナミブースト",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Death Zone 2",
+    "nameJp": "デスゾーン２",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Astro Break",
+    "nameJp": "アストロブレイク",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Meteor Blade",
+    "nameJp": "流星ブレード",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Legendary Wolf",
+    "nameJp": "ウルフレジェンド",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Emperor Penguin No. 1",
+    "nameJp": "皇帝ペンギン１号",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gungnir",
+    "nameJp": "グングニル",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Tri-Pegasus",
+    "nameJp": "トライペガサス",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Butterfly Trance",
+    "nameJp": "バタフライドリーム",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Spectacle Crash",
+    "nameJp": "メガネクラッシュ",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Twin Boost F",
+    "nameJp": "ツインブーストＦ",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Wyvern Crash",
+    "nameJp": "ワイバーンクラッシュ",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Wyvern Blizzard",
+    "nameJp": "ワイバーンブリザード",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dark Phoenix",
+    "nameJp": "ダークフェニックス",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Megaton Head",
+    "nameJp": "メガトンヘッド",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Excalibur",
+    "nameJp": "エクスカリバー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Typhoon",
+    "nameJp": "ザ・タイフーン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Tiger Storm",
+    "nameJp": "タイガーストーム",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragon Slayer",
+    "nameJp": "ドラゴンスレイヤー",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gladius Arch",
+    "nameJp": "グラディウスアーチ",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Odin Sword",
+    "nameJp": "オーディンソード",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Hurricane",
+    "nameJp": "ザ・ハリケーン",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fireball Screw",
+    "nameJp": "爆熱スクリュー",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "X Blast",
+    "nameJp": "Ｘブラスト",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Doom Spear",
+    "nameJp": "デススピアー",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Zephyr Shot",
+    "nameJp": "マッハウィンド",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Doomsword Slash",
+    "nameJp": "デスソード",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Jumping Jack",
+    "nameJp": "ぶっとびジャンプ",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Katana Kick",
+    "nameJp": "伝来宝刀",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Triangle ZZ",
+    "nameJp": "トライアングルＺＺ",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fortissimo",
+    "nameJp": "フォルテシモ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Doom Dive Drive",
+    "nameJp": "デスドロップ",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Sidewinder",
+    "nameJp": "サイドワインダー",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Black Ash",
+    "nameJp": "ブラックアッシュ",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bouncing Bunny",
+    "nameJp": "バウンサーラビット",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fission and Fusion",
+    "nameJp": "ダブルショット",
+    "element": "無 (Void)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragon Drive",
+    "nameJp": "ドラゴンブラスター",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Splitting Hares",
+    "nameJp": "エクストリームラビット",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Atomic Spin",
+    "nameJp": "ガンマストライク",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "No Future",
+    "nameJp": "デッドフューチャー",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dough Ray Me",
+    "nameJp": "やきもちスクリュー",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Flurry Dash",
+    "nameJp": "疾風ダッシュ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Illusory Ball",
+    "nameJp": "イリュージョンボール",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Scorching Tackle",
+    "nameJp": "ヒートタックル",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bewildered",
+    "nameJp": "五里霧中",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Heaven's Time",
+    "nameJp": "ヘブンズタイム",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Lightning Bolt",
+    "nameJp": "ライトニングアクセル",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Southern Cross",
+    "nameJp": "サザンクロスカット",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Foul Offence 3",
+    "nameJp": "ジャッジスルー３",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Angel Ball",
+    "nameJp": "エンゼルボール",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Devil Ball",
+    "nameJp": "デビルボール",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Future Eye",
+    "nameJp": "フューチャー・アイ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragster",
+    "nameJp": "ゼロヨン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Hey Presto",
+    "nameJp": "プレストターン",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Easy Breezy",
+    "nameJp": "そよかぜステップ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ball Lightning",
+    "nameJp": "ラウンドスパーク",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Rising Dragon",
+    "nameJp": "昇り龍",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Acrobatic Keep",
+    "nameJp": "アクロバットキープ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Decoy Deploy",
+    "nameJp": "デコイ・リリース",
+    "element": "無 (Void)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Wall",
+    "nameJp": "ザ・ウォール",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ghost Pull",
+    "nameJp": "怨霊",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bamboo Pattern",
+    "nameJp": "かごめかごめ",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Clone Defence",
+    "nameJp": "分身ディフェンス",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Tower",
+    "nameJp": "ザ・タワー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Photon Crash",
+    "nameJp": "フォトンフラッシュ",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gravitation",
+    "nameJp": "グラビテイション",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Sigma Zone",
+    "nameJp": "シグマゾーン",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Asteroid Belt",
+    "nameJp": "アステロイドベルト",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ignited Steal",
+    "nameJp": "イグナイトスティール",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Frozen Steal",
+    "nameJp": "フローズンスティール",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Perfect Tower",
+    "nameJp": "パーフェクト・タワー",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Vac Attack",
+    "nameJp": "真空魔",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Mountain",
+    "nameJp": "ザ・マウンテン",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mystifying Mist",
+    "nameJp": "ザ・ミスト",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Hunter's Net",
+    "nameJp": "ハンターズネット",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Runaway Train",
+    "nameJp": "ダッシュトレイン",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Pancake Defence",
+    "nameJp": "かっとびディフェンス",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Spatial Portal",
+    "nameJp": "ディメンションカット",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Solar Surprise",
+    "nameJp": "クレイジーサンライト",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Great Wall",
+    "nameJp": "ビバ！万里の長城",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mystic Mist",
+    "nameJp": "ディープミスト",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Wall of Atlantis",
+    "nameJp": "アトランティスウォール",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Goopy Gloopy Goo",
+    "nameJp": "もちもち黄粉餅",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "God Hand",
+    "nameJp": "ゴッドハンド",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Sliding Goal",
+    "nameJp": "ゴールずらし",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Tsunami Wall",
+    "nameJp": "つなみウォール",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Majin the Hand",
+    "nameJp": "マジン・ザ・ハンド",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Infinite Wall",
+    "nameJp": "無限の壁",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mugen the Hand",
+    "nameJp": "ムゲン・ザ・ハンド",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Wormhole",
+    "nameJp": "ワームホール",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Procyon Net",
+    "nameJp": "プロキオンネット",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fist of Justice",
+    "nameJp": "正義の鉄拳",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Majin the Hand",
+    "nameJp": "マジン・ザ・ハンド",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "God Hand",
+    "nameJp": "ゴッドハンド",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dimensional Hand",
+    "nameJp": "イジゲン・ザ・ハンド",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Hammer of Fury",
+    "nameJp": "怒りの鉄槌",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Combustion Catch",
+    "nameJp": "バーニングキャッチ",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "God Hand V",
+    "nameJp": "ゴッドハンドＶ",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Meteor Attack",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mermaid Smash",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Driving Header",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Rapid Fire",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dynamite Shot",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gyro Head",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Utter Gutsiness Club",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gigaton Head",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Flower Plower",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Parkour Power",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bicycle Slash",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Kabuki Break",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Land Dragon",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Entropic Arrows",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 85,
+    "tp": 90,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Majestic Radiance",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 90,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Volcanic Rock",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Neo Galaxy",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Solar Nexus",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bloodsucker Bite",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Stargazer",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Orbital Drive",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Galaxy",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Black Magic",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Attack Scan",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ribbon Shower",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Flame Veil",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Grand Slam",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Burning Bomb",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Whirlwind Cut",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Warp Drive",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Menacing Glare",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Gale Dash",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Low Scythe Slice",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dual Pass",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Hydro Flow",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Look! UFO",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Boost Glider",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Jackknife",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Atlas Sword",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Psi Arrow",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Doppelganger",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Killer Whale",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Defence Equation",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Power Charge",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Divine Stamp",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dual Storm",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ground Quake",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 85,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Trina Tumble",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Warsaw",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Jungle Jam",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bindweed",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Stealth Step",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Phalanx",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Pressure Punch",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Tornado Catch",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Killer Blade",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ultrasonic",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Aurora Curtain",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Counter Strike",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Clone Block",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Volcano Head",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Psychlone",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bounce Handler",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Dragon Rage Dunk",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Freeze Shot",
+    "nameJp": "フリーズショット",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Kung Fu Fighting",
+    "nameJp": "クンフーアタック",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Inazuma-1 Drop",
+    "nameJp": "イナズマ１号落とし",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Ganymede Ray",
+    "nameJp": "ガニメデプロトン",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Cosmic Blast",
+    "nameJp": "ユニバースブラスト",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gaia Break",
+    "nameJp": "ガイアブレイク",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Space Penguin",
+    "nameJp": "スペースペンギン",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Steeple Shot",
+    "nameJp": "通天閣シュート",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Tiger Drive",
+    "nameJp": "タイガードライブ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hellfire",
+    "nameJp": "ヘルファイア",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Thunder Beast",
+    "nameJp": "サンダービースト",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "The Tube",
+    "nameJp": "ザ・チューブ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Pegasus Shot",
+    "nameJp": "ペガサスショット",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Unicorn Boost",
+    "nameJp": "ユニコーンブースト",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Almighty Cannon",
+    "nameJp": "ゴッドキャノン",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Doom Rain",
+    "nameJp": "デスレイン",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Emperor Penguin 7",
+    "nameJp": "皇帝ペンギン７",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Ballista Barrage",
+    "nameJp": "バリスタショット",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Supernatural Strike",
+    "nameJp": "デビルバースト",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Matchlock Bullet",
+    "nameJp": "火縄バレット",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Holy Roller",
+    "nameJp": "ゴッドウィンド",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Prima Donna",
+    "nameJp": "プリマドンナ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Wind God's Dance",
+    "nameJp": "風神の舞",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Log Roll",
+    "nameJp": "なみのりピエロ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dance on Air",
+    "nameJp": "スカイウォーク",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Heart Beat",
+    "nameJp": "アグレッシブビート",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Easy Breezy Kid",
+    "nameJp": "そよヤギステップ",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Quick Draw",
+    "nameJp": "クイックドロウ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Spider Web",
+    "nameJp": "蜘蛛の糸",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Cyclone",
+    "nameJp": "サイクロン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Shadow Stitch",
+    "nameJp": "影縫い",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Flame Dance",
+    "nameJp": "フレイムダンス",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Iron Wall",
+    "nameJp": "アイアンウォール",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dawnrise",
+    "nameJp": "ゴー・トゥ・ヘブン",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Duskfall",
+    "nameJp": "ゴー・トゥ・ヘル",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hyper-Swiper",
+    "nameJp": "ワンダートラップ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Overnight Fortress",
+    "nameJp": "一夜城",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Okehazama Ravine",
+    "nameJp": "オケハザマウォール",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fireball Knuckle",
+    "nameJp": "熱血パンチ",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Warp Space",
+    "nameJp": "ゆがむ空間",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Triple Defence",
+    "nameJp": "トリプルディフェンス",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gigant Wall",
+    "nameJp": "ギガントウォール",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Blazing Knuckle",
+    "nameJp": "爆裂パンチ",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Flame Breath",
+    "nameJp": "火炎放射",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Drill Smasher",
+    "nameJp": "ドリルスマッシャー",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Safety First",
+    "nameJp": "セーフティープロテクト",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "God Hand X",
+    "nameJp": "ゴッドハンドＸ",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Celestial Zone",
+    "nameJp": "ホーリーゾーン",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "The End",
+    "nameJp": "ジ・エンド",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fingers of Gaia",
+    "nameJp": "フェンス・オブ・ガイア",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Capable Hands",
+    "nameJp": "無頼ハンド",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Stomper Stopper",
+    "nameJp": "ドーンシャウト",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Jumping Whack",
+    "nameJp": "ぶっとびパンチ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Double God Hand",
+    "nameJp": "ゴッドハンドＷ",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Penguin the Hand",
+    "nameJp": "ペンギン・ザ・ハンド",
+    "element": "無 (Void)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Snake Shot",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Comet Shot",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Psycho Shot",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Heel Kick",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Teleport Shot",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dinosaur Roar",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Tusk Force",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dragon Cannon",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Double Wrath Shot",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Assault Shot",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gusher Crusher",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gold Rush",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Straight Counter",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Double Tornado",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Asteride",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dust Javelin",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Bubble Trouble",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dimensional Deluge",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Supermassive Shot",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fire Tornado TC",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Great Blaster",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Big Bang Slash",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Werewolf Howl",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Nocturne",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Volcanic Lightning",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Magic Amp",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Loyal Heart Shot",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Galactic GigaFall",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Rodeo Clown",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Poison Fog",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Moonsault",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Magic",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Pyrokinetic",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hoopsie-Daisy",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Foul Offence",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fugue Wave",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Format Disk",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 60,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Z Slash",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Rolling Hell",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Eye of the Storm",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Desert Drift",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Silk Road",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Major Miner",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Magmire",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Mushroom Hop",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Holograb",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Diffusal Chord",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Horn Train",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "About Face",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Heavy Mettle",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Copy Cut",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Willy-Willy",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fake Bomber",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Maestro's Call",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Sleeping Dust",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Desert Blast",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Asterocks",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fancy-Footwork",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Center Scythe Slice",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Volcanic Flight",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Floral Fiesta",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 85,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Under Miner",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Waterfall",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Rock Hammer",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Judgement Ray",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Psychic Lift",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Wild Claw",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Utter Gutsiness Catch",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fireball Head",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Whip Crack",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Wild Dunk",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "All-Star",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Twist 'n' Clout",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Burnout Blast",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Menace Elbow",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Sand Blaster",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hydro Breath",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Venus Balltrap",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Claw de Force",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "White Hole",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Bastion Block",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dark Reversal",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Solution Boost",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Legendary Silver Wolf",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Flying Marlin",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Peaky Breezy",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hoopsie-Loop",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Frost Finesse",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Falcon Counter",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Matrix Eye",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Phantasm Dribble",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Look! A Rice Ball",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Amp Beat",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Vigorous Stomp",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dark Mist",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dramatic Swipe",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Runaway Bull",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Metal Hammer",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Northern Impact",
+    "nameJp": "ノーザンインパクト",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Slingshot",
+    "nameJp": "スリングショット",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Double Helix",
+    "nameJp": "スプリングアロー",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Revolution V",
+    "nameJp": "レボリューションＶ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Eagle Buster",
+    "nameJp": "イーグルバスター",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Atomic Flare",
+    "nameJp": "アトミックフレア",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Maximum Fire",
+    "nameJp": "マキシマムファイア",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "White Hurricane",
+    "nameJp": "ホワイトハリケーン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dark Energy Star",
+    "nameJp": "エクステンドゾーン",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Samba Strike",
+    "nameJp": "ストライクサンバ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Heavenly Drive",
+    "nameJp": "ヘブンドライブ",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Falling Planet",
+    "nameJp": "オーガブレード",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Triple Threat",
+    "nameJp": "エボリューション",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Shadow Ray",
+    "nameJp": "シャドウ・レイ",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Bungee Ball Burst",
+    "nameJp": "バンジースラスト",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Big Ball Trick",
+    "nameJp": "トリックボール",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Clone Faker",
+    "nameJp": "分身フェイント",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Three-Legged Rush",
+    "nameJp": "ニニンサンキャク",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Criss-Cross",
+    "nameJp": "ブリタニアクロス",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Matador Feint",
+    "nameJp": "マタドールフェイント",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dash Storm",
+    "nameJp": "ダッシュストーム",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Athena's Anthem",
+    "nameJp": "オリンポスハーモニー",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Water Veil",
+    "nameJp": "ウォーターベール",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Air Ride",
+    "nameJp": "エアライド",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Magnetism",
+    "nameJp": "マグネットドロー",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Fire Drill",
+    "nameJp": "スクリュードライバー",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Perimeter Zone",
+    "nameJp": "プロファイルゾーン",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Rolling Slide",
+    "nameJp": "ローリングスライド",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Electric Impedance",
+    "nameJp": "ブリッツブリッジ",
+    "element": "無 (Void)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Harvest",
+    "nameJp": "ハーヴェスト",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Particle Accelerator",
+    "nameJp": "グランドスイーパー",
+    "element": "無 (Void)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Ozone Flayer",
+    "nameJp": "エアーバレット",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Shooting Star",
+    "nameJp": "シューティングスター",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Circus Block",
+    "nameJp": "ブロックサーカス",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "No Escape",
+    "nameJp": "ノーエスケイプ",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Diabolical Cut",
+    "nameJp": "デーモンカット",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Body Shield",
+    "nameJp": "ボディシールド",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Oglitteration",
+    "nameJp": "きらきらイリュージョン",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Fist Beam",
+    "nameJp": "ビームこぶし",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Storm Rider",
+    "nameJp": "ストームライダー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Capoeira Grab",
+    "nameJp": "カポエィラスナッチ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Needle Hammer",
+    "nameJp": "ニードルハンマー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Table-Turner",
+    "nameJp": "ちゃぶ台返し",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Shot Stopper",
+    "nameJp": "シュートブレイク",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Giant Spider",
+    "nameJp": "ビッグスパイダー",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Crystal Barrier",
+    "nameJp": "クリスタルバリア",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Crescent Cross",
+    "nameJp": "弧月十字掌",
+    "element": "無 (Void)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dual Smash",
+    "nameJp": "デュアルスマッシュ",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Double Rocket",
+    "nameJp": "ダブルロケット",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Rotary Sander",
+    "nameJp": "サンドカッター",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Bridge to Nowhere",
+    "nameJp": "キルブリッジ",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Gravity Point",
+    "nameJp": "グラビティポイント",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Beast Fang",
+    "nameJp": "ビーストファング",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Million Hands",
+    "nameJp": "ミリオンハンズ",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Phantom Shot",
+    "nameJp": "ファントムシュート",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Rolling Kick",
+    "nameJp": "ローリングキック",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Patriot Shot",
+    "nameJp": "パトリオットシュート",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Cross Drive",
+    "nameJp": "クロスドライブ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Condor Dive",
+    "nameJp": "コンドルダイブ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Run Ball Run",
+    "nameJp": "ラン・ボール・ラン",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Shine Drive",
+    "nameJp": "シャインドライブ",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Tarzan Kick",
+    "nameJp": "ターザンキック",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dirt Ball",
+    "nameJp": "つちだるま",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Double Grenade",
+    "nameJp": "ダブルグレネード",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dual Strike",
+    "nameJp": "デュアルストライク",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Bed of Roses",
+    "nameJp": "ローズスプラッシュ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Security Shot",
+    "nameJp": "セキュリティショット",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Megalodon",
+    "nameJp": "メガロドン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Paladin Strike",
+    "nameJp": "パラディンストライク",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Gunshot",
+    "nameJp": "ガンショット",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "RC Shot",
+    "nameJp": "ＲＣシュート",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Bouncing Bomb",
+    "nameJp": "バウンドフレイム",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Warhead",
+    "nameJp": "ロケットヘッド",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Optimal Trajectory",
+    "nameJp": "パーフェクトコース",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Will-o'-the-Wisp Shot",
+    "nameJp": "マボロシショット",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Flying Fish",
+    "nameJp": "フライングフィッシュ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Plasma Ball",
+    "nameJp": "プラズマボール",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Cupid's Arrow",
+    "nameJp": "ラブ・アロー",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Whirlwind Twister",
+    "nameJp": "竜巻旋風",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dash Accelerator",
+    "nameJp": "ダッシュアクセル",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Monkey Turn",
+    "nameJp": "モンキーターン",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Aurora Dribble",
+    "nameJp": "オーロラドリブル",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Kangaroo Kick",
+    "nameJp": "カンガルーキック",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Heel Drop",
+    "nameJp": "ならく落とし",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Dog Run",
+    "nameJp": "ドッグラン",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Boomerang Bluff",
+    "nameJp": "ブーメランフェイント",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Blast Mine",
+    "nameJp": "クレイモア",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Spin Out",
+    "nameJp": "スピニングアッパー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Transporter Device",
+    "nameJp": "トランスムーブ",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Swallow Counter",
+    "nameJp": "ツバメ返し",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Fake Ball",
+    "nameJp": "フェイクボール",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Sumo Stomp",
+    "nameJp": "四股踏み",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Blade Attack",
+    "nameJp": "ブレードアタック",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Land of Ice",
+    "nameJp": "アイスグランド",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Super Sumo Stomp",
+    "nameJp": "スーパー四股踏み",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Gravestone",
+    "nameJp": "グレイブストーン",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Racing Flame",
+    "nameJp": "地走り火炎",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Thief's Eye",
+    "nameJp": "シーフ・アイ",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Slice and Dice",
+    "nameJp": "ツインミキサー",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Pincer Pinch",
+    "nameJp": "ビッグシザース",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Jumbo Sandwich",
+    "nameJp": "エレファントプレス",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Fractal Repeller",
+    "nameJp": "フラクタルハウス",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Tesla Coil",
+    "nameJp": "コイルアッパー",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Wood Chopper",
+    "nameJp": "薪割りチョップ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Whirlwind",
+    "nameJp": "つむじ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Rocket Kobushi",
+    "nameJp": "ロケットこぶし",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Flower Power",
+    "nameJp": "花吹雪",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Black Hole",
+    "nameJp": "ブラックホール",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Barrier Reef",
+    "nameJp": "グレートバリアリーフ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Galatyn",
+    "nameJp": "ガラティーン",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Anchors Aweigh",
+    "nameJp": "ハイドロアンカー",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Shadow Catch",
+    "nameJp": "影掴み",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Somersault Stamp",
+    "nameJp": "ムーンサルトスタンプ",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Breath Taker",
+    "nameJp": "エクセレントブレスト",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Phantom Shot",
+    "nameJp": "ファントムシュート",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Sonic Shot",
+    "nameJp": "ソニックショット",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Magic Moves (Odaiba Branch)"
+  },
+  {
+    "name": "Chip Shot",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Curve Shot",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Bounce Shot",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Power Shot",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Low Drive",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Wrath Shot",
+    "nameJp": "百烈ショット",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Grenade Shot",
+    "nameJp": "グレネードショット",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Spinning Shot",
+    "nameJp": "スピニングシュート",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Clone Shot",
+    "nameJp": "分身シュート",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Spiral Shot",
+    "nameJp": "スパイラルショット",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Reflect Buster",
+    "nameJp": "リフレクトバスター",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Kung Fu Header",
+    "nameJp": "クンフーヘッド",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Divine Arrows",
+    "nameJp": "ディバインアロー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Back Tornado",
+    "nameJp": "バックトルネード",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Dark Tornado",
+    "nameJp": "ダークトルネード",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Rainbow Arc",
+    "nameJp": "レインボーループ",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Acrobat Bomber",
+    "nameJp": "トカチェフボンバー",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Fire Blizzard",
+    "nameJp": "ファイアブリザード",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Triple Boost",
+    "nameJp": "トリプルブースト",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Cross Fire",
+    "nameJp": "クロスファイア",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Whirlwind Drop",
+    "nameJp": "竜巻落とし",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Mirage Shot",
+    "nameJp": "ミラージュシュート",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Double Jaw",
+    "nameJp": "ダブル・ジョー",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Dark Matter",
+    "nameJp": "ダークマター",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Brimstone Rain",
+    "nameJp": "ジョーカーレインズ",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Snowstorm Leopard",
+    "nameJp": "パンサーブリザード",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Spin Meister",
+    "nameJp": "スピニングトランザム",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Accelerator Gears",
+    "nameJp": "ギアドライブ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Twin Sun Smash",
+    "nameJp": "双飛遊星弾",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Spring Thunderclap",
+    "nameJp": "春雷",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Sunshine Splitter",
+    "nameJp": "サンシャインブレード",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Force Flash",
+    "nameJp": "剛の一閃",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Swirly Shot",
+    "nameJp": "ぐるぐるシュート",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Cheat Blaster",
+    "nameJp": "チートブラスター",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Sniper Shot",
+    "nameJp": "エイムショット",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Royal Penguin Parade",
+    "nameJp": "ペンギン・ザ・パレード",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Meteoric Fire Tornado",
+    "nameJp": "メテオッド・ファイアトルネード",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Bahamut Crash",
+    "nameJp": "バハムートクラッシュ",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Heavenly Thunder",
+    "nameJp": "天空サンダー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Dust Kick",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Crosscut Feint",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Heel Flick",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Nutmeg",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Feint Dash",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Deceptive Step",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Zipzag Spark",
+    "nameJp": "ジグザグスパーク",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Super Armadillo",
+    "nameJp": "スーパーアルマジロ",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Afterimage",
+    "nameJp": "残像",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Mole Fake",
+    "nameJp": "モグラフェイント",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Deceptor Dribble",
+    "nameJp": "まぼろしドリブル",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Double Touch",
+    "nameJp": "ひとりワンツー",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Aikido",
+    "nameJp": "合気道",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Meteor Shower",
+    "nameJp": "メテオシャワー",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "The Ikaros",
+    "nameJp": "ジ・イカロス",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Super Elastico",
+    "nameJp": "スーパーエラシコ",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Ultra Moon",
+    "nameJp": "ウルトラムーン",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Frosticle",
+    "nameJp": "ホワイトブレード",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Tornado Tunnel",
+    "nameJp": "風穴ドライブ",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Plasma Cut",
+    "nameJp": "スパークエッジドリブル",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Endeavor Rush",
+    "nameJp": "エンデバーラン",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Grand Glow",
+    "nameJp": "オーバーグロウ",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Niagara Falls",
+    "nameJp": "ナイアガラフォールズ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Ghoulish Glare",
+    "nameJp": "ブラックメイル",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Marshal's Light",
+    "nameJp": "ジェネラル・フラッグ",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Feint Play",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Shoulder Tackle",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Curving Cut",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Cunning Pull",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Rolling Steal",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Killer Slide",
+    "nameJp": "キラースライド",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Coil Turn",
+    "nameJp": "コイルターン",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Earthquake",
+    "nameJp": "アースクェイク",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Hurricane Arrows",
+    "nameJp": "ハリケーンアロー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Spinning Cut",
+    "nameJp": "スピニングカット",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Mega Quake",
+    "nameJp": "メガクェイク",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Volcano Cut",
+    "nameJp": "ボルケイノカット",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Double Cyclone",
+    "nameJp": "ダブルサイクロン",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Whirlwind Force",
+    "nameJp": "旋風陣",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Snow Angel",
+    "nameJp": "スノーエンジェル",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Stone Prison",
+    "nameJp": "ストーンプリズン",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Zigzag Flame",
+    "nameJp": "ジグザグフレイム",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Whirlpool",
+    "nameJp": "サルガッソー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Cyclone Sprint",
+    "nameJp": "スパイラルドロー",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Side Swipe",
+    "nameJp": "バニシングカット",
+    "element": "無 (Void)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Acrobotics",
+    "nameJp": "無影乱舞",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Twirling Turtle",
+    "nameJp": "ダンシングタートル",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Foil Formula",
+    "nameJp": "ザ・マトリックス",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Deep Diver",
+    "nameJp": "ディープダイバー",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "The Stronghold",
+    "nameJp": "ザ・フォート",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Kraken Seaquake",
+    "nameJp": "海神・ザ・クェイク",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Strong Punch",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Power Catch",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Mighty Save",
+    "nameJp": "",
+    "element": "",
+    "power": 30,
+    "tp": 30,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Power Shield",
+    "nameJp": "パワーシールド",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Shot Pocket",
+    "nameJp": "シュートポケット",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Toughness Block",
+    "nameJp": "タフネスブロック",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Full Power Shield",
+    "nameJp": "フルパワーシールド",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Burnout",
+    "nameJp": "バーンアウト",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Ice Block",
+    "nameJp": "アイスブロック",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Flash Upper",
+    "nameJp": "フラッシュアッパー",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Nitro Slap",
+    "nameJp": "大爆発張り手",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Colosseum Guard",
+    "nameJp": "コロッセオガード",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Electric Trap",
+    "nameJp": "エレキトラップ",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Power Spike",
+    "nameJp": "パワースパイク",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Snakebite",
+    "nameJp": "サーペントファング",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Gyro-Blocker",
+    "nameJp": "ジャイロセービング",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Icy Grace",
+    "nameJp": "氷結の舞",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Cyber Realm",
+    "nameJp": "アウターワールド",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Stillness Drip",
+    "nameJp": "スウェットスティルネス",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Gravity Dune",
+    "nameJp": "グラビティデザート",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Silent Inkstroke",
+    "nameJp": "明鏡止水",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Royal Shield",
+    "nameJp": "エンパイアシールド",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Tiger God Hand",
+    "nameJp": "ゴッドハンド・タイガー",
+    "element": "山 (Mountain)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Sacred Embrace",
+    "nameJp": "女神大陸",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Divine Deflectors",
+    "nameJp": "ゴッドフィンガーズ",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Special Training Booth"
+  },
+  {
+    "name": "Ultimate Eleven Assault",
+    "nameJp": "最強イレブン波動",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "God Break",
+    "nameJp": "ゴッドブレイク",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Elemental Destroyer",
+    "nameJp": "風林火山デストロイヤー",
+    "element": "無 (Void)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "The Phoenix",
+    "nameJp": "ザ・フェニックス",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "High Voltage",
+    "nameJp": "ハイボルテージ",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Zero Magnum",
+    "nameJp": "ゼロマグナム",
+    "element": "無 (Void)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Omega Hand",
+    "nameJp": "オメガ・ザ・ハンド",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Grand Fire",
+    "nameJp": "グランドファイア",
+    "element": "火 (Fire)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Celestial Smash",
+    "nameJp": "天空落とし",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  },
+  {
+    "name": "Emperor Penguin X",
+    "nameJp": "皇帝ペンギンＸ",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Legendary Chest"
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "players": "Players",
+    "heroes": "Heroes",
+    "fabled": "Fabled",
+    "equipment": "Equipment",
+    "hissatsu": "Hissatsu",
+    "tactics": "Tactics",
+    "hyperMoves": "Hyper Moves",
+    "passives": "Passives",
+    "matchDrops": "Match Drops",
+    "kizuna": "Kizuna Town",
+    "teamBuilder": "Team Builder"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "players": {
+    "search": "Search players",
+    "showing": "Showing {count} of {total} players",
+    "statsNote": "Stats at level 50, Normal rarity",
+    "allElements": "All elements",
+    "allPositions": "All positions",
+    "noResults": "No players found"
+  },
+  "equipment": {
+    "search": "Search equipment",
+    "showing": "Showing {count} of {total} equipment",
+    "allTypes": "All types",
+    "allShops": "All shops",
+    "noResults": "No equipment found"
+  },
+  "hissatsu": {
+    "search": "Search Hissatsu names, shops or effects",
+    "showing": "Showing {count} of {total} Hissatsu",
+    "allTypes": "All types",
+    "allElements": "All elements",
+    "allShops": "All shops",
+    "allExtras": "All extra effects",
+    "noResults": "No hissatsu found"
+  },
+  "tactics": {
+    "search": "Search tactics by name or effects",
+    "showing": "Showing {count} of {total} tactics",
+    "allShops": "All shops",
+    "effect1": "Effect 1",
+    "effect2": "Effect 2",
+    "effect3": "Effect 3",
+    "noResults": "No tactics found"
+  },
+  "hyperMoves": {
+    "search": "Search by name, passive or hissatsu",
+    "showing": "Showing {count} of {total} hyper moves",
+    "allTypes": "All types",
+    "allElements": "All elements",
+    "passiveEffects": "Passive Effects",
+    "noResults": "No hyper moves found",
+    "note": "All of the following can be bought from the Spirit Market. Most Keshins can be unlocked after clearing GO2 route, Totems after Galaxy."
+  },
+  "matchDrops": {
+    "search": "Search match name or description",
+    "passiveId": "Passive ID",
+    "allGames": "All Games",
+    "allDropTypes": "All Drop Types",
+    "matches": "{count} matches",
+    "game": "Game",
+    "match": "Match",
+    "drops": "Drops",
+    "noResults": "No matches found"
+  },
+  "teamBuilder": {
+    "teamName": "Team Name",
+    "formation": "Formation",
+    "share": "Share",
+    "export": "Export",
+    "import": "Import",
+    "clear": "Clear",
+    "squad": "Squad",
+    "reserve": "Reserve",
+    "empty": "Empty",
+    "selectPlayer": "Select Player",
+    "searchPlayers": "Search players...",
+    "position": "Position",
+    "reserveSlot": "Reserve slot - any position",
+    "noPlayersFound": "No players found",
+    "teamStats": "Team Stats",
+    "players": "players",
+    "addPlayers": "Add players to see team stats",
+    "clickPosition": "Click a position on the pitch to get started",
+    "avg": "avg",
+    "invalidFile": "Invalid team file",
+    "copied": "Team link copied to clipboard!"
+  },
+  "stats": {
+    "kick": "Kick",
+    "control": "Control",
+    "technique": "Technique",
+    "pressure": "Pressure",
+    "physical": "Physical",
+    "agility": "Agility",
+    "intelligence": "Intelligence",
+    "total": "Total"
+  },
+  "playerModal": {
+    "baseStats": "Base Stats",
+    "atDf": "AT / DF",
+    "shootAT": "Shoot AT",
+    "focusAT": "Focus AT",
+    "focusDF": "Focus DF",
+    "wallsDF": "Walls DF",
+    "scrambleAT": "Scramble AT",
+    "scrambleDF": "Scramble DF",
+    "kp": "Keeper Power",
+    "firstMoves": "First 3 Moves Learnt",
+    "view3D": "View 3D Model",
+    "availability": "Availability",
+    "gacha": "Gacha",
+    "story": "Story",
+    "versus": "VS"
+  },
+  "elements": {
+    "fire": "Fire",
+    "wind": "Wind",
+    "mountain": "Mountain",
+    "forest": "Forest",
+    "void": "Void"
+  },
+  "positions": {
+    "fw": "FW",
+    "mf": "MF",
+    "df": "DF",
+    "gk": "GK"
+  },
+  "affinity": {
+    "bond": "Bond",
+    "justice": "Justice",
+    "counter": "Counter",
+    "breach": "Breach"
+  },
+  "roles": {
+    "player": "Player",
+    "coordinator": "Coordinator",
+    "manager": "Manager",
+    "coach": "Coach",
+    "custom": "Custom"
+  },
+  "equipmentTypes": {
+    "boots": "Boots",
+    "bracelets": "Bracelets",
+    "pendants": "Pendants",
+    "misc": "Misc"
+  },
+  "hissatsuTypes": {
+    "shoot": "Shoot",
+    "dribble": "Dribble",
+    "block": "Block",
+    "catch": "Catch",
+    "keep": "Keep"
+  },
+  "hissatsuExtras": {
+    "longShoot": "Long Shoot",
+    "counterShoot": "Counter Shoot",
+    "shootBlock": "Shoot Block"
+  },
+  "hyperMoveTypes": {
+    "awakening": "Awakening",
+    "keshin": "Keshin",
+    "totem": "Totem"
+  },
+  "heroes": {
+    "search": "Search heroes",
+    "showing": "Showing {count} of {total} heroes",
+    "noResults": "No heroes found",
+    "moveset": "Moveset"
+  },
+  "fabled": {
+    "search": "Search fabled characters",
+    "showing": "Showing {count} of {total} fabled",
+    "noResults": "No fabled found",
+    "moveset": "Moveset",
+    "altMoveset": "Alt Moveset"
+  },
+  "filters": {
+    "allPositions": "All Positions",
+    "allPlaystyles": "All Playstyles"
+  },
+  "common": {
+    "name": "Name",
+    "player": "Player",
+    "type": "Type",
+    "shop": "Shop",
+    "element": "Element",
+    "position": "Position",
+    "power": "Power",
+    "tension": "Tension",
+    "duration": "Duration",
+    "cooldown": "Cooldown",
+    "loading": "Loading...",
+    "reset": "Reset"
+  },
+  "settings": {
+    "jpNames": "JP Names",
+    "language": "Language"
+  },
+  "passives": {
+    "search": "Search passives by description or stat",
+    "showing": "Showing {count} of {total} passives",
+    "allTypes": "All types",
+    "description": "Description",
+    "stat": "Stat",
+    "value": "Value",
+    "noResults": "No passives found"
+  },
+  "kizuna": {
+    "search": "Search Kizuna Town items",
+    "showing": "Showing {count} of {total} items",
+    "allSizes": "All sizes",
+    "allShops": "All shops",
+    "name": "Name",
+    "size": "Size",
+    "power": "Power",
+    "shop": "Shop",
+    "notes": "Notes",
+    "noResults": "No items found"
+  }
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Keyman Lockdown",
+    "effect1": "Target: Pass lines to target disappear",
+    "effect2": "Target: AT -50%",
+    "effect3": "Target: DF - 50%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 2,
+    "name": "Against All Odds",
+    "effect1": "Geoglyph: Own Special Move Cooldown -25%",
+    "effect2": "",
+    "effect3": "Overall: Shot AT +10%",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 3,
+    "name": "Flame Fortress",
+    "effect1": "Geoglyph: DF+40%",
+    "effect2": "",
+    "effect3": "Overall: KP +10%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 4,
+    "name": "Invisible Link",
+    "effect1": "Combination Move Power +20%",
+    "effect2": "",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 5,
+    "name": "Bond Protocol",
+    "effect1": "Geoglyph: When passing, Bond Power +200%",
+    "effect2": "",
+    "effect3": "Overall: Bond Power Loss -100%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 6,
+    "name": "Boost 15",
+    "effect1": "Scramble AT/DF +25%",
+    "effect2": "",
+    "effect3": "Focus AT/DF +25%",
+    "duration": 0,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 7,
+    "name": "Sideline Spears",
+    "effect1": "Geoglyph: Dash speed +50%",
+    "effect2": "",
+    "effect3": "Overall: Focus AT/DF +20%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 8,
+    "name": "Claymore",
+    "effect1": "Geoglyph: Foul rate when dashing -50%",
+    "effect2": "",
+    "effect3": "Overall: Rough Attack AT/DF +25%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 9,
+    "name": "Three-Pronged Attack",
+    "effect1": "Geogylph: Dribble speed +50%",
+    "effect2": "",
+    "effect3": "Overall: Scramble AT/DF +25%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 10,
+    "name": "Star Path",
+    "effect1": "Geogylph: AT +15%",
+    "effect2": "Geoglyph: DF +40%",
+    "effect3": "Overall: DF +10%",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 11,
+    "name": "Roar of Resolve",
+    "effect1": "Shot Move Power +20%",
+    "effect2": "Dribble Move Power +20%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 12,
+    "name": "Titan Wall",
+    "effect1": "On opposition's half of pitch, Opponent DF -30%",
+    "effect2": "On your half of the pitch, Opponent AT -30%",
+    "effect3": "Enemy Move Speed -10%",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 13,
+    "name": "Stalwart Suppression",
+    "effect1": "Decrease the Focus AT & DF of your Focus Battle opponent to match your own team's",
+    "effect2": "",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 14,
+    "name": "Caucus Race",
+    "effect1": "Enemy Shot Move Power -20%",
+    "effect2": "Enemy Dribble Move Power -20%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 15,
+    "name": "Cavalry Advance",
+    "effect1": "On your half of the pitch, Team DF +30%",
+    "effect2": "On opposition's half of the pitch, Team AT +30%",
+    "effect3": "Move Speed +10%",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 16,
+    "name": "Shinano Formation",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "AT +15%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 17,
+    "name": "Enchanted Forest",
+    "effect1": "Enemy Team DF -10%",
+    "effect2": "Enemy Move Speed -10%",
+    "effect3": "Opposition more likely to miss passes",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Special Training Booth"
+  },
+  {
+    "id": 18,
+    "name": "Ghost Lock",
+    "effect1": "Disable opponents near ball",
+    "effect2": "",
+    "effect3": "",
+    "duration": 5,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 19,
+    "name": "Sky's the Limit",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 20,
+    "name": "Box Lock",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 21,
+    "name": "Dual Typhoon",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 22,
+    "name": "Absolute Knights",
+    "effect1": "Enemy Move Speed -10%",
+    "effect2": "Opposition more likely to miss passes",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 23,
+    "name": "Perfect Zone Press",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 24,
+    "name": "Invincible Lance",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Breach rate +5%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 25,
+    "name": "Andres Antlion",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "Overall: Enemy Move Speed -10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 26,
+    "name": "Rolling Thunder",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 27,
+    "name": "Catenaccio Counter",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "Overall: Shot AT +10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 28,
+    "name": "Amazon Wave",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Enemy Move Speed -10%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 29,
+    "name": "Circular Drive",
+    "effect1": "Target: Move Speed -10%",
+    "effect2": "Target: DF -50%",
+    "effect3": "Target: Pass lines to target disappear",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 30,
+    "name": "Dark Thunder",
+    "effect1": "Disable opponents near ball",
+    "effect2": "Enemy Move Speed -10%",
+    "effect3": "",
+    "duration": 5,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 31,
+    "name": "Virtuoso",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "When passing, Bond Power +100%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 32,
+    "name": "Thunderbolt",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "Shot Move Power +10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 33,
+    "name": "Twin Wings",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Foul rate when dashing -50%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 34,
+    "name": "Track Cycling",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Tension depletion -25%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 35,
+    "name": "Absolute Barrier",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 36,
+    "name": "Trinity Force",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Enemy Team DF -15%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 37,
+    "name": "Upsy-Daisy",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "Move Speed +10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 38,
+    "name": "3D Reflector",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 39,
+    "name": "Virtuoso Vulcano",
+    "effect1": "No pass intercepts & skip Focus Battles",
+    "effect2": "No pass intercepts",
+    "effect3": "Shot AT +10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 40,
+    "name": "Tortoiseshell Pattern",
+    "effect1": "Target: Pass lines to target disappear",
+    "effect2": "Target: AT -50%",
+    "effect3": "Target: AT DF -50%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 41,
+    "name": "Grand Plan",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Shot AT +10%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 42,
+    "name": "Suction Vortex",
+    "effect1": "Geoglyph: Stun opponent with the ball",
+    "effect2": "Geoglyph: Opponent loses ball",
+    "effect3": "Overall: Move Speed +10%",
+    "duration": 10,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 43,
+    "name": "Sandstorm Skid",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Foul Rate -5%",
+    "effect3": "",
+    "duration": 30,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 44,
+    "name": "Mark of the Berserker",
+    "effect1": "Deactivate opponent's totems/souls",
+    "effect2": "",
+    "effect3": "",
+    "duration": 1,
+    "cooldown": 90,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 45,
+    "name": "Bull Horns",
+    "effect1": "Geoglyph: Focus AT/DF +40%",
+    "effect2": "Breach rate +5%",
+    "effect3": "Overall: Foul rate +25%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "BB Mart"
+  },
+  {
+    "id": 46,
+    "name": "Mount Fuji",
+    "effect1": "Geoglyph: Tension depletion -25%",
+    "effect2": "",
+    "effect3": "Overall: Tension acquisition +25%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "BB Mart"
+  },
+  {
+    "id": 47,
+    "name": "Waxing Moon",
+    "effect1": "Geoglyph: When Tension is below 30%, Focus AT/DF +40%",
+    "effect2": "Geoglyph: When Tension is below 30%, Scramble AT/DF +40%",
+    "effect3": "Overall: Focus, Scramble AT/DF +10%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "BB Mart"
+  },
+  {
+    "id": 48,
+    "name": "Diamond Defence",
+    "effect1": "Geogylph: DF +30%",
+    "effect2": "Save rate +5%",
+    "effect3": "Overall: When team is scattered, Bond Power gain increases by 25%",
+    "duration": 40,
+    "cooldown": 90,
+    "shop": "BB Mart"
+  }
+]

@@ -1,0 +1,3872 @@
+[
+  {
+    "match": "Royal Academy",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Inazuma Kids FC",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Occult",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Wild",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Brainwashing",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "coordinator"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Otaku",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Raimon Veterans",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "coordinator"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Shuriken",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Farm",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Kirkwood",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Zeus",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Team Ogre",
+    "game": "IE1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Young Inazuma",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Secret Service",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Alpine",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Gemini Storm",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Cloister Divinity",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Royal Academy Redux",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Super Triple C",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Epsilon",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 21,
+        "type": "coordinator"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Fauxshore",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Mary Times",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Advanced Epsilon",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Prominence",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Diamond Dust",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Raimon",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Chaos",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Genesis",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Dark Emperors",
+    "game": "IE2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Team Kido",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Big Waves",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 9,
+        "type": "coordinator"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Desert Lions",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Neo National",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Fire Dragon",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 21,
+        "type": "coordinator"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Queen's Knights",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Team K",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "The Empire",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Unicorn",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Red Matador",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Orpheus",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Apostles from the Sky",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Devil Army Z",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Dark Angels",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "The Kingdom",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Team Garshield",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Little Gigantes",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 9,
+        "type": "coordinator"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Graduation Team B",
+    "game": "IE3",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Black Templars",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "coordinator"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Inazuma Kids FC",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Prodigy Grammar",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Milky Way Charter",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Almighty Faith",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Royal Academy",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Pirates Cove",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Golden Oldies",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Lunar Sea",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Alpine",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Kirkwood",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Eternal Light",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Ancient Darkness",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "coordinator"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Team Zero",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Mirage",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Revolutionaries",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "coordinator"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Universal",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Mount Olympus",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Dragon Link",
+    "game": "IEGO1",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Protocol Omega",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Japan United",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Protocol Omega 2.",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Shiroshika",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Imagawa's Ire",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Protocol Omega 3.",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "The Terracotta Army",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "coordinator"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Zanark Domain",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Perfect Cascade",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Knights of the Round Table",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Zan",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Ghil",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Gahl",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Ragnah",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Zanark's Outsiders",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Seagull FC",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "manager"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Twinford",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "West Manor",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 17,
+        "type": "coordinator"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Orchid Academy",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Northbright",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "custom"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      },
+      {
+        "id": 17,
+        "type": "custom"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Crosswind-Fauxshore",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 21,
+        "type": "manager"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Eastwind",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 9,
+        "type": "manager"
+      },
+      {
+        "id": 10,
+        "type": "custom"
+      },
+      {
+        "id": 11,
+        "type": "custom"
+      },
+      {
+        "id": 12,
+        "type": "custom"
+      },
+      {
+        "id": 13,
+        "type": "custom"
+      },
+      {
+        "id": 14,
+        "type": "custom"
+      },
+      {
+        "id": 15,
+        "type": "custom"
+      },
+      {
+        "id": 16,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Stormridge",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 17,
+        "type": "manager"
+      },
+      {
+        "id": 18,
+        "type": "custom"
+      },
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "AI Academy",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 19,
+        "type": "custom"
+      },
+      {
+        "id": 20,
+        "type": "custom"
+      },
+      {
+        "id": 21,
+        "type": "custom"
+      },
+      {
+        "id": 22,
+        "type": "custom"
+      },
+      {
+        "id": 23,
+        "type": "custom"
+      },
+      {
+        "id": 24,
+        "type": "custom"
+      },
+      {
+        "id": 25,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Noble Insight",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "manager"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Lawcrest",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 33,
+        "type": "coordinator"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      },
+      {
+        "id": 35,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      },
+      {
+        "id": 37,
+        "type": "custom"
+      },
+      {
+        "id": 38,
+        "type": "custom"
+      },
+      {
+        "id": 39,
+        "type": "custom"
+      },
+      {
+        "id": 40,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Royal Academy",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 26,
+        "type": "custom"
+      },
+      {
+        "id": 27,
+        "type": "custom"
+      },
+      {
+        "id": 28,
+        "type": "custom"
+      },
+      {
+        "id": 29,
+        "type": "custom"
+      },
+      {
+        "id": 30,
+        "type": "custom"
+      },
+      {
+        "id": 31,
+        "type": "custom"
+      },
+      {
+        "id": 32,
+        "type": "custom"
+      },
+      {
+        "id": 33,
+        "type": "custom"
+      },
+      {
+        "id": 34,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Alpine",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "custom"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      },
+      {
+        "id": 36,
+        "type": "custom"
+      }
+    ]
+  },
+  {
+    "match": "Raimon",
+    "game": "IEGO2",
+    "drops": [
+      {
+        "id": 1,
+        "type": "coordinator"
+      },
+      {
+        "id": 2,
+        "type": "custom"
+      },
+      {
+        "id": 3,
+        "type": "custom"
+      },
+      {
+        "id": 4,
+        "type": "custom"
+      },
+      {
+        "id": 5,
+        "type": "custom"
+      },
+      {
+        "id": 6,
+        "type": "custom"
+      },
+      {
+        "id": 7,
+        "type": "custom"
+      },
+      {
+        "id": 8,
+        "type": "custom"
+      }
+    ]
+  }
+]
