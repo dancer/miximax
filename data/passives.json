@@ -91,9 +91,9 @@
     "id": "custom-12",
     "number": 12,
     "type": "custom",
-    "description": "For players of different positions - Focus AT & DF 1.5%",
+    "description": "For players of different positions - Focus AT & DF 1%",
     "stat": "Focus AT & DF",
-    "value": "1.5%"
+    "value": "1%"
   },
   {
     "id": "custom-13",
