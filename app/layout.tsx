@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
@@ -60,6 +61,7 @@ export default async function RootLayout({
           <Sidebar />
           <MainContent>{children}</MainContent>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );

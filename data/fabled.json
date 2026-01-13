@@ -24,9 +24,7 @@
       "Ignited Steal",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -61,9 +59,7 @@
       "Eternal Blizzard",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 158,
     "control": 156,
     "technique": 141,
@@ -98,9 +94,7 @@
       "Supernova",
       "Instant Burst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -135,9 +129,7 @@
       "Odin Sword",
       "Instant Burst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -172,9 +164,7 @@
       "Doom Break",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -209,9 +199,7 @@
       "Supernatural Strike",
       "Lancelot"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -246,9 +234,7 @@
       "Ozone Flayer",
       "White Wyvern"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -283,9 +269,7 @@
       "Criss-Cross",
       "Black Butcher"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -320,9 +304,7 @@
       "Dance on Air",
       "Mix 'n' Match: Big"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 158,
     "control": 156,
     "technique": 141,
@@ -357,9 +339,7 @@
       "Spin Meister",
       "Feng-Huang"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -394,9 +374,7 @@
       "Omega Assault",
       "Athene"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -431,9 +409,7 @@
       "Atomic Spin",
       "Lycaon"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -468,9 +444,7 @@
       "Fire Drill",
       "Mix 'n' Match: Zeta"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -505,9 +479,7 @@
       "Decoy Deploy",
       "Mix 'n' Match: S Gene"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -542,9 +514,7 @@
       "God Hand",
       "Victory Genie"
     ],
-    "first3": [
-      "For nearby players, Shot AT +3.5%"
-    ],
+    "first3": ["For nearby players, Shot AT +3.5%"],
     "kick": 158,
     "control": 156,
     "technique": 141,
@@ -579,9 +549,7 @@
       "Spring Thunderclap",
       "Ironclad Guardian"
     ],
-    "first3": [
-      "For players of the same element, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same element, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -616,9 +584,7 @@
       "Ultimate Eleven Assault",
       "Griffin"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 139,
     "control": 160,
     "technique": 160,
@@ -653,9 +619,7 @@
       "Emperor Penguin No. 3",
       "Instant Burst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -690,9 +654,7 @@
       "Pegasus Shot",
       "Burning Overdrive"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -727,9 +689,7 @@
       "Chaos Break",
       "Instant Burst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -764,9 +724,7 @@
       "Emperor Penguin No. 3",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -801,9 +759,7 @@
       "Cosmic Blast",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -838,9 +794,7 @@
       "Fortissimo",
       "Maestro"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
@@ -875,9 +829,7 @@
       "The Mountain",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 123,
     "control": 129,
     "technique": 130,
@@ -912,9 +864,7 @@
       "Whirlwind Drop",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 123,
     "control": 129,
     "technique": 130,
@@ -949,9 +899,7 @@
       "Vac Attack",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 123,
     "control": 129,
     "technique": 130,
@@ -1023,9 +971,7 @@
       "Mystic Mist",
       "Mix 'n' Match: Joan"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 123,
     "control": 129,
     "technique": 130,
@@ -1060,9 +1006,7 @@
       "The Earth",
       "Burning Overdrive"
     ],
-    "first3": [
-      "For players of the same element, Castle Wall DF +1.5%"
-    ],
+    "first3": ["For players of the same element, Castle Wall DF +1.5%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1097,9 +1041,7 @@
       "Cyclone",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1134,9 +1076,7 @@
       "Gungnir",
       "Burning Overdrive"
     ],
-    "first3": [
-      "For players of the same element, Castle Wall DF +1.5%"
-    ],
+    "first3": ["For players of the same element, Castle Wall DF +1.5%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1171,9 +1111,7 @@
       "X Blast",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1208,9 +1146,7 @@
       "Cyclone",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1245,9 +1181,7 @@
       "Athena's Anthem",
       "White King"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1282,9 +1216,7 @@
       "Pancake Defence",
       "Mix 'n' Match: Liu Bei"
     ],
-    "first3": [
-      "For nearby players, Castle Wall DF +3.5%"
-    ],
+    "first3": ["For nearby players, Castle Wall DF +3.5%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1319,9 +1251,7 @@
       "Gladius Arch",
       "Burning Overdrive"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1356,9 +1286,7 @@
       "The Typhoon",
       "Burning Overdrive"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 123,
     "control": 129,
     "technique": 130,
@@ -1393,9 +1321,7 @@
       "Infinite Wall",
       "Ironclad Guardian"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1430,9 +1356,7 @@
       "Black Dawn",
       "Falcon Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1467,9 +1391,7 @@
       "Stargazer",
       "Ixaal Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1504,9 +1426,7 @@
       "Orbital Drive",
       "Begiran Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1541,9 +1461,7 @@
       "Atlas Sword",
       "Gryphbang Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1578,9 +1496,7 @@
       "Flame Veil",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1615,9 +1531,7 @@
       "Water Veil",
       "Elemental Catalyst"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1652,9 +1566,7 @@
       "Scream of Eden",
       "Pelion Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1689,9 +1601,7 @@
       "Scream of Eden",
       "Belion Totem"
     ],
-    "first3": [
-      "For players of the same position, Shot AT +3.5%"
-    ],
+    "first3": ["For players of the same position, Shot AT +3.5%"],
     "kick": 168,
     "control": 160,
     "technique": 146,
@@ -1726,9 +1636,7 @@
       "Space Penguin",
       "Instant Burst"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 139,
     "control": 160,
     "technique": 160,
@@ -1763,9 +1671,7 @@
       "Killer Slide",
       "Mammoth Totem"
     ],
-    "first3": [
-      "For players of different elements, Castle Wall DF +1%"
-    ],
+    "first3": ["For players of different elements, Castle Wall DF +1%"],
     "kick": 123,
     "control": 135,
     "technique": 127,
@@ -1800,9 +1706,7 @@
       "Iron Wall",
       "Grizzly Totem"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 139,
     "control": 160,
     "technique": 160,
@@ -1837,9 +1741,7 @@
       "Jackknife",
       "Ironclad Guardian"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 139,
     "control": 160,
     "technique": 160,
@@ -1874,9 +1776,7 @@
       "Holy Roller",
       "Phoenichias Totem"
     ],
-    "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
-    ],
+    "first3": ["On your half of the pitch, Team Focus AT & DF +1%"],
     "kick": 144,
     "control": 156,
     "technique": 151,
