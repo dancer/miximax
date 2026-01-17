@@ -31,6 +31,7 @@ const LOCALES = [
   { code: "ja", label: "JP", flag: "JP" },
   { code: "de", label: "DE", flag: "DE" },
   { code: "fr", label: "FR", flag: "FR" },
+  { code: "es", label: "ES", flag: "ES" },
 ];
 
 export default function Sidebar() {

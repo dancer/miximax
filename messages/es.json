@@ -1,0 +1,227 @@
+{
+  "nav": {
+    "players": "Jugadores",
+    "heroes": "Héroes",
+    "fabled": "Legendarios",
+    "equipment": "Equipamiento",
+    "hissatsu": "Hissatsu",
+    "tactics": "Tácticas",
+    "hyperMoves": "Hyper Moves",
+    "passives": "Pasivas",
+    "matchDrops": "Recompensas",
+    "kizuna": "Ciudad Kizuna",
+    "teamBuilder": "Constructor de Equipo"
+  },
+  "theme": {
+    "light": "Claro",
+    "dark": "Oscuro"
+  },
+  "players": {
+    "search": "Buscar jugadores",
+    "showing": "Mostrando {count} de {total} jugadores",
+    "statsNote": "Stats a nivel 50, rareza Normal",
+    "allElements": "Todos los elementos",
+    "allPositions": "Todas las posiciones",
+    "noResults": "No se encontraron jugadores"
+  },
+  "equipment": {
+    "search": "Buscar equipamiento",
+    "showing": "Mostrando {count} de {total} equipamiento",
+    "allTypes": "Todos los tipos",
+    "allShops": "Todas las tiendas",
+    "noResults": "No se encontró equipamiento"
+  },
+  "hissatsu": {
+    "search": "Buscar Hissatsu por nombre, tienda o efecto",
+    "showing": "Mostrando {count} de {total} Hissatsu",
+    "allTypes": "Todos los tipos",
+    "allElements": "Todos los elementos",
+    "allShops": "Todas las tiendas",
+    "allExtras": "Todos los efectos extra",
+    "noResults": "No se encontraron hissatsu"
+  },
+  "tactics": {
+    "search": "Buscar tácticas por nombre o efectos",
+    "showing": "Mostrando {count} de {total} tácticas",
+    "allShops": "Todas las tiendas",
+    "effect1": "Efecto 1",
+    "effect2": "Efecto 2",
+    "effect3": "Efecto 3",
+    "noResults": "No se encontraron tácticas"
+  },
+  "hyperMoves": {
+    "search": "Buscar por nombre, pasiva o hissatsu",
+    "showing": "Mostrando {count} de {total} hyper moves",
+    "allTypes": "Todos los tipos",
+    "allElements": "Todos los elementos",
+    "passiveEffects": "Efectos Pasivos",
+    "noResults": "No se encontraron hyper moves",
+    "note": "Todos los siguientes se pueden comprar en el Mercado de Espíritus. La mayoría de Keshins se desbloquean tras completar la ruta GO2, los Totems tras Galaxy."
+  },
+  "matchDrops": {
+    "search": "Buscar nombre o descripción del partido",
+    "passiveId": "ID de Pasiva",
+    "allGames": "Todos los Juegos",
+    "allDropTypes": "Todos los Tipos",
+    "matches": "{count} partidos",
+    "game": "Juego",
+    "match": "Partido",
+    "drops": "Recompensas",
+    "noResults": "No se encontraron partidos"
+  },
+  "teamBuilder": {
+    "teamName": "Nombre del Equipo",
+    "formation": "Formación",
+    "share": "Compartir",
+    "export": "Exportar",
+    "import": "Importar",
+    "clear": "Limpiar",
+    "squad": "Plantilla",
+    "reserve": "Reserva",
+    "empty": "Vacío",
+    "selectPlayer": "Seleccionar Jugador",
+    "searchPlayers": "Buscar jugadores...",
+    "position": "Posición",
+    "reserveSlot": "Reserva - cualquier posición",
+    "noPlayersFound": "No se encontraron jugadores",
+    "teamStats": "Stats del Equipo",
+    "players": "jugadores",
+    "addPlayers": "Añade jugadores para ver stats",
+    "clickPosition": "Haz clic en una posición para empezar",
+    "avg": "prom",
+    "invalidFile": "Archivo de equipo inválido",
+    "copied": "¡Enlace copiado al portapapeles!"
+  },
+  "stats": {
+    "kick": "Tiro",
+    "control": "Control",
+    "technique": "Técnica",
+    "pressure": "Presión",
+    "physical": "Físico",
+    "agility": "Agilidad",
+    "intelligence": "Inteligencia",
+    "total": "Total"
+  },
+  "playerModal": {
+    "baseStats": "Stats Base",
+    "atDf": "AT / DF",
+    "shootAT": "Tiro AT",
+    "focusAT": "Focus AT",
+    "focusDF": "Focus DF",
+    "wallsDF": "Muros DF",
+    "scrambleAT": "Scramble AT",
+    "scrambleDF": "Scramble DF",
+    "kp": "Poder de Portero",
+    "firstMoves": "Primeros 3 Movimientos",
+    "view3D": "Ver Modelo 3D",
+    "availability": "Disponibilidad",
+    "gacha": "Gacha",
+    "story": "Historia",
+    "versus": "VS"
+  },
+  "elements": {
+    "fire": "Fuego",
+    "wind": "Viento",
+    "mountain": "Montaña",
+    "forest": "Bosque",
+    "void": "Vacío"
+  },
+  "positions": {
+    "fw": "DL",
+    "mf": "MC",
+    "df": "DF",
+    "gk": "PT"
+  },
+  "affinity": {
+    "bond": "Vínculo",
+    "justice": "Justicia",
+    "counter": "Contra",
+    "breach": "Ruptura"
+  },
+  "roles": {
+    "player": "Jugador",
+    "coordinator": "Coordinador",
+    "manager": "Mánager",
+    "coach": "Entrenador",
+    "custom": "Personalizado"
+  },
+  "equipmentTypes": {
+    "boots": "Botas",
+    "bracelets": "Pulseras",
+    "pendants": "Colgantes",
+    "misc": "Varios"
+  },
+  "hissatsuTypes": {
+    "shoot": "Tiro",
+    "dribble": "Regate",
+    "block": "Bloqueo",
+    "catch": "Parada",
+    "keep": "Mantener"
+  },
+  "hissatsuExtras": {
+    "longShoot": "Tiro Largo",
+    "counterShoot": "Contratiro",
+    "shootBlock": "Bloqueo de Tiro"
+  },
+  "hyperMoveTypes": {
+    "awakening": "Despertar",
+    "keshin": "Keshin",
+    "totem": "Tótem"
+  },
+  "heroes": {
+    "search": "Buscar héroes",
+    "showing": "Mostrando {count} de {total} héroes",
+    "noResults": "No se encontraron héroes",
+    "moveset": "Movimientos"
+  },
+  "fabled": {
+    "search": "Buscar personajes legendarios",
+    "showing": "Mostrando {count} de {total} legendarios",
+    "noResults": "No se encontraron legendarios",
+    "moveset": "Movimientos",
+    "altMoveset": "Movimientos Alt"
+  },
+  "filters": {
+    "allPositions": "Todas las Posiciones",
+    "allPlaystyles": "Todos los Estilos"
+  },
+  "common": {
+    "name": "Nombre",
+    "player": "Jugador",
+    "type": "Tipo",
+    "shop": "Tienda",
+    "element": "Elemento",
+    "position": "Posición",
+    "power": "Poder",
+    "tension": "Tensión",
+    "duration": "Duración",
+    "cooldown": "Enfriamiento",
+    "loading": "Cargando...",
+    "reset": "Reiniciar"
+  },
+  "settings": {
+    "jpNames": "Nombres JP",
+    "language": "Idioma"
+  },
+  "passives": {
+    "search": "Buscar pasivas por descripción o stat",
+    "showing": "Mostrando {count} de {total} pasivas",
+    "allTypes": "Todos los tipos",
+    "description": "Descripción",
+    "stat": "Stat",
+    "value": "Valor",
+    "noResults": "No se encontraron pasivas"
+  },
+  "kizuna": {
+    "search": "Buscar objetos de Ciudad Kizuna",
+    "showing": "Mostrando {count} de {total} objetos",
+    "allSizes": "Todos los tamaños",
+    "allShops": "Todas las tiendas",
+    "name": "Nombre",
+    "size": "Tamaño",
+    "power": "Poder",
+    "shop": "Tienda",
+    "notes": "Notas",
+    "noResults": "No se encontraron objetos"
+  }
+}
