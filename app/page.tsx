@@ -22,6 +22,14 @@ import { getJpName } from "@/lib/names";
 import { useSettings } from "@/lib/store";
 
 type Player = (typeof playersData)[number];
+
+const AFFINITIES = [
+  ...new Set(
+    playersData
+      .map((p) => p.affinity)
+      .filter((a) => a && a !== "#N/A" && a !== "Unknown"),
+  ),
+].sort();
 type SortKey =
   | "name"
   | "total"
@@ -42,6 +50,7 @@ export default function PlayersPage() {
   const [search, setSearch] = useState("");
   const [element, setElement] = useState<string>("all");
   const [position, setPosition] = useState<string>("all");
+  const [affinity, setAffinity] = useState<string>("all");
   const [sortKey, setSortKey] = useState<SortKey>("kick");
   const [sortDir, setSortDir] = useState<SortDir>("desc");
   const [visible, setVisible] = useState(VISIBLE_COUNT);
@@ -54,6 +63,7 @@ export default function PlayersPage() {
       if (!p.name || p.name === "???" || p.name.trim() === "") return false;
       if (element !== "all" && p.element !== element) return false;
       if (position !== "all" && p.position !== position) return false;
+      if (affinity !== "all" && p.affinity !== affinity) return false;
       if (q) {
         const enName = p.name.toLowerCase();
         const jpName = getJpName(p.name).toLowerCase();
@@ -69,7 +79,7 @@ export default function PlayersPage() {
       }
       return true;
     });
-  }, [search, element, position]);
+  }, [search, element, position, affinity]);
 
   const sorted = useMemo(() => {
     return [...filtered].sort((a, b) => {
@@ -88,7 +98,8 @@ export default function PlayersPage() {
 
   const players = sorted.slice(0, visible);
   const hasMore = visible < sorted.length;
-  const filtersActive = search || element !== "all" || position !== "all";
+  const filtersActive =
+    search || element !== "all" || position !== "all" || affinity !== "all";
 
   useEffect(() => {
     if (!hasMore) return;
@@ -212,12 +223,25 @@ export default function PlayersPage() {
               </option>
             ))}
           </select>
+          <select
+            value={affinity}
+            onChange={(e) => setAffinity(e.target.value)}
+            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
+          >
+            <option value="all">{t("filters.allPlaystyles")}</option>
+            {AFFINITIES.map((a) => (
+              <option key={a} value={a}>
+                {getAffinityLabel(a)}
+              </option>
+            ))}
+          </select>
           {filtersActive && (
             <button
               onClick={() => {
                 setSearch("");
                 setElement("all");
                 setPosition("all");
+                setAffinity("all");
               }}
               className="flex items-center gap-1 rounded-lg border border-border px-3 py-2 text-sm text-muted transition-colors hover:border-accent hover:text-accent"
             >
