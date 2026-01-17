@@ -11,6 +11,7 @@ import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
+import Select from "@/components/Select";
 import fabledData from "@/data/fabled.json";
 import { getPositionStyle } from "@/lib/constants";
 import { useSettings } from "@/lib/store";
@@ -159,30 +160,22 @@ export default function FabledPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
-          <select
+          <Select
             value={position}
-            onChange={(e) => setPosition(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("filters.allPositions")}</option>
-            {POSITIONS.map((p) => (
-              <option key={p} value={p}>
-                {p}
-              </option>
-            ))}
-          </select>
-          <select
+            onChange={setPosition}
+            options={[
+              { value: "all", label: t("filters.allPositions") },
+              ...POSITIONS.map((p) => ({ value: p, label: p })),
+            ]}
+          />
+          <Select
             value={element}
-            onChange={(e) => setElement(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hissatsu.allElements")}</option>
-            {ELEMENTS.map((el) => (
-              <option key={el} value={el}>
-                {el}
-              </option>
-            ))}
-          </select>
+            onChange={setElement}
+            options={[
+              { value: "all", label: t("hissatsu.allElements") },
+              ...ELEMENTS.map((el) => ({ value: el, label: el })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {

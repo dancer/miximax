@@ -10,6 +10,7 @@ import {
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
+import Select from "@/components/Select";
 import hyperMovesData from "@/data/hyper-moves.json";
 
 type SortKey = "name" | "type" | "element" | "power";
@@ -196,6 +197,28 @@ export default function HyperMovesPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
+          <Select
+            value={type}
+            onChange={setType}
+            options={[
+              { value: "all", label: t("hyperMoves.allTypes") },
+              ...TYPES.map((hType) => ({
+                value: hType,
+                label: getTypeLabel(hType),
+              })),
+            ]}
+          />
+          <Select
+            value={element}
+            onChange={setElement}
+            options={[
+              { value: "all", label: t("hyperMoves.allElements") },
+              ...ELEMENTS.map((el) => ({
+                value: el,
+                label: getElementLabel(el),
+              })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {
@@ -209,32 +232,6 @@ export default function HyperMovesPage() {
               {t("common.reset")}
             </button>
           )}
-        </div>
-        <div className="mt-2 flex flex-wrap items-center gap-2">
-          <select
-            value={type}
-            onChange={(e) => setType(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hyperMoves.allTypes")}</option>
-            {TYPES.map((hType) => (
-              <option key={hType} value={hType}>
-                {getTypeLabel(hType)}
-              </option>
-            ))}
-          </select>
-          <select
-            value={element}
-            onChange={(e) => setElement(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hyperMoves.allElements")}</option>
-            {ELEMENTS.map((el) => (
-              <option key={el} value={el}>
-                {getElementLabel(el)}
-              </option>
-            ))}
-          </select>
           <span className="ml-auto flex items-center gap-1.5 text-xs text-muted">
             <Info className="size-3.5" />
             {t("hyperMoves.note")}

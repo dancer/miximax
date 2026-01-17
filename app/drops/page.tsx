@@ -2,6 +2,7 @@
 import { Hash, RotateCcw, Search } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useMemo, useState } from "react";
+import Select from "@/components/Select";
 import matchDropsData from "@/data/match-drops.json";
 import passivesData from "@/data/passives.json";
 
@@ -122,6 +123,25 @@ export default function MatchDropsPage() {
               className="w-24 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
+          <Select
+            value={game}
+            onChange={setGame}
+            options={[
+              { value: "all", label: t("matchDrops.allGames") },
+              ...GAMES.map((g) => ({ value: g, label: g })),
+            ]}
+          />
+          <Select
+            value={dropType}
+            onChange={setDropType}
+            options={[
+              { value: "all", label: t("matchDrops.allDropTypes") },
+              ...DROP_TYPES.slice(1).map((type) => ({
+                value: type,
+                label: getRoleLabel(type),
+              })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {
@@ -136,32 +156,6 @@ export default function MatchDropsPage() {
               {t("common.reset")}
             </button>
           )}
-        </div>
-        <div className="mt-2 flex flex-wrap gap-2">
-          <select
-            value={game}
-            onChange={(e) => setGame(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("matchDrops.allGames")}</option>
-            {GAMES.map((g) => (
-              <option key={g} value={g}>
-                {g}
-              </option>
-            ))}
-          </select>
-          <select
-            value={dropType}
-            onChange={(e) => setDropType(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("matchDrops.allDropTypes")}</option>
-            {DROP_TYPES.slice(1).map((type) => (
-              <option key={type} value={type}>
-                {getRoleLabel(type)}
-              </option>
-            ))}
-          </select>
         </div>
       </div>
       <div className="mb-2 text-xs text-muted">

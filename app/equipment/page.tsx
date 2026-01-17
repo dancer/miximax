@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
+import Select from "@/components/Select";
 import equipmentData from "@/data/equipment.json";
 
 type SortKey =
@@ -172,6 +173,25 @@ export default function EquipmentPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
+          <Select
+            value={type}
+            onChange={setType}
+            options={[
+              { value: "all", label: t("equipment.allTypes") },
+              ...TYPES.map((equipType) => ({
+                value: equipType,
+                label: getTypeLabel(equipType),
+              })),
+            ]}
+          />
+          <Select
+            value={shop}
+            onChange={setShop}
+            options={[
+              { value: "all", label: t("equipment.allShops") },
+              ...SHOPS.map((s) => ({ value: s, label: s })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {
@@ -185,32 +205,6 @@ export default function EquipmentPage() {
               {t("common.reset")}
             </button>
           )}
-        </div>
-        <div className="mt-2 flex flex-wrap gap-2">
-          <select
-            value={type}
-            onChange={(e) => setType(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("equipment.allTypes")}</option>
-            {TYPES.map((equipType) => (
-              <option key={equipType} value={equipType}>
-                {getTypeLabel(equipType)}
-              </option>
-            ))}
-          </select>
-          <select
-            value={shop}
-            onChange={(e) => setShop(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("equipment.allShops")}</option>
-            {SHOPS.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
         </div>
       </div>
       <div className="mb-2 text-xs text-muted">

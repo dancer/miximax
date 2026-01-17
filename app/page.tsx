@@ -11,7 +11,8 @@ import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
 import PlayerModal from "@/components/PlayerModal";
-import playersData from "@/data/players.json";
+import Select from "@/components/Select";
+import rawPlayersData from "@/data/players.json";
 import {
   ELEMENTS,
   getAffinityStyle,
@@ -21,7 +22,32 @@ import {
 import { getJpName } from "@/lib/names";
 import { useSettings } from "@/lib/store";
 
-type Player = (typeof playersData)[number];
+type Player = {
+  id: number;
+  name: string;
+  nickname: string;
+  image: string;
+  modelUrl?: string;
+  fullbodyBase?: string;
+  game: string;
+  position: string;
+  altPosition?: string;
+  element: string;
+  affinity: string;
+  role: string;
+  kick: number;
+  control: number;
+  technique: number;
+  pressure: number;
+  physical: number;
+  agility: number;
+  intelligence: number;
+  total: number;
+  ageGroup: string;
+  year: string;
+  gender: string;
+};
+const playersData = rawPlayersData as Player[];
 
 const AFFINITIES = [
   ...new Set(
@@ -209,54 +235,44 @@ export default function PlayersPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
-          <select
+          <Select
             value={element}
-            onChange={(e) => setElement(e.target.value)}
-            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
-          >
-            <option value="all">{t("players.allElements")}</option>
-            {ELEMENTS.map((e) => (
-              <option key={e} value={e}>
-                {t(`elements.${e.toLowerCase()}`)}
-              </option>
-            ))}
-          </select>
-          <select
+            onChange={setElement}
+            options={[
+              { value: "all", label: t("players.allElements") },
+              ...ELEMENTS.map((e) => ({
+                value: e,
+                label: t(`elements.${e.toLowerCase()}`),
+              })),
+            ]}
+          />
+          <Select
             value={position}
-            onChange={(e) => setPosition(e.target.value)}
-            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
-          >
-            <option value="all">{t("players.allPositions")}</option>
-            {POSITIONS.map((p) => (
-              <option key={p} value={p}>
-                {p}
-              </option>
-            ))}
-          </select>
-          <select
+            onChange={setPosition}
+            options={[
+              { value: "all", label: t("players.allPositions") },
+              ...POSITIONS.map((p) => ({ value: p, label: p })),
+            ]}
+          />
+          <Select
             value={affinity}
-            onChange={(e) => setAffinity(e.target.value)}
-            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
-          >
-            <option value="all">{t("filters.allPlaystyles")}</option>
-            {AFFINITIES.map((a) => (
-              <option key={a} value={a}>
-                {getAffinityLabel(a)}
-              </option>
-            ))}
-          </select>
-          <select
+            onChange={setAffinity}
+            options={[
+              { value: "all", label: t("filters.allPlaystyles") },
+              ...AFFINITIES.map((a) => ({
+                value: a,
+                label: getAffinityLabel(a),
+              })),
+            ]}
+          />
+          <Select
             value={role}
-            onChange={(e) => setRole(e.target.value)}
-            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
-          >
-            <option value="all">{t("filters.allRoles")}</option>
-            {ROLES.map((r) => (
-              <option key={r} value={r}>
-                {getRoleLabel(r)}
-              </option>
-            ))}
-          </select>
+            onChange={setRole}
+            options={[
+              { value: "all", label: t("filters.allRoles") },
+              ...ROLES.map((r) => ({ value: r, label: getRoleLabel(r) })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {

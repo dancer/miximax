@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
+import Select from "@/components/Select";
 import kizunaData from "@/data/kizuna-items.json";
 
 type SortKey = "name" | "power" | "size";
@@ -169,30 +170,25 @@ export default function KizunaPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
-          <select
+          <Select
             value={size}
-            onChange={(e) => setSize(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("kizuna.allSizes")}</option>
-            {SIZES.map((s) => (
-              <option key={s} value={s}>
-                {getSizeStyle(s).text} ({s})
-              </option>
-            ))}
-          </select>
-          <select
+            onChange={setSize}
+            options={[
+              { value: "all", label: t("kizuna.allSizes") },
+              ...SIZES.map((s) => ({
+                value: s,
+                label: `${getSizeStyle(s).text} (${s})`,
+              })),
+            ]}
+          />
+          <Select
             value={shop}
-            onChange={(e) => setShop(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("kizuna.allShops")}</option>
-            {SHOPS.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
+            onChange={setShop}
+            options={[
+              { value: "all", label: t("kizuna.allShops") },
+              ...SHOPS.map((s) => ({ value: s, label: s })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {

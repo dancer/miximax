@@ -8,6 +8,7 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
+import Select from "@/components/Select";
 import passivesData from "@/data/passives.json";
 
 type SortKey = "number" | "type" | "stat" | "value";
@@ -146,18 +147,14 @@ export default function PassivesPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
-          <select
+          <Select
             value={type}
-            onChange={(e) => setType(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("passives.allTypes")}</option>
-            {TYPES.map((ty) => (
-              <option key={ty} value={ty}>
-                {getTypeLabel(ty)}
-              </option>
-            ))}
-          </select>
+            onChange={setType}
+            options={[
+              { value: "all", label: t("passives.allTypes") },
+              ...TYPES.map((ty) => ({ value: ty, label: getTypeLabel(ty) })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {

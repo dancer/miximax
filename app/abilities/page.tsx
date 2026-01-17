@@ -13,6 +13,7 @@ import {
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
+import Select from "@/components/Select";
 import abilitiesData from "@/data/abilities.json";
 
 type SortKey = "name" | "power" | "tp" | "shop" | "type" | "element";
@@ -260,6 +261,49 @@ export default function AbilitiesPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
+          <Select
+            value={type}
+            onChange={setType}
+            options={[
+              { value: "all", label: t("hissatsu.allTypes") },
+              ...TYPES.map((hType) => ({
+                value: hType,
+                label: getTypeLabel(hType),
+              })),
+            ]}
+          />
+          <Select
+            value={element}
+            onChange={setElement}
+            options={[
+              { value: "all", label: t("hissatsu.allElements") },
+              ...ELEMENTS.map((el) => ({
+                value: el,
+                label: getElementLabel(el),
+              })),
+            ]}
+          />
+          <Select
+            value={shop}
+            onChange={setShop}
+            options={[
+              { value: "all", label: t("hissatsu.allShops") },
+              ...SHOPS.map((s) => ({ value: s, label: s })),
+            ]}
+          />
+          {EXTRAS.length > 0 && (
+            <Select
+              value={extra}
+              onChange={setExtra}
+              options={[
+                { value: "all", label: t("hissatsu.allExtras") },
+                ...EXTRAS.map((ex) => ({
+                  value: ex,
+                  label: getExtraLabel(ex),
+                })),
+              ]}
+            />
+          )}
           {filtersActive && (
             <button
               onClick={() => {
@@ -274,58 +318,6 @@ export default function AbilitiesPage() {
               <RotateCcw className="size-3" />
               {t("common.reset")}
             </button>
-          )}
-        </div>
-        <div className="mt-2 flex flex-wrap gap-2">
-          <select
-            value={type}
-            onChange={(e) => setType(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hissatsu.allTypes")}</option>
-            {TYPES.map((hType) => (
-              <option key={hType} value={hType}>
-                {getTypeLabel(hType)}
-              </option>
-            ))}
-          </select>
-          <select
-            value={element}
-            onChange={(e) => setElement(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hissatsu.allElements")}</option>
-            {ELEMENTS.map((el) => (
-              <option key={el} value={el}>
-                {getElementLabel(el)}
-              </option>
-            ))}
-          </select>
-          <select
-            value={shop}
-            onChange={(e) => setShop(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("hissatsu.allShops")}</option>
-            {SHOPS.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
-          {EXTRAS.length > 0 && (
-            <select
-              value={extra}
-              onChange={(e) => setExtra(e.target.value)}
-              className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-            >
-              <option value="all">{t("hissatsu.allExtras")}</option>
-              {EXTRAS.map((ex) => (
-                <option key={ex} value={ex}>
-                  {getExtraLabel(ex)}
-                </option>
-              ))}
-            </select>
           )}
         </div>
       </div>

@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
+import Select from "@/components/Select";
 import rawPlayersData from "@/data/players.json";
 import {
   FORMATIONS,
@@ -263,78 +264,81 @@ export default function TeamsPage() {
     jpNames ? getJpName(player.name) : player.name;
 
   return (
-    <div className="flex h-full flex-col p-4">
-      <div className="mb-3 flex flex-wrap items-center justify-between gap-2 rounded-lg border border-card-border bg-card p-3">
-        <div className="flex items-center gap-4">
-          <div>
-            <div className="text-xs text-muted">
-              {t("teamBuilder.teamName")}
+    <div className="flex h-full flex-col p-2 sm:p-4">
+      <div className="mb-3 rounded-lg border border-card-border bg-card p-3">
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <div className="flex items-center gap-3 sm:gap-4">
+            <div className="flex-1 sm:flex-none">
+              <div className="text-xs text-muted">
+                {t("teamBuilder.teamName")}
+              </div>
+              <input
+                type="text"
+                value={teamName}
+                onChange={(e) => setTeamName(e.target.value)}
+                className="w-full bg-transparent text-base font-bold outline-none sm:text-lg"
+              />
             </div>
-            <input
-              type="text"
-              value={teamName}
-              onChange={(e) => setTeamName(e.target.value)}
-              className="bg-transparent text-lg font-bold outline-none"
-            />
+            <div>
+              <div className="text-xs text-muted">
+                {t("teamBuilder.formation")}
+              </div>
+              <Select
+                value={formation.id}
+                onChange={(id) => {
+                  const f = FORMATIONS.find((f) => f.id === id);
+                  if (f) changeFormation(f);
+                }}
+                options={FORMATIONS.map((f) => ({
+                  value: f.id,
+                  label: f.name,
+                }))}
+              />
+            </div>
           </div>
-          <div>
-            <div className="text-xs text-muted">
-              {t("teamBuilder.formation")}
-            </div>
-            <select
-              value={formation.id}
-              onChange={(e) => {
-                const f = FORMATIONS.find((f) => f.id === e.target.value);
-                if (f) changeFormation(f);
-              }}
-              className="rounded border border-border bg-background px-2 py-1 text-sm font-semibold outline-none focus:border-accent"
+          <div className="flex items-center gap-1.5 sm:gap-2">
+            <button
+              onClick={shareTeam}
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-lg bg-accent px-2 py-2 text-xs font-medium text-accent-foreground transition-colors hover:bg-accent/90 sm:flex-none sm:px-3 sm:text-sm"
             >
-              {FORMATIONS.map((f) => (
-                <option key={f.id} value={f.id}>
-                  {f.name}
-                </option>
-              ))}
-            </select>
+              <Share2 className="size-4" />
+              <span className="hidden sm:inline">{t("teamBuilder.share")}</span>
+            </button>
+            <button
+              onClick={exportTeam}
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-lg border border-border px-2 py-2 text-xs text-muted transition-colors hover:border-accent hover:text-accent sm:flex-none sm:px-3 sm:text-sm"
+            >
+              <Download className="size-4" />
+              <span className="hidden sm:inline">
+                {t("teamBuilder.export")}
+              </span>
+            </button>
+            <label className="flex flex-1 cursor-pointer items-center justify-center gap-1.5 rounded-lg border border-border px-2 py-2 text-xs text-muted transition-colors hover:border-accent hover:text-accent sm:flex-none sm:px-3 sm:text-sm">
+              <Upload className="size-4" />
+              <span className="hidden sm:inline">
+                {t("teamBuilder.import")}
+              </span>
+              <input
+                ref={fileInputRef}
+                type="file"
+                accept=".json"
+                onChange={importTeam}
+                className="hidden"
+              />
+            </label>
+            <button
+              onClick={clearTeam}
+              className="flex flex-1 items-center justify-center gap-1.5 rounded-lg border border-border px-2 py-2 text-xs text-muted transition-colors hover:border-red-500 hover:text-red-500 sm:flex-none sm:px-3 sm:text-sm"
+            >
+              <Trash2 className="size-4" />
+              <span className="hidden sm:inline">{t("teamBuilder.clear")}</span>
+            </button>
           </div>
-        </div>
-        <div className="flex items-center gap-2">
-          <button
-            onClick={shareTeam}
-            className="flex items-center gap-1.5 rounded-lg bg-accent px-3 py-2 text-sm font-medium text-accent-foreground transition-colors hover:bg-accent/90"
-          >
-            <Share2 className="size-4" />
-            {t("teamBuilder.share")}
-          </button>
-          <button
-            onClick={exportTeam}
-            className="flex items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm text-muted transition-colors hover:border-accent hover:text-accent"
-          >
-            <Download className="size-4" />
-            {t("teamBuilder.export")}
-          </button>
-          <label className="flex cursor-pointer items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm text-muted transition-colors hover:border-accent hover:text-accent">
-            <Upload className="size-4" />
-            {t("teamBuilder.import")}
-            <input
-              ref={fileInputRef}
-              type="file"
-              accept=".json"
-              onChange={importTeam}
-              className="hidden"
-            />
-          </label>
-          <button
-            onClick={clearTeam}
-            className="flex items-center gap-1.5 rounded-lg border border-border px-3 py-2 text-sm text-muted transition-colors hover:border-red-500 hover:text-red-500"
-          >
-            <Trash2 className="size-4" />
-            {t("teamBuilder.clear")}
-          </button>
         </div>
       </div>
-      <div className="flex flex-1 gap-4">
-        <div className="flex flex-1 flex-col gap-3">
-          <div className="relative aspect-3/2 w-full overflow-hidden rounded-lg border-2 border-green-700/50 bg-linear-to-b from-green-800/40 via-green-600/30 to-green-800/40">
+      <div className="flex flex-1 flex-col gap-3 lg:flex-row lg:gap-4">
+        <div className="flex flex-1 flex-col gap-3 lg:min-w-0">
+          <div className="relative aspect-[3/2] w-full overflow-hidden rounded-lg border-2 border-green-700/50 bg-gradient-to-b from-green-800/40 via-green-600/30 to-green-800/40">
             <div className="absolute inset-0">
               <svg
                 viewBox="0 0 120 80"
@@ -420,13 +424,13 @@ export default function TeamsPage() {
                 <button
                   key={slot.id}
                   onClick={() => setSelectedSlot(isSelected ? null : slot.id)}
-                  className={`absolute flex -translate-x-1/2 -translate-y-1/2 flex-col items-center transition-all hover:scale-105 ${isSelected ? "scale-110 z-10" : ""}`}
+                  className={`absolute flex -translate-x-1/2 -translate-y-1/2 flex-col items-center transition-all hover:scale-105 ${isSelected ? "z-10 scale-110" : ""}`}
                   style={{ left: `${slot.x}%`, top: `${slot.y}%` }}
                 >
                   {player ? (
                     <div className="relative">
                       <div
-                        className="size-12 overflow-hidden rounded-full border-2 shadow-lg"
+                        className="size-9 overflow-hidden rounded-full border-2 shadow-lg sm:size-12"
                         style={{ borderColor: POSITION_COLORS[slot.label] }}
                       >
                         <Image
@@ -439,7 +443,7 @@ export default function TeamsPage() {
                         />
                       </div>
                       <div
-                        className="absolute -bottom-1 left-1/2 -translate-x-1/2 rounded px-1 py-0.5 text-[9px] font-bold text-white shadow"
+                        className="absolute -bottom-1 left-1/2 -translate-x-1/2 rounded px-1 py-0.5 text-[7px] font-bold text-white shadow sm:text-[9px]"
                         style={{ backgroundColor: POSITION_COLORS[slot.label] }}
                       >
                         {slot.label}
@@ -447,11 +451,11 @@ export default function TeamsPage() {
                     </div>
                   ) : (
                     <div
-                      className="flex size-12 items-center justify-center rounded-full border-2 border-dashed bg-black/30 backdrop-blur-sm"
+                      className="flex size-9 items-center justify-center rounded-full border-2 border-dashed bg-black/30 backdrop-blur-sm sm:size-12"
                       style={{ borderColor: POSITION_COLORS[slot.label] }}
                     >
                       <span
-                        className="text-xs font-bold"
+                        className="text-[10px] font-bold sm:text-xs"
                         style={{ color: POSITION_COLORS[slot.label] }}
                       >
                         {slot.label}
@@ -459,7 +463,7 @@ export default function TeamsPage() {
                     </div>
                   )}
                   {player && (
-                    <div className="mt-0.5 max-w-[70px] truncate rounded bg-black/70 px-1 py-0.5 text-[9px] font-medium text-white">
+                    <div className="mt-0.5 max-w-[50px] truncate rounded bg-black/70 px-1 py-0.5 text-[7px] font-medium text-white sm:max-w-[70px] sm:text-[9px]">
                       {displayName(player).split(" ")[0]}
                     </div>
                   )}
@@ -468,17 +472,16 @@ export default function TeamsPage() {
             })}
           </div>
           {teamStats && (
-            <div className="rounded-lg border border-card-border bg-card p-3">
+            <div className="rounded-lg border border-card-border bg-card p-2 sm:p-3">
               <div className="mb-2 flex items-center justify-between">
-                <span className="text-sm font-semibold">
-                  {t("teamBuilder.teamStats")} ({teamStats.count}/11{" "}
-                  {t("teamBuilder.players")})
+                <span className="text-xs font-semibold sm:text-sm">
+                  {t("teamBuilder.teamStats")} ({teamStats.count}/11)
                 </span>
-                <span className="text-lg font-bold text-accent">
+                <span className="text-base font-bold text-accent sm:text-lg">
                   {teamStats.total} {t("stats.total")}
                 </span>
               </div>
-              <div className="grid grid-cols-7 gap-2">
+              <div className="grid grid-cols-4 gap-1.5 sm:grid-cols-7 sm:gap-2">
                 {[
                   {
                     label: "KI",
@@ -525,19 +528,19 @@ export default function TeamsPage() {
                 ].map((stat) => (
                   <div
                     key={stat.label}
-                    className="rounded-lg border border-border bg-background p-2 text-center"
+                    className="rounded-lg border border-border bg-background p-1.5 text-center sm:p-2"
                     title={stat.full}
                   >
                     <div
-                      className="text-[10px] font-bold"
+                      className="text-[9px] font-bold sm:text-[10px]"
                       style={{ color: stat.color }}
                     >
                       {stat.label}
                     </div>
-                    <div className="font-mono text-sm font-bold">
+                    <div className="font-mono text-xs font-bold sm:text-sm">
                       {stat.value}
                     </div>
-                    <div className="text-[9px] text-muted">
+                    <div className="hidden text-[9px] text-muted sm:block">
                       {t("teamBuilder.avg")}{" "}
                       {Math.round(stat.value / teamStats.count)}
                     </div>
@@ -555,14 +558,14 @@ export default function TeamsPage() {
             </div>
           )}
         </div>
-        <div className="w-64 shrink-0 space-y-3">
+        <div className="grid grid-cols-2 gap-3 lg:w-64 lg:shrink-0 lg:grid-cols-1">
           <div className="rounded-lg border border-card-border bg-card">
-            <div className="flex items-center justify-between border-b border-border px-3 py-2">
-              <span className="text-sm font-semibold">
+            <div className="flex items-center justify-between border-b border-border px-2 py-1.5 sm:px-3 sm:py-2">
+              <span className="text-xs font-semibold sm:text-sm">
                 {t("teamBuilder.squad")} ({filledCount}/11)
               </span>
             </div>
-            <div className="max-h-[260px] divide-y divide-border overflow-y-auto">
+            <div className="max-h-[200px] divide-y divide-border overflow-y-auto lg:max-h-[260px]">
               {formation.slots.map((slot, i) => {
                 const assigned = slots.find((s) => s.slotId === slot.id);
                 const player = assigned?.player;
@@ -572,18 +575,18 @@ export default function TeamsPage() {
                     onClick={() =>
                       setSelectedSlot(selectedSlot === slot.id ? null : slot.id)
                     }
-                    className={`flex cursor-pointer items-center gap-2 px-3 py-1.5 text-sm transition-colors hover:bg-accent/5 ${selectedSlot === slot.id ? "bg-accent/10" : ""}`}
+                    className={`flex cursor-pointer items-center gap-1.5 px-2 py-1 text-sm transition-colors hover:bg-accent/5 sm:gap-2 sm:px-3 sm:py-1.5 ${selectedSlot === slot.id ? "bg-accent/10" : ""}`}
                   >
                     <span className="w-3 text-center text-[10px] text-muted">
                       {i + 1}
                     </span>
                     <span
-                      className="flex size-[18px] items-center justify-center rounded text-[8px] font-bold text-white"
+                      className="flex size-4 items-center justify-center rounded text-[7px] font-bold text-white sm:size-[18px] sm:text-[8px]"
                       style={{ backgroundColor: POSITION_COLORS[slot.label] }}
                     >
                       {slot.label}
                     </span>
-                    <span className="flex-1 truncate text-xs">
+                    <span className="flex-1 truncate text-[10px] sm:text-xs">
                       {player ? (
                         displayName(player)
                       ) : (
@@ -609,8 +612,8 @@ export default function TeamsPage() {
             </div>
           </div>
           <div className="rounded-lg border border-accent/50 bg-accent/10">
-            <div className="flex items-center justify-between border-b border-accent/30 px-3 py-2">
-              <span className="text-sm font-semibold text-accent">
+            <div className="flex items-center justify-between border-b border-accent/30 px-2 py-1.5 sm:px-3 sm:py-2">
+              <span className="text-xs font-semibold text-accent sm:text-sm">
                 {t("teamBuilder.reserve")} ({reserveCount}/{RESERVE_SLOTS})
               </span>
             </div>
@@ -625,12 +628,12 @@ export default function TeamsPage() {
                         selectedSlot === slot.slotId ? null : slot.slotId,
                       )
                     }
-                    className={`flex cursor-pointer items-center gap-2 px-3 py-1.5 text-sm transition-colors hover:bg-accent/10 ${selectedSlot === slot.slotId ? "bg-accent/20" : ""}`}
+                    className={`flex cursor-pointer items-center gap-1.5 px-2 py-1 text-sm transition-colors hover:bg-accent/10 sm:gap-2 sm:px-3 sm:py-1.5 ${selectedSlot === slot.slotId ? "bg-accent/20" : ""}`}
                   >
                     <span className="w-3 text-center text-[10px] text-accent">
                       R{i + 1}
                     </span>
-                    <span className="flex-1 truncate text-xs">
+                    <span className="flex-1 truncate text-[10px] sm:text-xs">
                       {slot.player ? (
                         displayName(slot.player)
                       ) : (
@@ -658,16 +661,16 @@ export default function TeamsPage() {
       </div>
       {selectedSlot && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm"
+          className="fixed inset-0 z-50 flex items-end justify-center bg-black/60 backdrop-blur-sm sm:items-center"
           onClick={() => setSelectedSlot(null)}
         >
           <div
-            className="w-full max-w-md rounded-lg border border-card-border bg-card p-4 shadow-2xl"
+            className="max-h-[85vh] w-full rounded-t-2xl border border-card-border bg-card p-3 shadow-2xl sm:max-w-md sm:rounded-lg sm:p-4"
             onClick={(e) => e.stopPropagation()}
           >
             <div className="mb-3 flex items-center justify-between">
               <div>
-                <h3 className="font-semibold">
+                <h3 className="text-sm font-semibold sm:text-base">
                   {t("teamBuilder.selectPlayer")}
                 </h3>
                 {selectedPosition && !selectedSlot.startsWith("reserve") && (
@@ -691,7 +694,7 @@ export default function TeamsPage() {
               </div>
               <button
                 onClick={() => setSelectedSlot(null)}
-                className="text-muted hover:text-foreground"
+                className="rounded-full p-1 text-muted hover:bg-accent/10 hover:text-foreground"
               >
                 <X className="size-5" />
               </button>
@@ -701,14 +704,14 @@ export default function TeamsPage() {
               value={searchPlayer}
               onChange={(e) => setSearchPlayer(e.target.value)}
               placeholder={t("teamBuilder.searchPlayers")}
-              className="mb-3 w-full rounded-lg border border-border bg-background px-3 py-2 text-sm outline-none focus:border-accent"
+              className="mb-3 w-full rounded-lg border border-border bg-background px-3 py-2.5 text-sm outline-none focus:border-accent"
             />
-            <div className="max-h-[350px] divide-y divide-border overflow-y-auto rounded-lg border border-border">
+            <div className="max-h-[50vh] divide-y divide-border overflow-y-auto rounded-lg border border-border sm:max-h-[350px]">
               {filteredPlayers.map((player) => (
                 <button
                   key={player.id}
                   onClick={() => assignPlayer(selectedSlot, player)}
-                  className="flex w-full items-center gap-3 px-3 py-2.5 text-left transition-colors hover:bg-accent/10"
+                  className="flex w-full items-center gap-3 px-3 py-2.5 text-left transition-colors active:bg-accent/20 sm:hover:bg-accent/10"
                 >
                   <div className="relative size-10 shrink-0 overflow-hidden rounded-lg border border-border">
                     <Image

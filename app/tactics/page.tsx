@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
+import Select from "@/components/Select";
 import tacticsData from "@/data/tactics.json";
 
 type SortKey = "name" | "shop" | "duration" | "cooldown";
@@ -133,6 +134,14 @@ export default function TacticsPage() {
               className="flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
             />
           </div>
+          <Select
+            value={shop}
+            onChange={setShop}
+            options={[
+              { value: "all", label: t("tactics.allShops") },
+              ...SHOPS.map((s) => ({ value: s, label: s })),
+            ]}
+          />
           {filtersActive && (
             <button
               onClick={() => {
@@ -145,20 +154,6 @@ export default function TacticsPage() {
               {t("common.reset")}
             </button>
           )}
-        </div>
-        <div className="mt-2 flex flex-wrap gap-2">
-          <select
-            value={shop}
-            onChange={(e) => setShop(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
-          >
-            <option value="all">{t("tactics.allShops")}</option>
-            {SHOPS.map((s) => (
-              <option key={s} value={s}>
-                {s}
-              </option>
-            ))}
-          </select>
         </div>
       </div>
       <div className="mb-2 text-xs text-muted">
