@@ -183,7 +183,8 @@
   },
   "filters": {
     "allPositions": "Toutes les positions",
-    "allPlaystyles": "Tous les styles"
+    "allPlaystyles": "Tous les styles",
+    "allRoles": "Tous les rôles"
   },
   "common": {
     "name": "Nom",

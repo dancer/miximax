@@ -183,7 +183,8 @@
   },
   "filters": {
     "allPositions": "全ポジション",
-    "allPlaystyles": "全プレイスタイル"
+    "allPlaystyles": "全プレイスタイル",
+    "allRoles": "全役割"
   },
   "common": {
     "name": "名前",

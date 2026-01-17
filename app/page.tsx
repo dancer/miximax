@@ -30,6 +30,10 @@ const AFFINITIES = [
       .filter((a) => a && a !== "#N/A" && a !== "Unknown"),
   ),
 ].sort();
+
+const ROLES = [
+  ...new Set(playersData.map((p) => p.role).filter(Boolean)),
+].sort();
 type SortKey =
   | "name"
   | "total"
@@ -51,6 +55,7 @@ export default function PlayersPage() {
   const [element, setElement] = useState<string>("all");
   const [position, setPosition] = useState<string>("all");
   const [affinity, setAffinity] = useState<string>("all");
+  const [role, setRole] = useState<string>("all");
   const [sortKey, setSortKey] = useState<SortKey>("kick");
   const [sortDir, setSortDir] = useState<SortDir>("desc");
   const [visible, setVisible] = useState(VISIBLE_COUNT);
@@ -64,6 +69,7 @@ export default function PlayersPage() {
       if (element !== "all" && p.element !== element) return false;
       if (position !== "all" && p.position !== position) return false;
       if (affinity !== "all" && p.affinity !== affinity) return false;
+      if (role !== "all" && p.role !== role) return false;
       if (q) {
         const enName = p.name.toLowerCase();
         const jpName = getJpName(p.name).toLowerCase();
@@ -79,7 +85,7 @@ export default function PlayersPage() {
       }
       return true;
     });
-  }, [search, element, position, affinity]);
+  }, [search, element, position, affinity, role]);
 
   const sorted = useMemo(() => {
     return [...filtered].sort((a, b) => {
@@ -99,7 +105,11 @@ export default function PlayersPage() {
   const players = sorted.slice(0, visible);
   const hasMore = visible < sorted.length;
   const filtersActive =
-    search || element !== "all" || position !== "all" || affinity !== "all";
+    search ||
+    element !== "all" ||
+    position !== "all" ||
+    affinity !== "all" ||
+    role !== "all";
 
   useEffect(() => {
     if (!hasMore) return;
@@ -188,7 +198,7 @@ export default function PlayersPage() {
   return (
     <div className="p-4">
       <div className="mb-3 rounded-lg border border-card-border bg-card p-3">
-        <div className="flex flex-wrap items-center gap-2">
+        <div className="flex flex-wrap items-center gap-3">
           <div className="flex flex-1 items-center gap-2 rounded-lg border border-border bg-background px-3 py-2">
             <Search className="size-4 text-muted" />
             <input
@@ -202,7 +212,7 @@ export default function PlayersPage() {
           <select
             value={element}
             onChange={(e) => setElement(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
+            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
           >
             <option value="all">{t("players.allElements")}</option>
             {ELEMENTS.map((e) => (
@@ -214,7 +224,7 @@ export default function PlayersPage() {
           <select
             value={position}
             onChange={(e) => setPosition(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
+            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
           >
             <option value="all">{t("players.allPositions")}</option>
             {POSITIONS.map((p) => (
@@ -226,12 +236,24 @@ export default function PlayersPage() {
           <select
             value={affinity}
             onChange={(e) => setAffinity(e.target.value)}
-            className="rounded-lg border border-border bg-background px-3 py-2 text-sm"
+            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
           >
             <option value="all">{t("filters.allPlaystyles")}</option>
             {AFFINITIES.map((a) => (
               <option key={a} value={a}>
                 {getAffinityLabel(a)}
+              </option>
+            ))}
+          </select>
+          <select
+            value={role}
+            onChange={(e) => setRole(e.target.value)}
+            className="rounded-lg border border-border bg-background py-2 pl-3 pr-7 text-sm"
+          >
+            <option value="all">{t("filters.allRoles")}</option>
+            {ROLES.map((r) => (
+              <option key={r} value={r}>
+                {getRoleLabel(r)}
               </option>
             ))}
           </select>
@@ -242,6 +264,7 @@ export default function PlayersPage() {
                 setElement("all");
                 setPosition("all");
                 setAffinity("all");
+                setRole("all");
               }}
               className="flex items-center gap-1 rounded-lg border border-border px-3 py-2 text-sm text-muted transition-colors hover:border-accent hover:text-accent"
             >
