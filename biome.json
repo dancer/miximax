@@ -13,7 +13,7 @@
       "!.next",
       "!dist",
       "!build",
-      "!data/players.json"
+      "!data/*.json"
     ]
   },
   "formatter": {
