@@ -441,6 +441,66 @@
   },
   {
     "id": 45,
+    "name": "Royal Runaround",
+    "effect1": "Disable opponents near ball",
+    "effect2": "No pass intercepts & skip Focus Battles",
+    "effect3": "",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 46,
+    "name": "Zoned Out",
+    "effect1": "Geoglyph: DF +60%",
+    "effect2": "",
+    "effect3": "Overall: When passing, Bond Power+100%",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 47,
+    "name": "Omega Maelstrom",
+    "effect1": "Disable opponents near ball",
+    "effect2": "Temporarily disables enemy Dash",
+    "effect3": "Temporarily disables enemy Focus Fields",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 48,
+    "name": "Grid Guard",
+    "effect1": "Geoglyph: DF +10%",
+    "effect2": "Geoglyph: Dash Stamina Cost -100%",
+    "effect3": "Overall: Foul rate when dashing -10%",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 49,
+    "name": "Puppet Master",
+    "effect1": "Divide Enemy players into left and right",
+    "effect2": "",
+    "effect3": "",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 50,
+    "name": "Swiord Superiority",
+    "effect1": "Form up, ignore Focus, and push forward",
+    "effect2": "Special Move Power +15%",
+    "effect3": "",
+    "duration": 0,
+    "cooldown": 0,
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "id": 51,
     "name": "Bull Horns",
     "effect1": "Geoglyph: Focus AT/DF +40%",
     "effect2": "Breach rate +5%",
@@ -450,7 +510,7 @@
     "shop": "BB Mart"
   },
   {
-    "id": 46,
+    "id": 52,
     "name": "Mount Fuji",
     "effect1": "Geoglyph: Tension depletion -25%",
     "effect2": "",
@@ -460,7 +520,7 @@
     "shop": "BB Mart"
   },
   {
-    "id": 47,
+    "id": 53,
     "name": "Waxing Moon",
     "effect1": "Geoglyph: When Tension is below 30%, Focus AT/DF +40%",
     "effect2": "Geoglyph: When Tension is below 30%, Scramble AT/DF +40%",
@@ -470,7 +530,7 @@
     "shop": "BB Mart"
   },
   {
-    "id": 48,
+    "id": 54,
     "name": "Diamond Defence",
     "effect1": "Geogylph: DF +30%",
     "effect2": "Save rate +5%",

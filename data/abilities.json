@@ -260,6 +260,26 @@
     "shop": "Spirit Market"
   },
   {
+    "name": "Royal Lancer",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Spirit Market"
+  },
+  {
+    "name": "Flying Colours",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Spirit Market"
+  },
+  {
     "name": "Inazuma Drop",
     "nameJp": "イナズマ落とし",
     "element": "風 (Wind)",
@@ -2030,6 +2050,476 @@
     "shop": "Chronicle Department Store"
   },
   {
+    "name": "Eiffel Tower",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Headbanger",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Golden Gull",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Rabbit Run",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Clone Death Zone",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Ninja Toad",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Fire Lemonade",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Celestial Saw",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Cold Front",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Zigzag Zoom",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "The Detonator",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Daruma Boomer",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Perfect Penguin",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Cross Fire",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Seal Matrix",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Divine Dummy",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Bewilder Blast",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Invisible Fake",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mole Shuffle",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Sub-Terfuge",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Pyroclastic",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Triple Dash",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Warp Step",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Sparky Spin",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Supreme Spin",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Defence Scan",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Card Shark",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Yo-Yo Ball",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Whale Guard",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mega Wall",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Road Roller",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Stone Wall",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mad Express",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Logicstical Sync",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Containment Field",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mistral",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Claw Slash",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Card Protector",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Shot Trap",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Close Counter",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Triple God Hand",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Desecrater",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Savage Beast Fang",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Lunar Eclipse",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mega Majin",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Mermaid Veil",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
+    "name": "Grabber Arm",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 100,
+    "tp": 100,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Chronicle Department Store"
+  },
+  {
     "name": "Freeze Shot",
     "nameJp": "フリーズショット",
     "element": "林 (Forest)",
@@ -3560,6 +4050,466 @@
     "shop": "Vs Store"
   },
   {
+    "name": "Banana Shot",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Hawk Shot",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "Counter Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Cold Snap",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Centrifugal Blast",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Astro Gate",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Sweet Deal",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Leaping Thunder",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Rainbow Bubble Burst",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fire Tornado A",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Flash Dance",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Ursa Rager",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 60,
+    "tp": 60,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Clone Penguin",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dragon's Tail",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gaussian Goal",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Polar Bear No. 2",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Penguin Volley",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Heavenly Tianlong",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Shadow Ray",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 70,
+    "tp": 70,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Meteor Strike",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Polar Pike",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Brave Shot",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "Long Shoot",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "God Alone Knows",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 100,
+    "tp": 100,
+    "type": "Shoot",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Dark Whirlwind",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Bubble Gum",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Guided Collide",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 50,
+    "tp": 50,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Armadillo Circus",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Echo Ball",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Big Fan",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Foul Offence 2",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Liar Shot",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "In-Line Stampede",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 60,
+    "tp": 60,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Flash Dash",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 70,
+    "tp": 70,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Short Circuit",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Shiny Feathers",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 80,
+    "type": "Offense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Twister Trap",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Frankenstun",
+    "nameJp": "",
+    "element": "火 (Fire)",
+    "power": 50,
+    "tp": 50,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Am-Bush",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Master Stroke",
+    "nameJp": "",
+    "element": "無 (Void)",
+    "power": 60,
+    "tp": 60,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Barbarian Shield",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Gravity Cage",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Easter Island Header",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Ursa Binder",
+    "nameJp": "",
+    "element": "山 (Mountain)",
+    "power": 70,
+    "tp": 70,
+    "type": "Defense",
+    "extra": "Shoot Block",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Swan Dive",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 50,
+    "tp": 50,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "The Stinger",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Fur Trapper",
+    "nameJp": "",
+    "element": "林 (Forest)",
+    "power": 60,
+    "tp": 60,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
+    "name": "Maelstrom the Hand",
+    "nameJp": "",
+    "element": "風 (Wind)",
+    "power": 85,
+    "tp": 85,
+    "type": "Keep",
+    "extra": "",
+    "shop": "Vs Store"
+  },
+  {
     "name": "Northern Impact",
     "nameJp": "ノーザンインパクト",
     "element": "風 (Wind)",
@@ -4700,16 +5650,6 @@
     "shop": "Magic Moves (Odaiba Branch)"
   },
   {
-    "name": "Phantom Shot",
-    "nameJp": "ファントムシュート",
-    "element": "林 (Forest)",
-    "power": 50,
-    "tp": 50,
-    "type": "Shoot",
-    "extra": "",
-    "shop": "Magic Moves (Odaiba Branch)"
-  },
-  {
     "name": "Sonic Shot",
     "nameJp": "ソニックショット",
     "element": "風 (Wind)",
@@ -5062,7 +6002,7 @@
   {
     "name": "Sniper Shot",
     "nameJp": "エイムショット",
-    "element": "風 (Wind)",
+    "element": "山 (Mountain)",
     "power": 50,
     "tp": 50,
     "type": "Shoot",

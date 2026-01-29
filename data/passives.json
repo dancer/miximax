@@ -891,7 +891,7 @@
     "id": "coordinator-68",
     "number": 68,
     "type": "coordinator",
-    "description": "On gaining posession(excluding catches) - Team Rough Attack AT & DF 6% (15s)",
+    "description": "On gaining possession(excluding catches) - Team Rough Attack AT & DF 6% (15s)",
     "stat": "Team Rough Attack AT & DF",
     "value": "6% (15s)"
   },
@@ -899,7 +899,7 @@
     "id": "coordinator-65",
     "number": 65,
     "type": "coordinator",
-    "description": "On gaining posession(excluding catches) - [MF] Focus AT & DF 2% (15s)",
+    "description": "On gaining possession(excluding catches) - [MF] Focus AT & DF 2% (15s)",
     "stat": "[MF] Focus AT & DF",
     "value": "2% (15s)"
   },
@@ -971,7 +971,7 @@
     "id": "coordinator-67",
     "number": 67,
     "type": "coordinator",
-    "description": "On gaining posession(excluding catches) - [KP] KP 5% (15s)",
+    "description": "On gaining possession(excluding catches) - [KP] KP 5% (15s)",
     "stat": "[KP] KP",
     "value": "5% (15s)"
   },
@@ -979,7 +979,7 @@
     "id": "coordinator-66",
     "number": 66,
     "type": "coordinator",
-    "description": "On gaining posession(excluding catches) - [DF] Focus AT & DF 2% (15s)",
+    "description": "On gaining possession(excluding catches) - [DF] Focus AT & DF 2% (15s)",
     "stat": "[DF] Focus AT & DF",
     "value": "2% (15s)"
   },
@@ -1011,7 +1011,7 @@
     "id": "coordinator-64",
     "number": 64,
     "type": "coordinator",
-    "description": "On gaining posession(excluding catches) - Team Shot AT 4% (15s)",
+    "description": "On gaining possession(excluding catches) - Team Shot AT 4% (15s)",
     "stat": "Team Shot AT",
     "value": "4% (15s)"
   },

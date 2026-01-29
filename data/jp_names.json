@@ -1386,7 +1386,7 @@
   },
   {
     "dub_name": "frank drake",
-    "roma_name": "Ryo Sakamoto",
+    "roma_name": "Izo Kurofune",
     "jp_name": ""
   },
   {
@@ -8621,7 +8621,7 @@
   },
   {
     "dub_name": "edgar partinus",
-    "roma_name": "Edgar Balchinas",
+    "roma_name": "Edgar Partinus",
     "jp_name": ""
   },
   {
@@ -17565,16 +17565,6 @@
     "jp_name": ""
   },
   {
-    "dub_name": "hershel layton",
-    "roma_name": "Hershel Layton",
-    "jp_name": ""
-  },
-  {
-    "dub_name": "luke triton",
-    "roma_name": "Luke Triton",
-    "jp_name": ""
-  },
-  {
     "dub_name": "silvain hache",
     "roma_name": "Hush Silvan",
     "jp_name": ""
@@ -17646,7 +17636,7 @@
   },
   {
     "dub_name": "fake victor",
-    "roma_name": "Kyosuke Tsurugi",
+    "roma_name": "Fake Tsurugi",
     "jp_name": ""
   },
   {
@@ -17671,7 +17661,7 @@
   },
   {
     "dub_name": "shinjae choi",
-    "roma_name": "Choi Sinjae",
+    "roma_name": "Sinjae Choi",
     "jp_name": ""
   },
   {
@@ -17681,32 +17671,32 @@
   },
   {
     "dub_name": "yongjin seo",
-    "roma_name": "Seo Yongjin",
+    "roma_name": "Yongjin Seo",
     "jp_name": ""
   },
   {
     "dub_name": "ujin shin",
-    "roma_name": "Shin Ujin",
+    "roma_name": "Ujin Shin",
     "jp_name": ""
   },
   {
     "dub_name": "gunwoo yang",
-    "roma_name": "Yang Gonwo",
+    "roma_name": "Gunwoo Yang",
     "jp_name": ""
   },
   {
     "dub_name": "jihun song",
-    "roma_name": "Song Jihun",
+    "roma_name": "Jihun Song",
     "jp_name": ""
   },
   {
     "dub_name": "minseo byun",
-    "roma_name": "Byun Minseo",
+    "roma_name": "Minseo Byun",
     "jp_name": ""
   },
   {
     "dub_name": "soyeon sim",
-    "roma_name": "Sim Soyeon",
+    "roma_name": "Soyeon Sim",
     "jp_name": ""
   },
   {
@@ -17836,7 +17826,7 @@
   },
   {
     "dub_name": "murshid amir",
-    "roma_name": "Musild Amir",
+    "roma_name": "Murshid Amir",
     "jp_name": ""
   },
   {
@@ -17966,7 +17956,7 @@
   },
   {
     "dub_name": "g'ob",
-    "roma_name": "Gobira Mongo",
+    "roma_name": "Gobira Moango",
     "jp_name": ""
   },
   {
@@ -19480,8 +19470,708 @@
     "jp_name": ""
   },
   {
-    "dub_name": "???",
-    "roma_name": "",
+    "dub_name": "sonny wright",
+    "roma_name": "Asuto Inamori",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "basile hardy",
+    "roma_name": "Sasuke Kozomaru",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "adriano donati",
+    "roma_name": "Tetsunosuke Gojin",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "sandra fischer",
+    "roma_name": "Norika Umihara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kiko calavento",
+    "roma_name": "Masakatsu Hiyori",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "césar montalbán",
+    "roma_name": "Hiro Okuiri",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "maxime dassier",
+    "roma_name": "Tatsumi Michinari",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "trevor cook",
+    "roma_name": "Yuichiro Mansaku",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "cliff parker",
+    "roma_name": "Takashi Iwato",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "valentin eisner",
+    "roma_name": "Kirina Hiura",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "nino nango",
+    "roma_name": "Hanta Hattori",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mister yi",
+    "roma_name": "Kinun Cho",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "li kobun",
+    "roma_name": "Kobun Li",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "dean rush",
+    "roma_name": "Yukinori Kameta",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "regina mulgrave",
+    "roma_name": "Anna Mikado",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mickey way",
+    "roma_name": "Masamichi Amano",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "larry lyre",
+    "roma_name": "Tomio Kotono",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "cygnus starkey",
+    "roma_name": "Tsumuki Shiratori",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ari zimmerman",
+    "roma_name": "Katsumi Yagihara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "acker reese",
+    "roma_name": "Seiryu Mizukamiya",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jimmy nigh",
+    "roma_name": "Tetsuya Futagotamagawa",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "caesar pike",
+    "roma_name": "Sameharu Uoshima",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "oliver golightly",
+    "roma_name": "Seiya Saotome",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "oscar pio",
+    "roma_name": "Eiji Sasotsuka",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "eddy o'ryan",
+    "roma_name": "Fuyuki Orio",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "elliot ember",
+    "roma_name": "Ryohei Haizaki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "holt northam",
+    "roma_name": "Hokuto Okuma",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "braveon halvors",
+    "roma_name": "Yusuke Shishitani",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "konrad hardin",
+    "roma_name": "Kenzo Kani",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "aren yarrow",
+    "roma_name": "Meita Yazu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "dominic hewitt",
+    "roma_name": "Eiji Makihara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "duske grayling",
+    "roma_name": "Seiya Nishikage",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "solomon owle",
+    "roma_name": "Atsunori Michiba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "oleander meadows",
+    "roma_name": "Ranto Kosaka",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "piers thornton",
+    "roma_name": "Haruki Sakuraba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "bud bloome",
+    "roma_name": "Taizen Hanasaki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "reid rivers",
+    "roma_name": "Hosomichi Okuno",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "willow proude",
+    "roma_name": "Yoshiya Tanizaki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "wolfe redwood",
+    "roma_name": "Kosuke Okano",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "raven vale",
+    "roma_name": "Gen Kusaka",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "heath moore",
+    "roma_name": "Yuma Nosaka",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "leif bolt",
+    "roma_name": "Ichiya Haoto",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "lucian skye",
+    "roma_name": "Kosuke Takemi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "solren dawnwright",
+    "roma_name": "Asahi Yudo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "elior march",
+    "roma_name": "Issei Shiina",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "raylon highmoor",
+    "roma_name": "Reiho Yamashiro",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "fedrin fennley",
+    "roma_name": "Shigesato Fujiyabu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "curt gale",
+    "roma_name": "Shinjiro Arashi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "knox loxley",
+    "roma_name": "Kento Josai",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "björn brocken",
+    "roma_name": "Taiho Maeno",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "lunk ironbrow",
+    "roma_name": "Taizo Hirata",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "hefton bulk",
+    "roma_name": "Moko Moriagari",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "barry cade",
+    "roma_name": "Nagamine Banri",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "rick wall",
+    "roma_name": "Tsumio Buroku",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ivor shield",
+    "roma_name": "Tatsuo Tateno",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "rocky hardcastle",
+    "roma_name": "Kogoro Tetsugoshi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "waldo gibbons",
+    "roma_name": "Sarukichi Ugo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "sebastian fortwright",
+    "roma_name": "Noboro Iwagaki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "iggy motte",
+    "roma_name": "Yamori Ishikabe",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "corbin brickham",
+    "roma_name": "Koken Kakoi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "helena harwood",
+    "roma_name": "Miko Kofun",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "dane upchurch",
+    "roma_name": "Ryuki Tsukauchi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "warden watchford",
+    "roma_name": "Keiei Kadotsu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "fortnum pile",
+    "roma_name": "Ganseki Saito",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "skinner lankley",
+    "roma_name": "Nagao Hosoi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "bastiana chateau",
+    "roma_name": "Kizuku Yamashiro",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "trice topper",
+    "roma_name": "Yakata Ogosho",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "hilary prentice",
+    "roma_name": "Atomi Mito",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jodi green",
+    "roma_name": "Madoka Hoshino",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "lynn tambelle",
+    "roma_name": "Suzu Tanba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "gideon poe",
+    "roma_name": "Nao Oma",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "electra faraday",
+    "roma_name": "Den Segawa",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "darren gouger",
+    "roma_name": "Michiru Enami",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "des pott",
+    "roma_name": "Kakumei Wagano",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jethro mackin",
+    "roma_name": "Yattaro Kikai",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "grotley bogwash",
+    "roma_name": "Kageru Shimerigawa",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "emperio n. guinn",
+    "roma_name": "Ginpei Kodera",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ross siddon",
+    "roma_name": "Donji Posei",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "hadrian diesel",
+    "roma_name": "Tetsu Hadeno",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "percy hurst",
+    "roma_name": "Arisu Heruse",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "deirdre staples",
+    "roma_name": "Kiyo Matsuzaka",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "alexander scrivener",
+    "roma_name": "Ikuro Ushijima",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "aiden froste",
+    "roma_name": "Atsuya Fubuki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "bunny cottontail",
+    "roma_name": "Nae Shiratoya",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "robert cottontail",
+    "roma_name": "Kanbee Shiratoya",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mila simmering",
+    "roma_name": "Kanna Okamine",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "grant icewater",
+    "roma_name": "Idero Kanime",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "claire lesnow",
+    "roma_name": "Clara Kurakake",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ben blowton",
+    "roma_name": "Geki Honba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "isabelle trick",
+    "roma_name": "Reina Yagami",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "nigel august",
+    "roma_name": "Natsuhiko Netsuha",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "hunter foster",
+    "roma_name": "Tatsuya Kiyama",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ronny metcalf",
+    "roma_name": "Satoshi Muto",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "bonnie sparks",
+    "roma_name": "Hana Barazono",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "billy miller",
+    "roma_name": "Noboru Sakanoue",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jack sawyer",
+    "roma_name": "Mitsunari Kaneshiro",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "meriwether beaumont",
+    "roma_name": "Toshiya Minoshima",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "burleigh carpenter",
+    "roma_name": "Kosaku Hashiya",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "luke blank",
+    "roma_name": "Jo Muhyo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "gaffer mason",
+    "roma_name": "Koji Genba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "dan bowsun",
+    "roma_name": "Tetsuo Dan",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "giles farmer",
+    "roma_name": "Ikuto Tanoue",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "pacey hawker",
+    "roma_name": "Kakeru Shimomachi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "neville merchant",
+    "roma_name": "Mizuho Kaname",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kia tanner",
+    "roma_name": "Ponko Tanukigahara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "eamond everwing",
+    "roma_name": "Nagomu Onba",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "frey fielding",
+    "roma_name": "Masasada Hatake",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "tobin harveston",
+    "roma_name": "Hosaku Komedawara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "everest brightwell",
+    "roma_name": "Einosuke Sumiyoshi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "salvador castell",
+    "roma_name": "Alonso Fibbiano",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "antoni valls",
+    "roma_name": "Oscar Agito",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jordi belloch",
+    "roma_name": "Federico Dazro",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "gerard carbonell",
+    "roma_name": "Gregorio Havalo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "carles ripoll",
+    "roma_name": "Daniel Madroné",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "josep anglesola",
+    "roma_name": "Rurban Boick",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "xavi casals",
+    "roma_name": "Trancy Cornet",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ronaldo ramallets",
+    "roma_name": "Donell Gotti",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "leo segarra",
+    "roma_name": "Luther Fandam",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "sergi hernández",
+    "roma_name": "Clario Orvan",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "joan asensi",
+    "roma_name": "Bergamo Legrult",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "augusto gomez",
+    "roma_name": "Agapito Gomez",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "geraldo enrique",
+    "roma_name": "Gerard Enrique",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "alessio ganonti",
+    "roma_name": "Salomon Ganoti",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "griffit valiance",
+    "roma_name": "Oji Ikkaku",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "wryn twincrest",
+    "roma_name": "Niro Futakado",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "aurel ashdown",
+    "roma_name": "Yuhi Higurashi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "corwin lumen",
+    "roma_name": "Mitsuki Tamamushi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "garvin cliffmarch",
+    "roma_name": "Gakuto Tonobata",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "corin cainver",
+    "roma_name": "Toya Kama",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "orphion ordain",
+    "roma_name": "Nanase Tendo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "aveline morrin",
+    "roma_name": "Ageha Miyama",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "therion daywick",
+    "roma_name": "Norihiko Koro",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "alaric durnham",
+    "roma_name": "Nagafumi Yasude",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "galad worden",
+    "roma_name": "Goromaru Gen",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "sylvar verdis",
+    "roma_name": "Rokuri Kanafumi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "plumian whitlock",
+    "roma_name": "Akiho Haneari",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "tarvon runnel",
+    "roma_name": "Kojiro Mimizuki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "queintas quillmere",
+    "roma_name": "Bunsaku Abu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "merrick seawell",
+    "roma_name": "Yota Hanmi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "silasar noirmont",
+    "roma_name": "Shushiro Konchusai",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "rolland bowlby",
+    "roma_name": "Kyuta Kyono",
     "jp_name": ""
   },
   {
@@ -19595,11 +20285,6 @@
     "jp_name": ""
   },
   {
-    "dub_name": "elaine sereno",
-    "roma_name": "Eiko Kasumisaki",
-    "jp_name": ""
-  },
-  {
     "dub_name": "lilac tausend",
     "roma_name": "Himeka Senno",
     "jp_name": ""
@@ -19667,6 +20352,31 @@
   {
     "dub_name": "talon lewis",
     "roma_name": "Yu Nogami",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "nino gamberini",
+    "roma_name": "Natsuki Ebihara",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kaeo springfield",
+    "roma_name": "Reo Kasuga",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "milan mcgrath",
+    "roma_name": "Michiya Abuku",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "hortensia raintree",
+    "roma_name": "Tae Tsuyusaki",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mama sigdale",
+    "roma_name": "Mama Sigdale",
     "jp_name": ""
   },
   {
@@ -20122,6 +20832,96 @@
   {
     "dub_name": "partis payton",
     "roma_name": "Koki Sanbo",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "garci stormdale",
+    "roma_name": "Oji Susano",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kenard montemar",
+    "roma_name": "Keno Yamatsumi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "patrie ambrosia",
+    "roma_name": "Patry Ambrosia",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "sampa eonius",
+    "roma_name": "Kuon Haie",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "garrick loventhal",
+    "roma_name": "Aijiro Enoguchi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "harald monet",
+    "roma_name": "Moa Harutani",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "revea ristair",
+    "roma_name": "Uzume Uzukami",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "atol lasalle",
+    "roma_name": "Suri Atora",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ciro zealon",
+    "roma_name": "Retsushi Zerosu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "thaddeus bellefax",
+    "roma_name": "Tanji Teita",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "riza nagivar",
+    "roma_name": "Giyu Izana",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "cate heckel",
+    "roma_name": "Meika Hekate",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "iskandar tarusian",
+    "roma_name": "Rosuke Otaruda",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "orisa namir",
+    "roma_name": "Mitsuji Izana",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "burke forzane",
+    "roma_name": "Iwafumi Tajikarao",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kazimir stormblade",
+    "roma_name": "Jinya Mikazuchi",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "malik keos",
+    "roma_name": "Genyo Kaosu",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mera henderson",
+    "roma_name": "Meira Heisen",
     "jp_name": ""
   },
   {
@@ -23665,8 +24465,103 @@
     "jp_name": ""
   },
   {
-    "dub_name": "victorio cryptix",
-    "roma_name": "Victorio Arno",
+    "dub_name": "lindalyn berny",
+    "roma_name": "Lindalyn Berny",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "arwena lark",
+    "roma_name": "Allic Reginia",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "jackie mulligan",
+    "roma_name": "Jackie Mulligan",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "trixie bren",
+    "roma_name": "Trixie Bren",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "mira lysander",
+    "roma_name": "Miglia Rusti",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "norah queensby",
+    "roma_name": "Norma Quaid",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "julietta belamy",
+    "roma_name": "Juliette Love",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kendra pierce",
+    "roma_name": "Kianti Perch",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "zora selwick",
+    "roma_name": "Zora Seichet",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "vivian calder",
+    "roma_name": "Bibi Mared",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "catalina riven",
+    "roma_name": "Katarina Olekxia",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ivy celeste",
+    "roma_name": "Ilvie Celeste",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "cecily noire",
+    "roma_name": "Cicily Noah",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "amara myles",
+    "roma_name": "Emelia Mira",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "keira donnell",
+    "roma_name": "Keira Donapale",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "cressida octavia",
+    "roma_name": "Cruel Octuelli",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "magda dornel",
+    "roma_name": "Magria Dolphy",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "ah dackchin",
+    "roma_name": "Ah Dackchin",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "kota",
+    "roma_name": "KOTA",
+    "jp_name": ""
+  },
+  {
+    "dub_name": "eshin",
+    "roma_name": "eshin",
     "jp_name": ""
   }
 ]

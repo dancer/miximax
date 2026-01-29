@@ -1079,6 +1079,104 @@
   },
   {
     "id": "B78",
+    "name": "Backwater Boots",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 5,
+    "intelligence": 0,
+    "agility": 4,
+    "total": 9
+  },
+  {
+    "id": "B79",
+    "name": "Barcelona Orb Boots",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 2,
+    "control": 5,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 7
+  },
+  {
+    "id": "B80",
+    "name": "Rampart Boots",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 2,
+    "physical": 0,
+    "intelligence": 5,
+    "agility": 0,
+    "total": 7
+  },
+  {
+    "id": "B81",
+    "name": "Hypno Boots (Ares)",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 10,
+    "physical": 15,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 25
+  },
+  {
+    "id": "B82",
+    "name": "Polestar Boots",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 17,
+    "control": 10,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 27
+  },
+  {
+    "id": "B83",
+    "name": "Alpine Boots (Ares)",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 20,
+    "control": 25,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 45
+  },
+  {
+    "id": "B84",
+    "name": "Lunar Prime Boots",
+    "type": "Boots",
+    "shop": "Chronicle",
+    "kick": 0,
+    "control": 32,
+    "technique": 24,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 56
+  },
+  {
+    "id": "B85",
     "name": "Inazuma Kids FC Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1092,7 +1190,7 @@
     "total": 10
   },
   {
-    "id": "B79",
+    "id": "B86",
     "name": "Otaku Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1106,7 +1204,7 @@
     "total": 24
   },
   {
-    "id": "B80",
+    "id": "B87",
     "name": "Raimon Veterans Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1120,7 +1218,7 @@
     "total": 40
   },
   {
-    "id": "B81",
+    "id": "B88",
     "name": "Secret Service Shoes",
     "type": "Boots",
     "shop": "VS",
@@ -1134,7 +1232,7 @@
     "total": 9
   },
   {
-    "id": "B82",
+    "id": "B89",
     "name": "Triple C Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1148,7 +1246,7 @@
     "total": 25
   },
   {
-    "id": "B83",
+    "id": "B90",
     "name": "Prominence Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1162,7 +1260,7 @@
     "total": 43
   },
   {
-    "id": "B84",
+    "id": "B91",
     "name": "Inazuma National Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1176,7 +1274,7 @@
     "total": 25
   },
   {
-    "id": "B85",
+    "id": "B92",
     "name": "Big Waves Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1190,7 +1288,7 @@
     "total": 9
   },
   {
-    "id": "B86",
+    "id": "B93",
     "name": "Orpheus Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1204,7 +1302,7 @@
     "total": 44
   },
   {
-    "id": "B87",
+    "id": "B94",
     "name": "Devil Army Z Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1218,7 +1316,7 @@
     "total": 39
   },
   {
-    "id": "B88",
+    "id": "B95",
     "name": "Dark Angels Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1232,7 +1330,7 @@
     "total": 59
   },
   {
-    "id": "B89",
+    "id": "B96",
     "name": "Kingdom Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1246,7 +1344,7 @@
     "total": 23
   },
   {
-    "id": "B90",
+    "id": "B97",
     "name": "Team Garshield Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1260,7 +1358,7 @@
     "total": 45
   },
   {
-    "id": "B91",
+    "id": "B98",
     "name": "Black Templars Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1274,7 +1372,7 @@
     "total": 7
   },
   {
-    "id": "B92",
+    "id": "B99",
     "name": "Milky Way Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1288,7 +1386,7 @@
     "total": 24
   },
   {
-    "id": "B93",
+    "id": "B100",
     "name": "Team Zero Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1302,7 +1400,7 @@
     "total": 51
   },
   {
-    "id": "B94",
+    "id": "B101",
     "name": "Mirage Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1316,7 +1414,7 @@
     "total": 39
   },
   {
-    "id": "B95",
+    "id": "B102",
     "name": "Tenmas Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1330,7 +1428,7 @@
     "total": 11
   },
   {
-    "id": "B96",
+    "id": "B103",
     "name": "Zan Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1344,7 +1442,7 @@
     "total": 23
   },
   {
-    "id": "B97",
+    "id": "B104",
     "name": "Gihl Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1358,7 +1456,7 @@
     "total": 45
   },
   {
-    "id": "B98",
+    "id": "B105",
     "name": "Musical Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1372,7 +1470,7 @@
     "total": 23
   },
   {
-    "id": "B99",
+    "id": "B106",
     "name": "Panda Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1386,7 +1484,7 @@
     "total": 21
   },
   {
-    "id": "B100",
+    "id": "B107",
     "name": "Gale Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1400,7 +1498,7 @@
     "total": 11
   },
   {
-    "id": "B101",
+    "id": "B108",
     "name": "Plain Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1414,7 +1512,7 @@
     "total": 11
   },
   {
-    "id": "B102",
+    "id": "B109",
     "name": "Smooth Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1428,7 +1526,7 @@
     "total": 26
   },
   {
-    "id": "B103",
+    "id": "B110",
     "name": "Umbrella Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1442,7 +1540,7 @@
     "total": 24
   },
   {
-    "id": "B104",
+    "id": "B111",
     "name": "Forest Team Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1456,7 +1554,7 @@
     "total": 41
   },
   {
-    "id": "B105",
+    "id": "B112",
     "name": "Rose Griffon Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1470,7 +1568,7 @@
     "total": 23
   },
   {
-    "id": "B106",
+    "id": "B113",
     "name": "Cape Crusaders Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1484,7 +1582,7 @@
     "total": 23
   },
   {
-    "id": "B107",
+    "id": "B114",
     "name": "Ivy Selective Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1498,7 +1596,7 @@
     "total": 10
   },
   {
-    "id": "B108",
+    "id": "B115",
     "name": "Northern Fang Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1512,7 +1610,7 @@
     "total": 42
   },
   {
-    "id": "B109",
+    "id": "B116",
     "name": "The Despairadoes Shoes",
     "type": "Boots",
     "shop": "VS",
@@ -1526,7 +1624,7 @@
     "total": 41
   },
   {
-    "id": "B110",
+    "id": "B117",
     "name": "Inazuma Another National Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1540,7 +1638,7 @@
     "total": 23
   },
   {
-    "id": "B111",
+    "id": "B118",
     "name": "Earth Eleven Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1554,7 +1652,7 @@
     "total": 9
   },
   {
-    "id": "B112",
+    "id": "B119",
     "name": "Big Waves Boots (GO3)",
     "type": "Boots",
     "shop": "VS",
@@ -1568,7 +1666,7 @@
     "total": 9
   },
   {
-    "id": "B113",
+    "id": "B120",
     "name": "Muay Tigers Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1582,7 +1680,7 @@
     "total": 10
   },
   {
-    "id": "B114",
+    "id": "B121",
     "name": "Silica Eleven Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1596,7 +1694,7 @@
     "total": 22
   },
   {
-    "id": "B115",
+    "id": "B122",
     "name": "Magmavia Eleven Boots",
     "type": "Boots",
     "shop": "VS",
@@ -1610,7 +1708,7 @@
     "total": 26
   },
   {
-    "id": "B116",
+    "id": "B123",
     "name": "Supernova Shoes",
     "type": "Boots",
     "shop": "VS",
@@ -1624,7 +1722,105 @@
     "total": 44
   },
   {
-    "id": "B117",
+    "id": "B124",
+    "name": "Backwater Raimon Shoes",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 5,
+    "control": 0,
+    "technique": 3,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 8
+  },
+  {
+    "id": "B125",
+    "name": "Kirkwood Boots (Ares)",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 15,
+    "control": 12,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 27
+  },
+  {
+    "id": "B126",
+    "name": "Royal Boots (Ares)",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 12,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 10,
+    "total": 22
+  },
+  {
+    "id": "B127",
+    "name": "Zeus Shoes (Ares)",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 20,
+    "physical": 0,
+    "intelligence": 18,
+    "agility": 0,
+    "total": 38
+  },
+  {
+    "id": "B128",
+    "name": "Alia Boots",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 0,
+    "control": 0,
+    "technique": 22,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 18,
+    "total": 40
+  },
+  {
+    "id": "B129",
+    "name": "Everytown Boots",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 0,
+    "control": 0,
+    "technique": 0,
+    "pressure": 0,
+    "physical": 21,
+    "intelligence": 0,
+    "agility": 23,
+    "total": 44
+  },
+  {
+    "id": "B130",
+    "name": "Green Hill Boots",
+    "type": "Boots",
+    "shop": "VS",
+    "kick": 0,
+    "control": 12,
+    "technique": 10,
+    "pressure": 0,
+    "physical": 0,
+    "intelligence": 0,
+    "agility": 0,
+    "total": 22
+  },
+  {
+    "id": "B131",
     "name": "Spiketail Boots",
     "type": "Boots",
     "shop": "Spirit",
@@ -1638,7 +1834,7 @@
     "total": 70
   },
   {
-    "id": "B118",
+    "id": "B132",
     "name": "Imperial Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1652,7 +1848,7 @@
     "total": 17
   },
   {
-    "id": "B119",
+    "id": "B133",
     "name": "Beta Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1666,7 +1862,7 @@
     "total": 17
   },
   {
-    "id": "B120",
+    "id": "B134",
     "name": "Turtle Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1680,7 +1876,7 @@
     "total": 18
   },
   {
-    "id": "B121",
+    "id": "B135",
     "name": "Destiny Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1694,7 +1890,7 @@
     "total": 17
   },
   {
-    "id": "B122",
+    "id": "B136",
     "name": "Adamant Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1708,7 +1904,7 @@
     "total": 17
   },
   {
-    "id": "B123",
+    "id": "B137",
     "name": "Bond Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1722,7 +1918,7 @@
     "total": 17
   },
   {
-    "id": "B124",
+    "id": "B138",
     "name": "Hero Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1736,7 +1932,7 @@
     "total": 17
   },
   {
-    "id": "B125",
+    "id": "B139",
     "name": "Moonlight Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1750,7 +1946,7 @@
     "total": 26
   },
   {
-    "id": "B126",
+    "id": "B140",
     "name": "Demonic Twilight Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1764,7 +1960,7 @@
     "total": 26
   },
   {
-    "id": "B127",
+    "id": "B141",
     "name": "Valiance Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1778,7 +1974,7 @@
     "total": 26
   },
   {
-    "id": "B128",
+    "id": "B142",
     "name": "CHAMP-ON Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1792,7 +1988,7 @@
     "total": 16
   },
   {
-    "id": "B129",
+    "id": "B143",
     "name": "Ninja Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1806,7 +2002,7 @@
     "total": 7
   },
   {
-    "id": "B130",
+    "id": "B144",
     "name": "Running Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1820,7 +2016,7 @@
     "total": 7
   },
   {
-    "id": "B131",
+    "id": "B145",
     "name": "Groovy Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1834,7 +2030,7 @@
     "total": 7
   },
   {
-    "id": "B132",
+    "id": "B146",
     "name": "Green Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1848,7 +2044,7 @@
     "total": 7
   },
   {
-    "id": "B133",
+    "id": "B147",
     "name": "Aerobics Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1862,7 +2058,7 @@
     "total": 7
   },
   {
-    "id": "B134",
+    "id": "B148",
     "name": "Sleek Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1876,7 +2072,7 @@
     "total": 7
   },
   {
-    "id": "B135",
+    "id": "B149",
     "name": "Arcade Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1890,7 +2086,7 @@
     "total": 7
   },
   {
-    "id": "B136",
+    "id": "B150",
     "name": "Trendy Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1904,7 +2100,7 @@
     "total": 7
   },
   {
-    "id": "B137",
+    "id": "B151",
     "name": "Discipline Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1918,7 +2114,7 @@
     "total": 6
   },
   {
-    "id": "B138",
+    "id": "B152",
     "name": "Fiery Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1932,7 +2128,7 @@
     "total": 11
   },
   {
-    "id": "B139",
+    "id": "B153",
     "name": "Vanguard Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1946,7 +2142,7 @@
     "total": 11
   },
   {
-    "id": "B140",
+    "id": "B154",
     "name": "Princess Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1960,7 +2156,7 @@
     "total": 11
   },
   {
-    "id": "B141",
+    "id": "B155",
     "name": "Ambition Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1974,7 +2170,7 @@
     "total": 10
   },
   {
-    "id": "B142",
+    "id": "B156",
     "name": "Prince Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -1988,7 +2184,7 @@
     "total": 6
   },
   {
-    "id": "B143",
+    "id": "B157",
     "name": "Safety Shoes",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -2002,7 +2198,7 @@
     "total": 11
   },
   {
-    "id": "B144",
+    "id": "B158",
     "name": "Glacier Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -2016,7 +2212,7 @@
     "total": 11
   },
   {
-    "id": "B145",
+    "id": "B159",
     "name": "Stallion Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -2030,7 +2226,7 @@
     "total": 11
   },
   {
-    "id": "B146",
+    "id": "B160",
     "name": "Alpha Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -2044,7 +2240,7 @@
     "total": 11
   },
   {
-    "id": "B147",
+    "id": "B161",
     "name": "Fated Boots",
     "type": "Boots",
     "shop": "Kool Kit (Odaiba Branch)",
@@ -2058,7 +2254,7 @@
     "total": 17
   },
   {
-    "id": "B148",
+    "id": "B162",
     "name": "Stalwart Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2072,7 +2268,7 @@
     "total": 7
   },
   {
-    "id": "B149",
+    "id": "B163",
     "name": "Shopkeeper's Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2086,7 +2282,7 @@
     "total": 8
   },
   {
-    "id": "B150",
+    "id": "B164",
     "name": "Seagull FC Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2100,7 +2296,7 @@
     "total": 7
   },
   {
-    "id": "B151",
+    "id": "B165",
     "name": "Flying Squirrel Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2114,7 +2310,7 @@
     "total": 7
   },
   {
-    "id": "B152",
+    "id": "B166",
     "name": "Nagumohara Baseball Club Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2128,7 +2324,7 @@
     "total": 7
   },
   {
-    "id": "B153",
+    "id": "B167",
     "name": "Homerun Cleats",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2142,7 +2338,7 @@
     "total": 7
   },
   {
-    "id": "B154",
+    "id": "B168",
     "name": "Lucky Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2156,7 +2352,7 @@
     "total": 11
   },
   {
-    "id": "B155",
+    "id": "B169",
     "name": "Twinford Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2170,7 +2366,7 @@
     "total": 6
   },
   {
-    "id": "B156",
+    "id": "B170",
     "name": "West Manor Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2184,7 +2380,7 @@
     "total": 11
   },
   {
-    "id": "B157",
+    "id": "B171",
     "name": "Challenger Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2198,7 +2394,7 @@
     "total": 11
   },
   {
-    "id": "B158",
+    "id": "B172",
     "name": "Violet Sunrise Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2212,7 +2408,7 @@
     "total": 11
   },
   {
-    "id": "B159",
+    "id": "B173",
     "name": "Orchid Academy Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2226,7 +2422,7 @@
     "total": 18
   },
   {
-    "id": "B160",
+    "id": "B174",
     "name": "Northbright Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2240,7 +2436,7 @@
     "total": 10
   },
   {
-    "id": "B161",
+    "id": "B175",
     "name": "Steadfast Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2254,7 +2450,7 @@
     "total": 11
   },
   {
-    "id": "B162",
+    "id": "B176",
     "name": "Geta Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2268,7 +2464,7 @@
     "total": 11
   },
   {
-    "id": "B163",
+    "id": "B177",
     "name": "Crosswind-Fauxshore Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2282,7 +2478,7 @@
     "total": 11
   },
   {
-    "id": "B164",
+    "id": "B178",
     "name": "Eastwind International Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2296,7 +2492,7 @@
     "total": 11
   },
   {
-    "id": "B165",
+    "id": "B179",
     "name": "Scorching Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2310,7 +2506,7 @@
     "total": 11
   },
   {
-    "id": "B166",
+    "id": "B180",
     "name": "Pegasus Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2324,7 +2520,7 @@
     "total": 17
   },
   {
-    "id": "B167",
+    "id": "B181",
     "name": "Setta Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2338,7 +2534,7 @@
     "total": 12
   },
   {
-    "id": "B168",
+    "id": "B182",
     "name": "Orderly Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2352,7 +2548,7 @@
     "total": 17
   },
   {
-    "id": "B169",
+    "id": "B183",
     "name": "Back Alley Kickers Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2366,7 +2562,7 @@
     "total": 8
   },
   {
-    "id": "B170",
+    "id": "B184",
     "name": "Stormridge Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2380,7 +2576,7 @@
     "total": 17
   },
   {
-    "id": "B171",
+    "id": "B185",
     "name": "Tech Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2394,7 +2590,7 @@
     "total": 17
   },
   {
-    "id": "B172",
+    "id": "B186",
     "name": "Champon Spikes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2408,7 +2604,7 @@
     "total": 26
   },
   {
-    "id": "B173",
+    "id": "B187",
     "name": "Victory Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2422,7 +2618,7 @@
     "total": 26
   },
   {
-    "id": "B174",
+    "id": "B188",
     "name": "Achilles Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2436,7 +2632,7 @@
     "total": 17
   },
   {
-    "id": "B175",
+    "id": "B189",
     "name": "Shinobi Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2450,7 +2646,7 @@
     "total": 18
   },
   {
-    "id": "B176",
+    "id": "B190",
     "name": "Dashing Cleats",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2464,7 +2660,7 @@
     "total": 17
   },
   {
-    "id": "B177",
+    "id": "B191",
     "name": "Tactical Royal Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2478,7 +2674,7 @@
     "total": 18
   },
   {
-    "id": "B178",
+    "id": "B192",
     "name": "Raimon King Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2492,7 +2688,7 @@
     "total": 25
   },
   {
-    "id": "B179",
+    "id": "B193",
     "name": "Regal Shoes",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2506,7 +2702,7 @@
     "total": 26
   },
   {
-    "id": "B180",
+    "id": "B194",
     "name": "Solaria-Zeus Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2520,7 +2716,7 @@
     "total": 26
   },
   {
-    "id": "B181",
+    "id": "B195",
     "name": "Noble Insight Institute Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2534,7 +2730,7 @@
     "total": 16
   },
   {
-    "id": "B182",
+    "id": "B196",
     "name": "Lawcrest Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2548,7 +2744,7 @@
     "total": 18
   },
   {
-    "id": "B183",
+    "id": "B197",
     "name": "AI Academy Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2562,7 +2758,7 @@
     "total": 18
   },
   {
-    "id": "B184",
+    "id": "B198",
     "name": "Alpine Boots (V)",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2576,7 +2772,7 @@
     "total": 16
   },
   {
-    "id": "B185",
+    "id": "B199",
     "name": "CHAMP-ON Kicks",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2590,7 +2786,7 @@
     "total": 7
   },
   {
-    "id": "B186",
+    "id": "B200",
     "name": "Nagumohara Boots",
     "type": "Boots",
     "shop": "Special Training Booth",
@@ -2604,7 +2800,7 @@
     "total": 7
   },
   {
-    "id": "B187",
+    "id": "B201",
     "name": "New CHAMP-ON Kicks",
     "type": "Boots",
     "shop": "Special Training Booth",
