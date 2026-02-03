@@ -12,11 +12,33 @@ import { useTranslations } from "next-intl";
 import { useEffect, useMemo, useRef, useState } from "react";
 import ElementIcon from "@/components/ElementIcon";
 import Select from "@/components/Select";
-import fabledData from "@/data/fabled.json";
+import fabledJson from "@/data/fabled.json";
 import { getPositionStyle } from "@/lib/constants";
 import { useSettings } from "@/lib/store";
 
-type Fabled = (typeof fabledData)[number];
+type Fabled = {
+  id: number;
+  name: string;
+  nameJp: string;
+  image: string;
+  gender: string;
+  position: string;
+  altPosition: string;
+  element: string;
+  moveset: string[];
+  altMoveset: string[];
+  first3: string[];
+  kick: number;
+  control: number;
+  technique: number;
+  pressure: number;
+  physical: number;
+  agility: number;
+  intelligence: number;
+  total: number;
+};
+
+const fabled = fabledJson as Fabled[];
 type SortKey =
   | "name"
   | "total"
@@ -29,10 +51,10 @@ type SortKey =
   | "intelligence";
 type SortDir = "asc" | "desc";
 
-const POSITIONS = [...new Set(fabledData.map((f) => f.position))]
+const POSITIONS = [...new Set(fabled.map((f) => f.position))]
   .filter(Boolean)
   .sort();
-const ELEMENTS = [...new Set(fabledData.map((f) => f.element))]
+const ELEMENTS = [...new Set(fabled.map((f) => f.element))]
   .filter(Boolean)
   .sort();
 const VISIBLE_COUNT = 40;
@@ -51,7 +73,7 @@ export default function FabledPage() {
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase().trim();
-    return fabledData.filter((f) => {
+    return fabled.filter((f) => {
       if (position !== "all" && f.position !== position) return false;
       if (element !== "all" && f.element !== element) return false;
       if (
