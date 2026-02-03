@@ -615,9 +615,16 @@ async function syncHeroList(
 ) {
   console.log("\n[Hero List]");
   const rows = await fetchSheet("Hero");
+  const seen = new Set<string>();
   const heroes = rows
     .slice(1)
-    .filter((r) => r[3])
+    .filter((r) => r[3] && r[3] !== "#N/A")
+    .filter((r) => {
+      const name = r[3];
+      if (seen.has(name)) return false;
+      seen.add(name);
+      return true;
+    })
     .map((r, i) => {
       const inagleId = r[0] || "";
       const name = r[3] || "";
@@ -668,60 +675,67 @@ async function syncFabledList(
 ) {
   console.log("\n[Fabled List]");
   const rows = await fetchSheet("Basara");
-  const fabled = rows
-    .slice(1)
-    .filter((r) => r[3])
-    .map((r, i) => {
-      const inagleId = r[0] || "";
-      const name = r[3] || "";
-      const nameJp = r[2] || "";
-      const moveset = (r[8] || "")
-        .split(/\n/)
-        .map((m: string) => m.trim())
-        .filter(Boolean);
-      const altMoveset = (r[9] || "")
-        .split(/\n/)
-        .map((m: string) => m.trim())
-        .filter(Boolean);
-      const first3 = (r[10] || "")
-        .split(/\n/)
-        .map((m: string) => m.trim())
-        .filter(Boolean);
-      const image =
-        charImages.byId.get(inagleId) ||
-        charImages.byName.get(name.toLowerCase()) ||
-        charImages.byName.get(nameJp.toLowerCase()) ||
-        playerImages.get(name.toLowerCase()) ||
-        "";
-      return {
-        id: i + 1,
-        name,
-        nameJp,
-        image,
-        gender: r[4]?.includes("Male") ? "Male" : "Female",
-        position: cleanPosition(r[5]),
-        altPosition: cleanPosition(r[6]),
-        element: cleanElement(r[7]),
-        moveset,
-        altMoveset,
-        first3,
-        kick: toNumber(r[11]),
-        control: toNumber(r[12]),
-        technique: toNumber(r[13]),
-        pressure: toNumber(r[14]),
-        physical: toNumber(r[15]),
-        agility: toNumber(r[16]),
-        intelligence: toNumber(r[17]),
-        total:
-          toNumber(r[11]) +
-          toNumber(r[12]) +
-          toNumber(r[13]) +
-          toNumber(r[14]) +
-          toNumber(r[15]) +
-          toNumber(r[16]) +
-          toNumber(r[17]),
-      };
-    });
+  const grouped: { main: string[]; passives: string[] }[] = [];
+  for (const r of rows.slice(1)) {
+    if (r[3] && r[3] !== "#N/A") {
+      grouped.push({ main: r, passives: [] });
+    } else if (grouped.length > 0 && r[10]) {
+      grouped[grouped.length - 1].passives.push(r[10]);
+    }
+  }
+  const fabled = grouped.map((g, i) => {
+    const r = g.main;
+    const inagleId = r[0] || "";
+    const name = r[3] || "";
+    const nameJp = r[2] || "";
+    const moveset = (r[8] || "")
+      .split(/\n/)
+      .map((m: string) => m.trim())
+      .filter(Boolean);
+    const altMoveset = (r[9] || "")
+      .split(/\n/)
+      .map((m: string) => m.trim())
+      .filter(Boolean);
+    const mainPassive = (r[10] || "")
+      .split(/\n/)
+      .map((m: string) => m.trim())
+      .filter(Boolean);
+    const first3 = [...mainPassive, ...g.passives];
+    const image =
+      charImages.byId.get(inagleId) ||
+      charImages.byName.get(name.toLowerCase()) ||
+      charImages.byName.get(nameJp.toLowerCase()) ||
+      playerImages.get(name.toLowerCase()) ||
+      "";
+    return {
+      id: i + 1,
+      name,
+      nameJp,
+      image,
+      gender: r[4]?.includes("Male") ? "Male" : "Female",
+      position: cleanPosition(r[5]),
+      altPosition: cleanPosition(r[6]),
+      element: cleanElement(r[7]),
+      moveset,
+      altMoveset,
+      first3,
+      kick: toNumber(r[11]),
+      control: toNumber(r[12]),
+      technique: toNumber(r[13]),
+      pressure: toNumber(r[14]),
+      physical: toNumber(r[15]),
+      agility: toNumber(r[16]),
+      intelligence: toNumber(r[17]),
+      total:
+        toNumber(r[11]) +
+        toNumber(r[12]) +
+        toNumber(r[13]) +
+        toNumber(r[14]) +
+        toNumber(r[15]) +
+        toNumber(r[16]) +
+        toNumber(r[17]),
+    };
+  });
   saveJSON("fabled.json", fabled);
 }
 

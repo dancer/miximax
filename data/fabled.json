@@ -25,7 +25,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -62,7 +64,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 158,
     "control": 156,
@@ -99,7 +103,9 @@
       "Instant Burst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -136,7 +142,9 @@
       "Instant Burst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -173,7 +181,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -210,7 +220,9 @@
       "Lancelot"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -247,7 +259,9 @@
       "White Wyvern"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -284,7 +298,9 @@
       "Black Butcher"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -321,7 +337,9 @@
       "Mix 'n' Match: Big"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 158,
     "control": 156,
@@ -358,7 +376,9 @@
       "Feng-Huang"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -395,7 +415,9 @@
       "Athene"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -432,7 +454,9 @@
       "Lycaon"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -469,7 +493,9 @@
       "Mix 'n' Match: Zeta"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -506,7 +532,9 @@
       "Mix 'n' Match: S Gene"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -543,7 +571,9 @@
       "Victory Genie"
     ],
     "first3": [
-      "For nearby players, Shot AT +3.5%"
+      "For nearby players, Shot AT +3.5%",
+      "For nearby players, Castle Wall DF +3.5%",
+      "When a player of a the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 158,
     "control": 156,
@@ -580,7 +610,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "For players of the same element, Shot AT +3.5%"
+      "For players of the same element, Shot AT +3.5%",
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -617,7 +649,9 @@
       "Griffin"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 139,
     "control": 160,
@@ -654,7 +688,9 @@
       "Instant Burst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -691,7 +727,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -728,7 +766,9 @@
       "Instant Burst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -765,7 +805,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -802,7 +844,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -839,7 +883,9 @@
       "Maestro"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Castle Wall DF +7%",
+      "When a player of the same element is nearby, Own Focus AT & DF +8%"
     ],
     "kick": 144,
     "control": 156,
@@ -876,7 +922,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 123,
     "control": 129,
@@ -913,7 +961,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 123,
     "control": 129,
@@ -950,7 +1000,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 123,
     "control": 129,
@@ -987,7 +1039,9 @@
       "Mix 'n' Match: Q. Dragons"
     ],
     "first3": [
-      "When a player of the same element is nearby, Own Castle Wall DF +7%"
+      "When a player of the same element is nearby, Own Castle Wall DF +7%",
+      "When a player of the same element is nearby, Own Shot AT +8%",
+      "On your half of the pitch, Own Focus AT & DF +7%"
     ],
     "kick": 123,
     "control": 129,
@@ -1024,7 +1078,9 @@
       "Mix 'n' Match: Joan"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 123,
     "control": 129,
@@ -1061,7 +1117,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "For players of the same element, Castle Wall DF +1.5%"
+      "For players of the same element, Castle Wall DF +1.5%",
+      "For nearby players, Shot AT +3.5%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1098,7 +1156,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1135,7 +1195,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "For players of the same element, Castle Wall DF +1.5%"
+      "For players of the same element, Castle Wall DF +1.5%",
+      "For nearby players, Shot AT +3.5%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1172,7 +1234,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1209,7 +1273,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1246,7 +1312,9 @@
       "White King"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1283,7 +1351,9 @@
       "Mix 'n' Match: Liu Bei"
     ],
     "first3": [
-      "For nearby players, Castle Wall DF +3.5%"
+      "For nearby players, Castle Wall DF +3.5%",
+      "On your half of the pitch, Own Focus AT & DF +7%",
+      "For players of different elements, Castle Wall DF +1%"
     ],
     "kick": 123,
     "control": 135,
@@ -1320,7 +1390,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1357,7 +1429,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 123,
     "control": 129,
@@ -1394,7 +1468,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1431,7 +1507,9 @@
       "Falcon Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1468,7 +1546,9 @@
       "Ixaal Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1505,7 +1585,9 @@
       "Dragnova Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1542,7 +1624,9 @@
       "Gryphbang Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1579,7 +1663,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1616,7 +1702,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1653,7 +1741,9 @@
       "Pelion Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1690,7 +1780,9 @@
       "Belion Totem"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -1727,7 +1819,9 @@
       "Instant Burst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 139,
     "control": 160,
@@ -1764,7 +1858,9 @@
       "Mammoth Totem"
     ],
     "first3": [
-      "For players of different elements, Castle Wall DF +1%"
+      "For players of different elements, Castle Wall DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 123,
     "control": 135,
@@ -1801,7 +1897,9 @@
       "Grizzly Totem"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Castle Wall DF +7%",
+      "When a player of the same element is nearby, Own Focus AT & DF +8%"
     ],
     "kick": 139,
     "control": 160,
@@ -1838,7 +1936,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Castle Wall DF +7%",
+      "When a player of the same element is nearby, Own Focus AT & DF +8%"
     ],
     "kick": 139,
     "control": 160,
@@ -1875,7 +1975,9 @@
       "Phoenichias Totem"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 144,
     "control": 156,
@@ -1912,7 +2014,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -1949,7 +2053,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "For players of the same element, Shot AT +3.5%"
+      "For players of the same element, Shot AT +3.5%",
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -1986,7 +2092,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "For players of the same element, Shot AT +3.5%"
+      "For players of the same element, Shot AT +3.5%",
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -2023,7 +2131,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "For players of the same position, Shot AT +3.5%"
+      "For players of the same position, Shot AT +3.5%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 174,
     "control": 165,
@@ -2060,7 +2170,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "For players of the same element, Shot AT +3.5%"
+      "For players of the same element, Shot AT +3.5%",
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 174,
     "control": 165,
@@ -2097,7 +2209,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 129,
     "control": 135,
@@ -2135,7 +2249,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "For nearby players, Shot AT +3.5%"
+      "For nearby players, Shot AT +3.5%",
+      "For nearby players, Castle Wall DF +3.5%",
+      "When a player of a the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -2172,7 +2288,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "On the opposition's half of the pitch, Own Shot AT +8%",
+      "When a player of a different element is nearby, Own Focus AT & DF +7%"
     ],
     "kick": 150,
     "control": 160,
@@ -2209,7 +2327,9 @@
       "Elemental Catalyst"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Castle Wall DF +7%",
+      "When a player of the same element is nearby, Own Focus AT & DF +8%"
     ],
     "kick": 150,
     "control": 160,
@@ -2246,7 +2366,9 @@
       "Ironclad Guardian"
     ],
     "first3": [
-      "On your half of the pitch, Team Focus AT & DF +1%"
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "For nearby players, Focus AT & DF +2%",
+      "When a player of a different element is nearby, Own Castle Wall DF +5%"
     ],
     "kick": 129,
     "control": 135,
@@ -2283,7 +2405,9 @@
       "Keeper's Grit"
     ],
     "first3": [
-      "For players of the same element, Castle Wall DF +1.5%"
+      "For players of the same element, Castle Wall DF +1.5%",
+      "For nearby players, Shot AT +3.5%",
+      "For nearby players, Castle Wall DF +3.5%"
     ],
     "kick": 129,
     "control": 139,
@@ -2320,7 +2444,9 @@
       "Burning Overdrive"
     ],
     "first3": [
-      "For players of the same element, Shot AT +3.5%"
+      "For players of the same element, Shot AT +3.5%",
+      "On your half of the pitch, Team Focus AT & DF +1%",
+      "When a player of the same element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
