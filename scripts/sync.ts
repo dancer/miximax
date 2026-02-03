@@ -614,7 +614,7 @@ async function syncHeroList(
   playerImages: Map<string, string>,
 ) {
   console.log("\n[Hero List]");
-  const rows = await fetchSheet("Hero List");
+  const rows = await fetchSheet("Hero");
   const heroes = rows
     .slice(1)
     .filter((r) => r[3])
@@ -635,7 +635,7 @@ async function syncHeroList(
       return {
         id: i + 1,
         name,
-        nameJp: r[2] || "",
+        nameJp,
         image,
         gender: r[4]?.includes("Male") ? "Male" : "Female",
         position: cleanPosition(r[5]),
@@ -667,7 +667,7 @@ async function syncFabledList(
   playerImages: Map<string, string>,
 ) {
   console.log("\n[Fabled List]");
-  const rows = await fetchSheet("Basara List");
+  const rows = await fetchSheet("Basara");
   const fabled = rows
     .slice(1)
     .filter((r) => r[3])
@@ -696,7 +696,7 @@ async function syncFabledList(
       return {
         id: i + 1,
         name,
-        nameJp: r[2] || "",
+        nameJp,
         image,
         gender: r[4]?.includes("Male") ? "Male" : "Female",
         position: cleanPosition(r[5]),
