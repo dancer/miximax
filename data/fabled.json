@@ -612,7 +612,7 @@
     "first3": [
       "For players of the same element, Shot AT +3.5%",
       "On your half of the pitch, Team Focus AT & DF +1%",
-      "When a player of the same element is nearby, Own Shot AT +8%"
+      "When a player of a different element is nearby, Own Shot AT +8%"
     ],
     "kick": 168,
     "control": 160,
@@ -2055,7 +2055,7 @@
     "first3": [
       "For players of the same element, Shot AT +3.5%",
       "On your half of the pitch, Team Focus AT & DF +1%",
-      "When a player of the same element is nearby, Own Shot AT +8%"
+      "When a player of a different element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -2094,7 +2094,7 @@
     "first3": [
       "For players of the same element, Shot AT +3.5%",
       "On your half of the pitch, Team Focus AT & DF +1%",
-      "When a player of the same element is nearby, Own Shot AT +8%"
+      "When a player of a different element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
@@ -2172,7 +2172,7 @@
     "first3": [
       "For players of the same element, Shot AT +3.5%",
       "On your half of the pitch, Team Focus AT & DF +1%",
-      "When a player of the same element is nearby, Own Shot AT +8%"
+      "When a player of a different element is nearby, Own Shot AT +8%"
     ],
     "kick": 174,
     "control": 165,
@@ -2446,7 +2446,7 @@
     "first3": [
       "For players of the same element, Shot AT +3.5%",
       "On your half of the pitch, Team Focus AT & DF +1%",
-      "When a player of the same element is nearby, Own Shot AT +8%"
+      "When a player of a different element is nearby, Own Shot AT +8%"
     ],
     "kick": 164,
     "control": 160,
